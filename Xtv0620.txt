@@ -2,7 +2,7 @@
 CCTV13HD,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
-香港,#genre#
+香港直播,#genre#
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -33,7 +33,7 @@ Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
-台湾,#genre#
+台湾直播,#genre#
 中视,rtmp://59.124.75.130/sat/tv091
 华视,rtmp://59.124.75.130/sat/tv111
 台视,rtmp://59.124.75.130/sat/tv071
@@ -52,7 +52,7 @@ Astro 双星 ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 全佳 ᴴᴰ,http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 新传媒U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 
-新闻,#genre#
+台湾新闻,#genre#
 TVBS新聞,rtmp://59.124.75.130/sat/tv551
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
@@ -67,12 +67,12 @@ TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 
-体育,#genre#
+体育频道,#genre#
 
-CCTV-5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
-CCTV-5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
+CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-CCTV-5+时移,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 博斯魅力网,rtmp://59.124.75.130/sat/md042
 爱尔达体育2,rtmp://59.124.75.130/sat/md011
 纬来体育台,rtmp://59.124.75.130/sat/tv721
@@ -88,13 +88,11 @@ ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 
-海外,#genre#
+海外直播,#genre#
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家乐活,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
-TVN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-TVN,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
-TVNMovie,http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-SBSStar,https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+tvN,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 HBOHD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 HBOHD,https://gratismkctv.net/film/hbo.m3u8
 HBOHD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
@@ -112,6 +110,8 @@ AnimaxHD,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+TVNMovie,http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+SBSStar,https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 Sony ONE185,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 KBS World50,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
@@ -170,7 +170,7 @@ CCM,http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 ONE,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 
 
-轮播,#genre#
+电影轮播,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 科幻电影,http://121.12.115.15/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
 武侠电影,http://121.12.115.15/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8
