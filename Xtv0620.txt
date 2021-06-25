@@ -20,18 +20,19 @@ CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 香港直播,#genre#
 翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
-翡翠台81,https://cdn.hkdtmb.com/hls/81/index.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+J2,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
+J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts#p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts
+明珠台,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
-无线财经,https://cdn.hkdtmb.com/hls/85/index.m3u8
+无线新闻,p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
+无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
 有线18rtmp://59.124.75.130/sat/hk042
 有线新闻台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-Viu TV 6,https://cdn.hkdtmb.com/hls/96/index.m3u8
+Viu TV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
+Viu TV 6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 天映电影2,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
@@ -52,18 +53,22 @@ Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
 台湾直播,#genre#
+tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
 中视,rtmp://59.124.75.130/sat/tv091
 华视,rtmp://59.124.75.130/sat/tv111
 台视,rtmp://59.124.75.130/sat/tv071
 民视,rtmp://59.124.75.130/sat/tv051
 TVBS欢乐台,rtmp://59.124.75.130/sat/tv421
 TVBS欢乐台,rtmp://59.124.75.130:1935/sat/tv421
+中天综合台,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts#p2p://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts#http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8,p2p://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
 纬来育乐台,rtmp://59.124.75.130/sat/tv701
 纬来育乐台,rtmp://59.124.75.130/sat/tv702
 纬来育乐台,rtmp://59.124.75.130:1935/sat/tv701
 纬来日本台,rtmp://59.124.75.130:1935/sat/tv521
 纬来日本台,rtmp://59.124.75.130/sat/tv522
+国兴卫视,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts#p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.tsZ频道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts#p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts
 东森超视,rtmp://59.124.75.130/sat/tv771
+中华美食,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 Astro AEC ᴴᴰ,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 Astro 欢喜 ᴴᴰhttp://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 Astro 双星 ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -107,6 +112,7 @@ WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 
 海外直播,#genre#
+
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家乐活,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
