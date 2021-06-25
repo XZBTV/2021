@@ -1,17 +1,3 @@
-电影频道,#genre#
-星卫HD电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
-卫视电影台,p2p://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228
-卫视西片,p2p://fccsovh.pvbox.live:18912/5b14098f00030ea4e4819ab008113231#p2p://fccseuro.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
-东森电影台,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231#p2p://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7#p2p://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
-东森洋片台,p2p://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef#p2p://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef
-美亚高清电影台,p2p://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735#p2p://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52#p2p://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735
-龙华洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e#p2p://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e
-e:18912/5b14096a000a35a138bfced0badeee87
-纬来电影台,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75#p2p://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9#p2p://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
-HBOHD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts#p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts#p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
-HBO強檔,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.tsHBO原創,p2p://fccsovh.pvbox.live:18912/5b14096a000a35a138bfced0badeee87.ts#p2p://fccseuro.pvbox.live:18912/5c7249f30006ed2f1d5864de52e5054e.ts#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87.ts
-CCTV6,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
-好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
 
 香港直播,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
@@ -76,8 +62,6 @@ Astro 欢喜 ᴴᴰhttp://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 Astro 双星 ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 全佳 ᴴᴰ,http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
 新传媒U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-
-台湾新闻,#genre#
 TVBS新闻台,rtmp://59.124.75.130/sat/tv551
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
@@ -91,6 +75,21 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
 民视新闻台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
+
+电影频道,#genre#
+星卫HD电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
+卫视电影台,p2p://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228
+卫视西片,p2p://fccsovh.pvbox.live:18912/5b14098f00030ea4e4819ab008113231#p2p://fccseuro.pvbox.live:18912/5b14098f00030ea4e4819ab008113231
+东森电影台,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231#p2p://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7#p2p://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231
+东森洋片台,p2p://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef#p2p://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef
+美亚高清电影台,p2p://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735#p2p://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52#p2p://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735
+龙华洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e#p2p://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e
+e:18912/5b14096a000a35a138bfced0badeee87
+纬来电影台,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75#p2p://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9#p2p://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
+HBOHD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts#p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts#p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+HBOHits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p://fccseuro.pvbox.live:18912/5c7249ee000f145b1d5853691cf1378b.ts#p2p://fccseuro.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts
+CCTV6,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
+好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
 
 体育频道,#genre#
 
@@ -114,9 +113,6 @@ WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 
 
 海外直播,#genre#
-
-HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-HGTV居家乐活,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvN,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 HBOHD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -187,7 +183,6 @@ Thrill,http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 AXN HD,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 AXN,http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 TLC,http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-
 AFN,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 HITS,http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 HITS MOVIES,http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
