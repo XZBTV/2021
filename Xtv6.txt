@@ -1,5 +1,5 @@
 X直播電視台 youtube
-香港★頻道,#genre#
+香港©頻道,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
@@ -12,14 +12,12 @@ TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 无线新闻,p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
 无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
-有线18,rtmp://59.124.75.130/sat/hk042
-有线新闻台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-Viu TV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-Viu TV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
-Viu TV 6,https://cdn.hkdtmb.com/hls/96/index.m3u8
-Viu TV 6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
+ViuTV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
+ViuTV6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 天映电影2,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
@@ -39,7 +37,7 @@ Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
-台灣★頻道,#genre#
+台灣©頻道,#genre#
 tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
 中视,p2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#p2p://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts
 中视,rtmp://59.124.75.130/sat/tv091
@@ -87,7 +85,7 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民视新闻台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 
-電影★頻道,#genre#
+電影©頻道,#genre#
 星卫HD电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
 星卫HD电影,p2p://fccsovh.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts#p2p://fccseuro.pvbox.live:18912/5c724a05000626a61d58aaff0c3f3175.ts#p2p://fccseuro.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts
 卫视电影台,p2p://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228
@@ -103,7 +101,7 @@ HBOHits,p2p://fccsovh.pvbox.live:18912/5b14096900084dd9f1fd0c339f1f8d52.ts#p2p:/
 CCTV6,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
 好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
 
-體育◆頻道,#genre#
+體育©頻道,#genre#
 CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
 CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
