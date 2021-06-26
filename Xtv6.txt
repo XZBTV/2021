@@ -115,6 +115,7 @@ CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
 CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+博斯运动一台,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
 博斯魅力网,rtmp://59.124.75.130/sat/md042
 爱尔达体育,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
 爱尔达体育2,rtmp://59.124.75.130/sat/md011
