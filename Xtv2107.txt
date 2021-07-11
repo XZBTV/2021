@@ -64,23 +64,11 @@ ViuTV6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p:/
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
 台灣©頻道,#genre#
-民視第一台HD,http://www.ubvip1688.com/ublive/5b53fe51d6f96db0.m3u8
-民視,http://www.ubvip1688.com/ublive/f56cdbb716f9e0af.m3u8
-民視台湾台,http://www.ubvip1688.com/ublive/1572702e86ad74c5.m3u8
-中视,http://www.ubvip1688.com/ublive/189236c85a9e18b9.m3u8
-中视经典,http://www.ubvip1688.com/ublive/287c5e7f1ad636df.m3u8
-中视菁彩,http://www.ubvip1688.com/ublive/0dbbcc64bbfeda67.m3u8
-华视,http://www.ubvip1688.com/ublive/636da9c9179ac2bb.m3u8
-台视,http://www.ubvip1688.com/ublive/632b4e0cd23855e4.m3u8
-TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-TVB互動新聞,http://198.16.106.62:8278/inews_twn/playlist.m3u8?tid=m02000000000015903088&ct=18001&tsum=6eeaca6d11a1352c9a8022edabd0f65e
-
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家乐活,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
@@ -103,15 +91,6 @@ TVBS欢乐台,p2p://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af.ts
 中天综合台,http://198.16.106.62:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天综合台,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts#p2p://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts#http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8,p2p://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts
 中天娱乐台,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
-
-
-
-
-
-
-
-
-
 三立综合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立台湾台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 三立台湾台,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
@@ -138,8 +117,6 @@ TVBS欢乐台,p2p://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af.ts
 JET综合台,p2p://fccsovh.pvbox.live:18912/5b1409f30001262751180c32d7f81d19.ts#p2p://fccseuro.pvbox.live:18912/5c724892000e3e1c1d5303da4a3c6c26.ts#p2p://fccseuro.pvbox.live:18912/5b1409f30001262751180c32d7f81d19.ts
 国兴卫视,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts#p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts
 卫视中文台,p2p://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3#p2p://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f#p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80#p2p://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
-
-
 
 BBCLifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 BBCEarth,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts#p2p://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts
@@ -175,6 +152,7 @@ Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS新闻台,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
