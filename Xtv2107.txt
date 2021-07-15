@@ -412,7 +412,7 @@ MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 MTV,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts
 
 
-高清©頻道
+4K©頻道,#genre#
 
 CCTV-4K超高清2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
 CCTV-4K超高清3,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
