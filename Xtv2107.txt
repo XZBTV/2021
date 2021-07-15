@@ -77,6 +77,61 @@ Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
+香港☒頻道2,#genre#
+HKC新闻,p2p://fccsovh.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955.ts
+HKC新闻,p2p://fccseuro.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955.ts
+香港開電視,p2p://fccsovh.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2.ts
+香港開電視,p2p://54.39.118.88:18912/5b140a990002d1a89cac9e13b5b361a2.ts
+Now 新闻,p2p://fccsovh.pvbox.live:18912/5f21534e0006fafc46163c67247e009a.ts
+Now 新闻,p2p://fccseuro.pvbox.live:18912/5f21534e0006fafc46163c67247e009a.ts
+VIUTV6,p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+VIU,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
+VIU,p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
+Now TV,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a.ts
+Now TV,http://playlive.558888888.xyz:10013/db.php?id=nowxw&t=1591516964&sign=1386841921
+Now TV,p2p://fccsovh.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a.ts
+翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
+翡翠,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
+翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+翡翠(备),p2p://fccseuro.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
+翡翠(备),p2p://fccsovh.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
+翡翠(备),http://danielwu.gz01.bdysite.com/iptv/?id=tvb
+无线新闻(备),p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
+无线新闻(备),p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
+无线新闻,p2p://fccsovh.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb.ts
+无线新闻,p2p://fccseuro.pvbox.live:18912/5ee71d1c0004c66962b2bbef39b16ddb.ts
+J2,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
+J2,p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
+J2(备),p2p://fccseuro.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts
+J2(备),http://pili-live-hdl.qhmywl.com/dsdtv/9de1ac6a9a4642e1aac41462c6159b92.flv
+J2(备),p2p://fccsovh.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts
+J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts
+J5,p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts
+明珠,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
+明珠,p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
+明珠(备),p2p://fccsovh.pvbox.live/5ee71d1f000ca48662b2c9ab00e6445a.ts
+明珠(备),p2p://fccsovh.pvbox.live:18912/5ee71d1f000ca48662b2c9ab00e6445a.ts
+无线财经台,p2p://fccsovh.pvbox.live:18912/5ee71d1e0002271962b2c31332f45545.ts
+无线财经台,p2p://fccseuro.pvbox.live:18912/5ee71d1e0002271962b2c31332f45545.ts
+无线财经(备),p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
+无线财经(备),p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
+TVB经典,p2p://fccsovh.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be.ts
+TVB经典,p2p://fccseuro.pvbox.live:18912/5fbb5a9f00079d3b9fc240962c3b63be.ts
+TVB星河,p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe.ts
+TVB星河,p2p://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe.ts
+VIUTV6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+TVB US 1,p2p://fccsovh.pvbox.live:18912/5cffd79b0008224605e668c79ca6efc0.ts
+TVB US 1,p2p://fccseuro.pvbox.live:18912/5cffd79b0008224605e668c79ca6efc0.ts
+TVB US 2,p2p://fccsovh.pvbox.live:18912/5cffd79d0004cbb66f6dece9140f8690.ts
+TVB US 2,p2p://fccseuro.pvbox.live:18912/5cffd79d0004cbb66f6dece9140f8690.ts
+TVBHD,p2p://fccsovh.pvbox.live:18912/5cf559f800003d1bab8b3e07f042c2b9.ts
+TVBHD,p2p://fccseuro.pvbox.live:18912/5cf559f800003d1bab8b3e07f042c2b9.ts
+RTHK31,p2p://fccseuro.pvbox.live:18912/5badd38d000891c41a1da3bad3c15f41.ts
+RTHK31,p2p://fccsovh.pvbox.live:18912/5badd38d000891c41a1da3bad3c15f41.ts
+RTHK32,p2p://fccseuro.pvbox.live:18912/5badd3910003a73ddee77d3ebfcb7068.ts
+RTHK32,p2p://fccsovh.pvbox.live:18912/5badd3910003a73ddee77d3ebfcb7068.ts
+BEIN SPORTS,p2p://fccsovh.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
+BEIN SPORTS,p2p://fccseuro.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
 
 台灣©頻道,#genre#
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
@@ -414,10 +469,7 @@ MTV,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fcc
 
 4K©頻道,#genre#
 
-CCTV-4K超高清2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
-CCTV-4K超高清3,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-CCTV-4K超高清4,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
-CCTV-4K超高清5,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+CCTV4K,https://hnan.cloud/woniu/4K.m3u8
 福建移动4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 爱上4K,http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
@@ -428,7 +480,6 @@ BesTV4K,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952
 芒果TV 4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 FashionTV，https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-CCTV-4K,https://hnan.cloud/woniu/4K.m3u8
 PP体育1080P,http://39.134.65.162/PLTV/88888888/224/3221225655/index.m3u8
 
 電影©輪播,#genre#
