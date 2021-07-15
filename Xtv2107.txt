@@ -18,14 +18,20 @@ J2,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fcc
 明珠台,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-有线新闻台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
-有线直播新闻台,http://hkyx.love.sky-media.tk/test/index.php?id=39
+有線財經資訊台,https://api.leonardpark.dev/live/icable/108
+
+有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+有線直播新聞台,https://api.leonardpark.dev/live/icable/110
+有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻,http://198.16.106.62:8278/streams/d/inews_twn/playlist.m3u8
 无线新闻,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 无线新闻,p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
+无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
@@ -36,9 +42,13 @@ ViuTV6,http://61.238.6.49:8000/bysid/96
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
 ViuTV6,https://cdn.hkdtmb.com/hls/96/index.m3u8
 ViuTV6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
+天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 天映电影,http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000010416484&ct=17955&tsum=cd7dbff483b639f549b95320c78a1f3b
 天映頻道HD,http://50.7.161.82:8278/Celestial/playlist.m3u8?tid=m02000000000014496578&ct=17956&tsum=808f037499700f0538f13ea983dce703
@@ -220,6 +230,7 @@ CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/40
 CCTV5+,http://183.207.255.190/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
+ESPNsprot,https://d2hrzreazv2mnr.cloudfront.net/out/v1/5c00be96b88f417187c56c5ceeaab82f/index.m3u8
 FoxSports2 77,http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
 FoxSports3 77,http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
 FoxSports1 77,http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
@@ -355,16 +366,32 @@ MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 MTV,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts
 
 
+4K©頻道
+
+CCTV-4K超高清2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
+CCTV-4K超高清3,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K超高清4,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+CCTV-4K超高清5,http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+福建移动4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+爱上4K,http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+北京冬奥纪实4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
+BesTV4K,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
+纯享4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+芒果TV 4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+FashionTV，https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+CCTV-4K,https://hnan.cloud/woniu/4K.m3u8
+PP体育1080P,http://39.134.65.162/PLTV/88888888/224/3221225655/index.m3u8
+
 電影©輪播,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 周星驰,http://auney.gearhostpreview.com/huya.php?id=11342412
 林正英,http://auney.gearhostpreview.com/huya.php?id=11342421
 成龙,http://auney.gearhostpreview.com/huya.php?id=11342386
 李连杰,http://auney.gearhostpreview.com/huya.php?id=11342390
-赌片,http://auney.gearhostpreview.com/huya.php?id=11342399
-黑帮,http://auney.gearhostpreview.com/huya.php?id=11336719
 吴京,http://auney.gearhostpreview.com/huya.php?id=11602045
-科幻动作,http://auney.gearhostpreview.com/huya.php?id=11352964
 国产喜剧,http://auney.gearhostpreview.com/huya.php?id=11602044
 丧尸,http://auney.gearhostpreview.com/huya.php?id=11352962
 五福星,http://auney.gearhostpreview.com/huya.php?id=11282233
@@ -495,6 +522,57 @@ Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 
 TEST,#genre#
+天映频道,p2p://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
+天映频道,mitv://fccseuro.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts
+天映频道,mitv://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
+天映HD,p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
+天映HD,mitv://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
+好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
+好莱坞电影,mitv://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1.ts
+好莱坞电影,mitv://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+好莱坞电影,mitv://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
+东森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
+东森洋片,mitv://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
+东森电影 HD,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
+东森电影 HD,mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+东森电影 HD,mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
+伟来电影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
+伟来电影,mitv://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9.ts
+伟来电影,mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
+美亚电影台 HD,mitv://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735.ts
+美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
+美亚电影台 HD,mitv://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735.ts
+卫视中文,mitv://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
+卫视中文,mitv://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f.ts
+卫视中文,mitv://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80.ts
+卫视中文,mitv://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
+卫视电影,mitv://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
+卫视电影,mitv://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228.ts
+卫视电影,mitv://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
+高清影院,mitv://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056.ts
+高清影院,mitv://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056.ts
+龙华洋片,mitv://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
+龙华洋片,mitv://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
+CINEMAWORLD,mitv://fccsovh.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
+CINEMAWORLD,mitv://fccseuro.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
+FOX CRIME HD,mitv://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
+FOX CRIME HD,mitv://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
+FOX HD,mitv://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
+FOX HD,mitv://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
+FOX动作,mitv://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
+FOX动作,mitv://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
+FOX 家庭影院HD,mitv://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
+FOX 家庭影院HD,mitv://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
+FX 福克斯影视 HD,mitv://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
+FX 福克斯影视 HD,mitv://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
+HBO HD,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+HBO HD,mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+HBO HD,mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+
+
+
+
+
 BLUE ANT EXTREME,p2p://fccs.123178.top:9806/60441771000d4807000e774ad2f62e16.ts
 Comedy Central Asia,p2p://fccs.123178.top:9806/6044183b000d06f700118c4956df7f03.ts
 CatchPlay電影台,p2p://fccs.123178.top:9806/6044191d000d8b620014ff3bef2f4594%20.ts
