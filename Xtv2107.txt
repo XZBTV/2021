@@ -156,6 +156,7 @@ FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 中天娱乐台,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
 三立综合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立台湾台,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+三立综合台2,http://198.16.106.62:8278/streams/d/sanlizhonghe/playlist.m3u8
 三立台湾台,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立台湾台,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/master.m3u8?__nn__=5052291488001&hdnea=st=1625326200~exp=1625329800~acl=/i/*~hmac=cc808d9e7de4ab522292acf55d9a26c895a5ea0149594d94a22ab9c6af5070f2
 三立戏剧台,http://198.16.106.62:8278/sanlixiju_zero/playlist.m3u8
