@@ -7,7 +7,9 @@ CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
-翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
+翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+翡翠台,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 J2,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -78,22 +80,23 @@ Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
+
 香港☒頻道2,#genre#
-HKC新闻,p2p://fccsovh.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955.ts
-HKC新闻,p2p://fccseuro.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955.ts
+有线新闻,p2p://fccsovh.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955.ts
+有线新闻,p2p://fccseuro.pvbox.live:18912/5cb870de000968d092345e9ff2a5d955.ts
 香港開電視,p2p://fccsovh.pvbox.live:18912/5b140a990002d1a89cac9e13b5b361a2.ts
 香港開電視,p2p://54.39.118.88:18912/5b140a990002d1a89cac9e13b5b361a2.ts
-Now 新闻,p2p://fccsovh.pvbox.live:18912/5f21534e0006fafc46163c67247e009a.ts
-Now 新闻,p2p://fccseuro.pvbox.live:18912/5f21534e0006fafc46163c67247e009a.ts
+Now新闻,p2p://fccsovh.pvbox.live:18912/5f21534e0006fafc46163c67247e009a.ts
+Now新闻,p2p://fccseuro.pvbox.live:18912/5f21534e0006fafc46163c67247e009a.ts
 VIUTV6,p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
 VIU,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
 VIU,p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
-Now TV,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a.ts
-Now TV,http://playlive.558888888.xyz:10013/db.php?id=nowxw&t=1591516964&sign=1386841921
-Now TV,p2p://fccsovh.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a.ts
-翡翠,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
-翡翠,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
-翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+NowTV,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a.ts
+NowTV,http://playlive.558888888.xyz:10013/db.php?id=nowxw&t=1591516964&sign=1386841921
+Now V,p2p://fccsovh.pvbox.live:18912/5b20e3ae00008df9620421b9fc1c558a.ts
+翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
+翡翠台,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 翡翠(备),p2p://fccseuro.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
 翡翠(备),p2p://fccsovh.pvbox.live:18912/5dbeb1c60000e0465bf4890714f16176.ts
 翡翠(备),http://danielwu.gz01.bdysite.com/iptv/?id=tvb
@@ -109,8 +112,8 @@ J2(备),p2p://fccsovh.pvbox.live:18912/5d122036000a0661d2e59906fed8fd3c.ts
 J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts
 J5,p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts
 明珠,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
-明珠,p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
-明珠(备),p2p://fccsovh.pvbox.live/5ee71d1f000ca48662b2c9ab00e6445a.ts
+明珠台,p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
+明珠台(备),p2p://fccsovh.pvbox.live/5ee71d1f000ca48662b2c9ab00e6445a.ts
 明珠(备),p2p://fccsovh.pvbox.live:18912/5ee71d1f000ca48662b2c9ab00e6445a.ts
 无线财经台,p2p://fccsovh.pvbox.live:18912/5ee71d1e0002271962b2c31332f45545.ts
 无线财经台,p2p://fccseuro.pvbox.live:18912/5ee71d1e0002271962b2c31332f45545.ts
@@ -183,7 +186,10 @@ TVBS新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS新闻台,http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
 三立新闻台,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
 中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
-
+卫视中文,p2p://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
+卫视中文,p2p://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f.ts
+卫视中文,p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80.ts
+卫视中文,p2p://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
 中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
 纬来日本台,p2p://fccsovh.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts#p2p://fccseuro.pvbox.live:18912/5c9ed33000006a62cb50798041a272c0.ts#p2p://fccseuro.pvbox.live:18912/5b14092b000efa4c233af0e8a75243d8.ts
 民视,p2p://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#p2p://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4.ts#p2p://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26.ts#p2p://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts
@@ -259,47 +265,44 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 天映频道,p2p://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
 天映HD,p2p://fccsovh.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
 天映HD,p2p://fccseuro.pvbox.live:18912/5fbb5d46000c94b09fcc9e3671b64160.ts
-好莱坞电影,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
-好莱坞电影,p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1.ts
-好莱坞电影,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
-好莱坞电影,p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
-东森洋片,p2p://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
-东森洋片,p2p://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
-东森电影 HD,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
-东森电影 HD,p2p://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
-东森电影 HD,p2p://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
+好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
+好莱坞电影台,p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1.ts
+好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba.ts
+好莱坞电影台,p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783.ts
+东森洋片台,p2p://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
+东森洋片台,p2p://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef.ts
+东森电影台,p2p://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
+东森电影台,p2p://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts
+东森电影台,p2p://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
 伟来电影,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
 伟来电影,p2p://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9.ts
 伟来电影,p2p://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
 美亚电影台 HD,p2p://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735.ts
 美亚电影台 HD,p2p://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
 美亚电影台 HD,p2p://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735.ts
-卫视中文,p2p://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
-卫视中文,p2p://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f.ts
-卫视中文,p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80.ts
-卫视中文,p2p://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3.ts
-卫视电影,p2p://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
-卫视电影,p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228.ts
-卫视电影,p2p://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
+
+卫视电影台,p2p://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
+卫视电影台,p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228.ts
+卫视电影台,p2p://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad.ts
 高清影院,p2p://fccseuro.pvbox.live:18912/5b140a16000257643131fe220522a056.ts
 高清影院,p2p://fccsovh.pvbox.live:18912/5b140a16000257643131fe220522a056.ts
 龙华洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
 龙华洋片,p2p://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e.ts
 CINEMAWORLD,p2p://fccsovh.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
 CINEMAWORLD,p2p://fccseuro.pvbox.live:18912/5b1409770005ae3cb85008d8b6793772.ts
-FOX CRIME HD,p2p://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
-FOX CRIME HD,p2p://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
-FOX HD,p2p://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
-FOX HD,p2p://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
-FOX动作,p2p://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
-FOX动作,p2p://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
-FOX 家庭影院HD,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
-FOX 家庭影院HD,p2p://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
+FOXCRIME,p2p://fccsovh.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
+FOXCRIME,p2p://fccseuro.pvbox.live:18912/5b14098e000e434ede2d2b64a84b3626.ts
+FOXp2p://fccsovh.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
+FOXp2p://fccseuro.pvbox.live:18912/5b14098e000c5aec49e2663f8fd7aa2e.ts
+FOXActionMovies,p2p://fccsovh.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
+FOXActionMovies,p2p://fccseuro.pvbox.live:18912/5b140977000904d67563843aed175df7.ts
+FoxFamilyMovies,p2p://fccsovh.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
+FoxFamilyMovies,p2p://fccseuro.pvbox.live:18912/5b14098e000945ca8d67439c257399ef.ts
 FX 福克斯影视 HD,p2p://fccsovh.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
 FX 福克斯影视 HD,p2p://fccseuro.pvbox.live:18912/5b1409da000ebd47ecf41861c902cf0f.ts
-HBO HD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
-HBO HD,p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts
-HBO HD,p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+HBOHD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+HBOHD,p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+HBOHD,p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
 美亚/星卫HD电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
 美亚/星卫HD电影,p2p://fccsovh.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts#p2p://fccseuro.pvbox.live:18912/5c724a05000626a61d58aaff0c3f3175.ts#p2p://fccseuro.pvbox.live:18912/5bdbf3b90004478a9a7be0f5af7ee982.ts
 卫视电影台,p2p://fccseuro.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccsovh.pvbox.live:18912/5b140960000aafcc8d3e6ffa720314ad#p2p://fccseuro.pvbox.live:18912/5c2dd76a000ca61435a944c711910228
