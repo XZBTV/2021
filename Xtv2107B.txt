@@ -657,7 +657,45 @@ Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
 老电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 
-TEST,#genre#
+日本©頻道,#genre#
+SBS国际,http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+TJB 대전방송(SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
+TMA Caraïbes,http://hls.tmacaraibes.com/live/index.m3u8
+Tokyo MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+ゴルフネットワーク,http://203.162.235.41:16924
+シネフィルWOWOW,http://203.162.235.41:16916
+ジャパネットチャンネルDX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+テレビ朝日,http://203.162.235.41:16906
+テレビ東京,http://203.162.235.41:16908
+フジテレビ,http://203.162.235.41:16904
+가요TV,http://gayotv.net:1935/live/gayotv/playlist.m3u8
+여수MBC(MBC Yeosu),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+울산MBC(MBC Ulsan),https://5ddfd163bd00d.streamlock.net:443/nHDTV/nHDTV/playlist.m3u8
+EBS 1,http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+EBS 2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+EBS Kids,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+EBS+ 1,http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+EBS+ 2,http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+EBSe,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+KBC 광주방송(SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+KBS World,http://125.227.210.37:8935/VideoInput/play.ts
+KCTV 광주 CH05,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+KIX,http://45.126.83.51/uq2663/h/h07/01.m3u8
+BS TBS,http://203.162.235.41:16913
+BS 日テレ,http://203.162.235.41:16912
+BS 朝日,http://203.162.235.41:16914
+BS 東京,http://203.162.235.41:16915
+BSフジ,http://203.162.235.41:16911
+日テレ,http://203.162.235.41:16905
+日テレNEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+日韩频道선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+
+中国1,#genre#
 CHC动作电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
