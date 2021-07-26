@@ -126,8 +126,12 @@ Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,http://livetv.dnsfor.me:80/channel.9.m3u8  
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-凤凰中文 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-凤凰资讯 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰中文 10M720,http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰资讯 10M720,http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰香港 10M720,http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
