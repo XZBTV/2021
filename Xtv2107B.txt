@@ -299,14 +299,19 @@ TVBS欢乐台,p2p://fccsovh.pvbox.live:18912/5b1409600006657bf3521814c47521af.ts
 公视,p2p://fccseuro.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts#p2p://fccsovh.pvbox.live:18912/5b1409600001a0b2b34e074d843505c0.ts
 三立都会台,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
 爱尔达影剧,p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#p2p://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts#p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts
-爱尔达综合,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#p2p://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts#p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts八大第一台,p2p://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts#p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts八大综合台,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8,p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts纬来综合台,p2p://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts#p2p://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts
+爱尔达综合,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#p2p://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts#p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts
+八大第一台,p2p://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts#p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts
+八大综合台,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8,p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
+纬来综合台,p2p://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts#p2p://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts
 纬来戏剧台,p2p://fccsovh.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa.ts#p2p://fccseuro.pvbox.live:18912/5c72488e000bae061d52f38e705751dd.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa.ts
 纬来育乐台,p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts#p2p://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
 JET综合台,p2p://fccsovh.pvbox.live:18912/5b1409f30001262751180c32d7f81d19.ts#p2p://fccseuro.pvbox.live:18912/5c724892000e3e1c1d5303da4a3c6c26.ts#p2p://fccseuro.pvbox.live:18912/5b1409f30001262751180c32d7f81d19.ts
 国兴卫视,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts#p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts
 卫视中文台,p2p://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3#p2p://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f#p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80#p2p://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
 BBCEarth,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts#p2p://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts
-BBCLifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts国家地理野生频道,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts#p2p://fccseuro.pvbox.live:18912/5c7249fb000db88c1d5885e333974925.ts#p2p://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts国家地理频道,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
+BBCLifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts
+国家地理野生频道,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts#p2p://fccseuro.pvbox.live:18912/5c7249fb000db88c1d5885e333974925.ts#p2p://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts
+国家地理频道,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
 国家地理悠人频道,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f.ts#p2p://fccseuro.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f.ts
 动物星球,p2p://fccsovh.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts#p2p://fccseuro.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts
 Discovery,p2p://fccsovh.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f.ts#p2p://fccseuro.pvbox.live:18912/5b14092b000cd4e0b31a629500c1a30f.ts
@@ -314,7 +319,9 @@ Discovery科学,p2p://fccsovh.pvbox.live:18912/5b14093f000e802bdf2de39b32af6f43.
 FashionTV,p2p://fccsovh.pvbox.live:18912/5b1409dc00021a611a60a4af158b465d.ts#p2p://fccseuro.pvbox.live:18912/5b1409dc00021a611a60a4af158b465d.ts
 东森超视,rtmp://59.124.75.130/sat/tv771
 CN卡通频道,p2p://fccsovh.pvbox.live:18912/5b593933000710c554e89c7ce9dd6bef.ts#p2p://fccseuro.pvbox.live:18912/5b593933000710c554e89c7ce9dd6bef.ts
-CN卡通频道,p2p://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts#p2p://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8.tsTLC旅游生活频道,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b.ts#p2p://Disney,p2p://fccsovh.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts#p2p://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts东森幼幼台,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts#p2p://fccseuro.pvbox.live:18912/5c724866000564111d5255b84de26a1c.ts#p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts
+CN卡通频道,p2p://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts#p2p://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
+TLC旅游生活频道,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b.ts#p2p://Disney,p2p://fccsovh.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts#p2p://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts
+东森幼幼台,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts#p2p://fccseuro.pvbox.live:18912/5c724866000564111d5255b84de26a1c.ts#p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts
 美食星球,p2p://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts#p2p://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts
 FoodNetwork美食台,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 EYE旅游,p2p://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts#p2p://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts
@@ -1592,3 +1599,102 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 江西风尚购物 4M1080,http://183.207.249.199/ott.js.chinamobile.com/PLTV/3/224/3221225956/index.m3u8
 江苏好享购物 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
+
+USA,#genre#
+
+LA: TELEMUNDO EAST[1280*720],http://qqtv.nl:8080/patti/patti123/20427
+LA: TELEMUNDO WEST HD[1280*720],http://qqtv.nl:8080/patti/patti123/52876
+LA: TELEMUNDO MIAMI HD[1280*720],http://qqtv.nl:8080/patti/patti123/385649
+LA: TELEMUNDO LAS VEGAS[1280*720],http://qqtv.nl:8080/patti/patti123/20254
+LA: TELEMUNDO PHOENIX HD[1280*720],http://qqtv.nl:8080/patti/patti123/20305
+LA: TELEMUNDO NEW YORK HD[1280*720],http://qqtv.nl:8080/patti/patti123/51867
+LA: UNIVISION TDN[1280*720],http://qqtv.nl:8080/patti/patti123/20115
+LA: UNIVISION PUERTO RICO[1280*720],http://qqtv.nl:8080/patti/patti123/20166
+LA: UNIVISION WEST HD[1280*720],http://qqtv.nl:8080/patti/patti123/51869
+LA: UNIVISION EAST HD[1280*720],http://qqtv.nl:8080/patti/patti123/51870
+LA: UNIVISION TELENOVELAS[1280*720],http://qqtv.nl:8080/patti/patti123/52224
+LA: UNIVISION CANADA[1280*720],http://qqtv.nl:8080/patti/patti123/21026
+LA: Mega TV Miami[1280*720],http://qqtv.nl:8080/patti/patti123/384877
+LA: NBC UNIVERSO HD[1280*720],http://qqtv.nl:8080/patti/patti123/384878
+LA: UNIMAS NEW YORK HD[1280*720],http://qqtv.nl:8080/patti/patti123/51873
+LA: GALAVISION[1280*720],http://qqtv.nl:8080/patti/patti123/51872
+LA: HBO 2[1280*720],http://qqtv.nl:8080/patti/patti123/20288
+LA: FOX LIFE ES[1280*720],http://qqtv.nl:8080/patti/patti123/20270
+LA: DISCOVERY TURBO[1280*720],http://qqtv.nl:8080/patti/patti123/20275
+LA: DISCOVERY THEATER[1280*720],http://qqtv.nl:8080/patti/patti123/20104
+LA: DISCOVERY CIVILIZATION[1280*720],http://qqtv.nl:8080/patti/patti123/20278
+LA: DISCOVERY CHANNEL[1280*720],http://qqtv.nl:8080/patti/patti123/20226
+LA: WARNER[1280*720],http://qqtv.nl:8080/patti/patti123/20232
+LA: UNIVERSAL CHANNEL[1280*720],http://qqtv.nl:8080/patti/patti123/20242
+LA: TNT HD[1280*720],http://qqtv.nl:8080/patti/patti123/20237
+LA: TCM[1280*720],http://qqtv.nl:8080/patti/patti123/20252
+LA: INTI  HD CLCL[1280*720],http://qqtv.nl:8080/patti/patti123/20217
+LA: ESPN PLUS[1280*720],http://qqtv.nl:8080/patti/patti123/20062
+LA: ESPN[1280*720],http://qqtv.nl:8080/patti/patti123/20269
+LA: E! ENTERTAIMENTS[1280*720],http://qqtv.nl:8080/patti/patti123/20272
+LA: DISNEY XD[1280*720],http://qqtv.nl:8080/patti/patti123/20233
+LA: COMEDY CENTRAL[1280*720],http://qqtv.nl:8080/patti/patti123/20167
+LA: BOOMERANG[1280*720],http://qqtv.nl:8080/patti/patti123/20299
+LA: AXN[1280*720],http://qqtv.nl:8080/patti/patti123/20298
+LA: AMC[1280*720],http://qqtv.nl:8080/patti/patti123/20303
+LA: A&E[1280*720],http://qqtv.nl:8080/patti/patti123/20302
+LA: RCN NUESTRATELE[1280*720],http://qqtv.nl:8080/patti/patti123/20430
+LA: MASCHIC HD[1280*720],http://qqtv.nl:8080/patti/patti123/20434
+LA: STARZ ENCORE CLASSIC HD[1280*720],http://qqtv.nl:8080/patti/patti123/20331
+LA: STARZ KIDS & FAMILY HD[1280*720],http://qqtv.nl:8080/patti/patti123/20323
+MEX: TELENOVELAS[1280*720],http://qqtv.nl:8080/patti/patti123/20169
+MEX: CANAL 26[1280*720],http://qqtv.nl:8080/patti/patti123/20107
+MEX: TELEVISA[1280*720],http://qqtv.nl:8080/patti/patti123/20052
+MEX: AXN[1280*720],http://qqtv.nl:8080/patti/patti123/20111
+MEX: LAS ESTRELLAS[1280*720],http://qqtv.nl:8080/patti/patti123/20295
+MEX: CANAL DE LAS ESTRELLAS[1280*720],http://qqtv.nl:8080/patti/patti123/20291
+MEX: MULTIMEDIOS[1280*720],http://qqtv.nl:8080/patti/patti123/20432
+MEX: GOLDEN PLUS[1280*720],http://qqtv.nl:8080/patti/patti123/20420
+MEX: ULTRA FAMILIA[1280*720],http://qqtv.nl:8080/patti/patti123/20164
+MEX: UNICABLE[1280*720],http://qqtv.nl:8080/patti/patti123/20088
+MEX: MAS CHIC[1280*720],http://qqtv.nl:8080/patti/patti123/20048
+LA: MOVIEMAX HD[1920*796],http://qqtv.nl:8080/patti/patti123/20348
+LA: SHOWTIME EAST HD[1920*800],http://qqtv.nl:8080/patti/patti123/20343
+LA: SHOWTIME HD[1920*800],http://qqtv.nl:8080/patti/patti123/20342
+LA: STARZ ENCORE SUSPENSE HD[1920*800],http://qqtv.nl:8080/patti/patti123/20327
+LA: STARZ FAMILY HD[1920*800],http://qqtv.nl:8080/patti/patti123/20325
+LA: STARZ ENCORE HD[1920*802],http://qqtv.nl:8080/patti/patti123/20329
+LA: MOVIEPLEX HD[1920*804],http://qqtv.nl:8080/patti/patti123/20347
+LA: CINE MAX ACTION HD[1920*808],http://qqtv.nl:8080/patti/patti123/20359
+LA: TELEMUNDO PUERTO RICO[1920*1080],http://qqtv.nl:8080/patti/patti123/52986
+LA: HBO WEST HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20351
+LA: HBO FAMILY HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20355
+LA: FOX SERIES[1920*1080],http://qqtv.nl:8080/patti/patti123/20276
+LA: FOX MOVIES[1920*1080],http://qqtv.nl:8080/patti/patti123/20281
+LA: FOX FAMILY[1920*1080],http://qqtv.nl:8080/patti/patti123/20259
+LA: FOX CINEMA[1920*1080],http://qqtv.nl:8080/patti/patti123/20277
+LA: FOX[1920*1080],http://qqtv.nl:8080/patti/patti123/20266
+LA: TRU TV MX[1920*1080],http://qqtv.nl:8080/patti/patti123/20239
+LA: TLC MEX[1920*1080],http://qqtv.nl:8080/patti/patti123/20244
+LA: TBS VERY FUNNY[1920*1080],http://qqtv.nl:8080/patti/patti123/20251
+LA: SPACE[1920*1080],http://qqtv.nl:8080/patti/patti123/20240
+LA: PARAMOUNT CHANNEL HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20238
+LA: NAT GEO WILD[1920*1080],http://qqtv.nl:8080/patti/patti123/20246
+LA: GOLF CHANNEL[1920*1080],http://qqtv.nl:8080/patti/patti123/20072
+LA: FILM & ARTS[1920*1080],http://qqtv.nl:8080/patti/patti123/20098
+LA: NICKELODEON[1920*1080],http://qqtv.nl:8080/patti/patti123/20306
+LA: CARTOON NETWORK[1920*1080],http://qqtv.nl:8080/patti/patti123/20292
+LA: ANIMAL PLANET[1920*1080],http://qqtv.nl:8080/patti/patti123/20296
+LA: TLC[1920*1080],http://qqtv.nl:8080/patti/patti123/20426
+LA: STUDIO UNIVERSAL.[1920*1080],http://qqtv.nl:8080/patti/patti123/20429
+LA: MTV HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20417
+LA: BLOOMBERG HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20421
+LA: INDIEPLEX HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20350
+LA: EL SEMBRADOR[1920*1080],http://qqtv.nl:8080/patti/patti123/19998
+LA: STARZ BLACK HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20339
+LA: STARZ ENCORE ACTION[1920*1080],http://qqtv.nl:8080/patti/patti123/20333
+LA: STARZ ENCORE BLACK HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20332
+LA: STARZ HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20324
+MEX: TV MAS VERACRUZ[1920*1080],http://qqtv.nl:8080/patti/patti123/20091
+MEX: CANAL ONCE[1920*1080],http://qqtv.nl:8080/patti/patti123/20054
+MEX: WOBI HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20428
+MEX: GARAGE TV[1920*1080],http://qqtv.nl:8080/patti/patti123/20183
+MEX: HOLA TV[1920*1080],http://qqtv.nl:8080/patti/patti123/20071
+MEX: FILM & ART[1920*1080],http://qqtv.nl:8080/patti/patti123/20399
+MEX: ULTRA TAINMENT[1920*1080],http://qqtv.nl:8080/patti/patti123/20163
+MEX: AZTECA UNO[1920*1080],http://qqtv.nl:8080/patti/patti123/20255
