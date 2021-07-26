@@ -1,6 +1,6 @@
 X直播电视台 油管频道
 中文©新闻,#genre#
-lhbhjbh,http://ws.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8
+lhbhjbh,https://tx.flv.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.flv?wsSecret=4d78c8fd6d2a56f163c73a7f425dab61&wsTime=60fe5b92&seqid=3088777405015&ctype=huya_webh5&ver=1&txyp=o%3Afz1%3B&fs=bgct&u=1464173926727&t=100&sv=2105281105
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
