@@ -13,6 +13,7 @@ TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 
 
 體育©頻道,#genre#
+MIGU LIVE1,https://mgbs.live.miguvideo.com/migu/sports/olympic082/51/20210702/01.m3u8?msisdn=13911562175&mdspid=&spid=800033&netType=0&sid=7510031593&pid=2028597139&timestamp=20210726165608&Channel_ID=0132_10010001005&ProgramID=714185878&ParentNodeID=-99&assertID=7510031593&client_ip=123.122.142.179&SecurityKey=20210726165608&mvid=7510015621&mcid=500020&mpid=120000176289&playurlVersion=SJ-A1-4.7.1&userid=1301932397&jmhm=13911562175&videocodec=h264&bean=mgspwww&mtv_session=98494d7c92456dcb3176526b3fe77014&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=62368069312bd67edd7ee3940c4319c3
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
