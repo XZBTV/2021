@@ -79,6 +79,17 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 咪咕视频 8M1080T,http://39.134.66.66/PLTV/88888888/224/3221225768/index.m3u8
 咪咕视频 8M1080U,http://39.134.66.66/PLTV/88888888/224/3221225770/index.m3u8
 咪咕视频 8M1080V,http://39.134.66.66/PLTV/88888888/224/3221225774/index.m3u8
+Live 1,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/18850
+Live 2,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28898
+Live 3,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28897
+Live 4,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15000
+Live 5,http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=
+Live 6,http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=
+Live 7,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15001
+Live 8,http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=
+Live 9,http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=
+Live 10,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/21927
+F1 [When Live],http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
 广东体育,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
