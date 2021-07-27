@@ -10,7 +10,6 @@ CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 
-
 體育©頻道,#genre#
 
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
@@ -28,12 +27,10 @@ CCTV5+,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=ht
 CCTV5+,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
 CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-
 CCTV5,rtmp://58.200.131.2:1935/livetv/cctv5hd
 CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
 CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 咪咕视频 4M1080A,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
 咪咕视频 8M1080B,http://39.134.66.66/PLTV/88888888/224/3221225753/index.m3u8
@@ -260,7 +257,6 @@ RTHK32,p2p://fccsovh.pvbox.live:18912/5badd3910003a73ddee77d3ebfcb7068.ts
 BEIN SPORTS,p2p://fccsovh.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
 BEIN SPORTS,p2p://fccseuro.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
 
-
 港台©198,#genre#
 
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
@@ -380,7 +376,6 @@ Astro 华丽ᴴᴰ,p2p://fccseuro.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed
 中天新闻,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts#p2p://fccsovh.pvbox.live:18912/5b14096a000dc9172181b048e1caf279.ts#p2p://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63.ts#p2p://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
 东森新闻台,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#p2p://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#p2p://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 
-
 台湾©Seb,#genre#
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
@@ -459,14 +454,9 @@ HBOHD,p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
 e:18912/5b14096a000a35a138bfced0badeee87
 天映频道,p2p://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts#p2p://fccseuro.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts#p2p://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
 靖天电影台,p2p://fccsovh.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3.ts#p2p://fccseuro.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3.ts
-
 纬来电影台,p2p://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75#p2p://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9#p2p://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75
 LSTime电影台,p2p://fccsovh.pvbox.live:18912/5b14092200071c61b06a8738697f10ae.ts#p2p://fccseuro.pvbox.live:18912/5b14092200071c61b06a8738697f10ae.ts
 好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
-
-
-
-
 
 海外©頻道,#genre#
 NBC,http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8
@@ -515,7 +505,6 @@ CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 动物星球,http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
-
 动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 动物星球,http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -639,7 +628,6 @@ BS 朝日[1280*720],http://203.162.235.41:16914
 BS 東京[1280*720],http://203.162.235.41:16915
 BSフジ[1280*720],http://203.162.235.41:16911
 日韩频道선거방송[1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-
 
 
 福建PLTV移动CDN修改版,#genre#
