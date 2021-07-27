@@ -13,13 +13,7 @@ TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 
 
 體育©頻道,#genre#
-MIGU LIVE7,https://mgsp-ksc.live.miguvideo.com/migu/sports/olympic090/57/20210702/01.m3u8?msisdn=13911562175&mdspid=&spid=800033&netType=0&sid=7510031613&pid=2028597139&timestamp=20210726195034&Channel_ID=0132_10010001005&ProgramID=714186007&ParentNodeID=-99&assertID=7510031613&client_ip=123.122.142.179&SecurityKey=20210726195034&mvid=7510015631&mcid=500020&mpid=120000167761&playurlVersion=SJ-A1-4.7.1&userid=1301932397&jmhm=13911562175&videocodec=h264&bean=mgspwww&encrypt=74f3c9630b38cc3ab39ad0b559fe62de&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=15684b42f33afa0fa57ecd844074bffa
-MIGU LIVE6,https://mgws.live.miguvideo.com/migu/sports/olympic082/57/20210702/01.m3u8?msisdn=13911562175&mdspid=&spid=800033&netType=0&sid=7510031595&pid=2028597139&timestamp=20210726184741&Channel_ID=0132_10010001005&ProgramID=714185882&ParentNodeID=-99&assertID=7510031595&client_ip=123.122.142.179&SecurityKey=20210726184741&mvid=7510015622&mcid=500020&mpid=120000176288&playurlVersion=SJ-A1-4.7.1&userid=1301932397&jmhm=13911562175&videocodec=h264&bean=mgspwww&mtv_session=47ea1da1ba56f355c913bf340634092e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=981a4b088e98e3b15cba0f44b26c3793
-MIGU LIVE5,https://mgsp.live.miguvideo.com/migu/sports/olympic088/57/20210702/01.m3u8?msisdn=13911562175&mdspid=&spid=800033&netType=0&sid=7510031605&pid=2028597139&timestamp=20210726184059&Channel_ID=0132_10010001005&ProgramID=714185989&ParentNodeID=-99&assertID=7510031605&client_ip=123.122.142.179&SecurityKey=20210726184059&mvid=7510015627&mcid=500020&mpid=120000176274&playurlVersion=SJ-A1-4.7.1&userid=1301932397&jmhm=13911562175&videocodec=h264&bean=mgspwww&mtv_session=565b3bdb79f36da2a41133a338b5e75f&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31a344b390f1406144390000dbfe5591
-MIGU LIVE4,https://mgsp.live.miguvideo.com/migu/sports/20200724/pcstation4/57/01.m3u8?msisdn=13911562175&mdspid=&spid=800033&netType=0&sid=7510031809&pid=2028597139&timestamp=20210726183916&Channel_ID=0132_10010001005&ProgramID=714186108&ParentNodeID=-99&assertID=7510031809&client_ip=123.122.142.179&SecurityKey=20210726183916&mvid=7510015729&mcid=500020&mpid=120000176262&playurlVersion=SJ-A1-4.7.1&userid=1301932397&jmhm=13911562175&videocodec=h264&bean=mgspwww&mtv_session=59f5a4465542ce39e4c5439292c7bf12&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ce98f23e4aed29c13cc6c20c2e65957c
-MIGU LIVE3,https://mgws.live.miguvideo.com/migu/sports/olympic081/57/20210702/01.m3u8?msisdn=13911562175&mdspid=&spid=800033&netType=0&sid=7510031583&pid=2028597139&timestamp=20210726183750&Channel_ID=0132_10010001005&ProgramID=714185800&ParentNodeID=-99&assertID=7510031583&client_ip=123.122.142.179&SecurityKey=20210726183750&mvid=7510015616&mcid=500020&mpid=120000167759&playurlVersion=SJ-A1-4.7.1&userid=1301932397&jmhm=13911562175&videocodec=h264&bean=mgspwww&mtv_session=57c4c33d0b4856ed2d00941646d3fe87&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0b008d11f166403e6653e9bf0c385366
-MIGU LIVE2,https://mgsp-ksc.live.miguvideo.com/migu/sports/20200724/pcstation4/51/01.m3u8?msisdn=13911562175&mdspid=&spid=800033&netType=0&sid=7510031809&pid=2028597139&timestamp=20210726183542&Channel_ID=0132_10010001005&ProgramID=714186108&ParentNodeID=-99&assertID=7510031809&client_ip=123.122.142.179&SecurityKey=20210726183542&mvid=7510015729&mcid=500020&mpid=120000176262&playurlVersion=SJ-A1-4.7.1&userid=1301932397&jmhm=13911562175&videocodec=h264&bean=mgspwww&encrypt=cd58b085e6fb0051d62b4bdc27d05766&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=3998ead2e58f4c74ad1d5164a0b96fc5
-MIGU LIVE1,https://mgbs.live.miguvideo.com/migu/sports/olympic082/51/20210702/01.m3u8?msisdn=13911562175&mdspid=&spid=800033&netType=0&sid=7510031593&pid=2028597139&timestamp=20210726165608&Channel_ID=0132_10010001005&ProgramID=714185878&ParentNodeID=-99&assertID=7510031593&client_ip=123.122.142.179&SecurityKey=20210726165608&mvid=7510015621&mcid=500020&mpid=120000176289&playurlVersion=SJ-A1-4.7.1&userid=1301932397&jmhm=13911562175&videocodec=h264&bean=mgspwww&mtv_session=98494d7c92456dcb3176526b3fe77014&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=62368069312bd67edd7ee3940c4319c3
+
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
@@ -42,6 +36,53 @@ CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225753/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225772/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225618/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+咪咕视频 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225733/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225737/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225741/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225745/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225747/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225749/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225751/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225752/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225754/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225755/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225757/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225762/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225764/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225766/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225768/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225770/index.m3u8
+咪咕视频 8M1080,http://39.134.66.66/PLTV/88888888/224/3221225774/index.m3u8
 广东体育,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
@@ -1465,102 +1506,3 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 江西风尚购物 4M1080,http://183.207.249.199/ott.js.chinamobile.com/PLTV/3/224/3221225956/index.m3u8
 江苏好享购物 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
-
-USA,#genre#
-
-LA: TELEMUNDO EAST[1280*720],http://qqtv.nl:8080/patti/patti123/20427
-LA: TELEMUNDO WEST HD[1280*720],http://qqtv.nl:8080/patti/patti123/52876
-LA: TELEMUNDO MIAMI HD[1280*720],http://qqtv.nl:8080/patti/patti123/385649
-LA: TELEMUNDO LAS VEGAS[1280*720],http://qqtv.nl:8080/patti/patti123/20254
-LA: TELEMUNDO PHOENIX HD[1280*720],http://qqtv.nl:8080/patti/patti123/20305
-LA: TELEMUNDO NEW YORK HD[1280*720],http://qqtv.nl:8080/patti/patti123/51867
-LA: UNIVISION TDN[1280*720],http://qqtv.nl:8080/patti/patti123/20115
-LA: UNIVISION PUERTO RICO[1280*720],http://qqtv.nl:8080/patti/patti123/20166
-LA: UNIVISION WEST HD[1280*720],http://qqtv.nl:8080/patti/patti123/51869
-LA: UNIVISION EAST HD[1280*720],http://qqtv.nl:8080/patti/patti123/51870
-LA: UNIVISION TELENOVELAS[1280*720],http://qqtv.nl:8080/patti/patti123/52224
-LA: UNIVISION CANADA[1280*720],http://qqtv.nl:8080/patti/patti123/21026
-LA: Mega TV Miami[1280*720],http://qqtv.nl:8080/patti/patti123/384877
-LA: NBC UNIVERSO HD[1280*720],http://qqtv.nl:8080/patti/patti123/384878
-LA: UNIMAS NEW YORK HD[1280*720],http://qqtv.nl:8080/patti/patti123/51873
-LA: GALAVISION[1280*720],http://qqtv.nl:8080/patti/patti123/51872
-LA: HBO 2[1280*720],http://qqtv.nl:8080/patti/patti123/20288
-LA: FOX LIFE ES[1280*720],http://qqtv.nl:8080/patti/patti123/20270
-LA: DISCOVERY TURBO[1280*720],http://qqtv.nl:8080/patti/patti123/20275
-LA: DISCOVERY THEATER[1280*720],http://qqtv.nl:8080/patti/patti123/20104
-LA: DISCOVERY CIVILIZATION[1280*720],http://qqtv.nl:8080/patti/patti123/20278
-LA: DISCOVERY CHANNEL[1280*720],http://qqtv.nl:8080/patti/patti123/20226
-LA: WARNER[1280*720],http://qqtv.nl:8080/patti/patti123/20232
-LA: UNIVERSAL CHANNEL[1280*720],http://qqtv.nl:8080/patti/patti123/20242
-LA: TNT HD[1280*720],http://qqtv.nl:8080/patti/patti123/20237
-LA: TCM[1280*720],http://qqtv.nl:8080/patti/patti123/20252
-LA: INTI  HD CLCL[1280*720],http://qqtv.nl:8080/patti/patti123/20217
-LA: ESPN PLUS[1280*720],http://qqtv.nl:8080/patti/patti123/20062
-LA: ESPN[1280*720],http://qqtv.nl:8080/patti/patti123/20269
-LA: E! ENTERTAIMENTS[1280*720],http://qqtv.nl:8080/patti/patti123/20272
-LA: DISNEY XD[1280*720],http://qqtv.nl:8080/patti/patti123/20233
-LA: COMEDY CENTRAL[1280*720],http://qqtv.nl:8080/patti/patti123/20167
-LA: BOOMERANG[1280*720],http://qqtv.nl:8080/patti/patti123/20299
-LA: AXN[1280*720],http://qqtv.nl:8080/patti/patti123/20298
-LA: AMC[1280*720],http://qqtv.nl:8080/patti/patti123/20303
-LA: A&E[1280*720],http://qqtv.nl:8080/patti/patti123/20302
-LA: RCN NUESTRATELE[1280*720],http://qqtv.nl:8080/patti/patti123/20430
-LA: MASCHIC HD[1280*720],http://qqtv.nl:8080/patti/patti123/20434
-LA: STARZ ENCORE CLASSIC HD[1280*720],http://qqtv.nl:8080/patti/patti123/20331
-LA: STARZ KIDS & FAMILY HD[1280*720],http://qqtv.nl:8080/patti/patti123/20323
-MEX: TELENOVELAS[1280*720],http://qqtv.nl:8080/patti/patti123/20169
-MEX: CANAL 26[1280*720],http://qqtv.nl:8080/patti/patti123/20107
-MEX: TELEVISA[1280*720],http://qqtv.nl:8080/patti/patti123/20052
-MEX: AXN[1280*720],http://qqtv.nl:8080/patti/patti123/20111
-MEX: LAS ESTRELLAS[1280*720],http://qqtv.nl:8080/patti/patti123/20295
-MEX: CANAL DE LAS ESTRELLAS[1280*720],http://qqtv.nl:8080/patti/patti123/20291
-MEX: MULTIMEDIOS[1280*720],http://qqtv.nl:8080/patti/patti123/20432
-MEX: GOLDEN PLUS[1280*720],http://qqtv.nl:8080/patti/patti123/20420
-MEX: ULTRA FAMILIA[1280*720],http://qqtv.nl:8080/patti/patti123/20164
-MEX: UNICABLE[1280*720],http://qqtv.nl:8080/patti/patti123/20088
-MEX: MAS CHIC[1280*720],http://qqtv.nl:8080/patti/patti123/20048
-LA: MOVIEMAX HD[1920*796],http://qqtv.nl:8080/patti/patti123/20348
-LA: SHOWTIME EAST HD[1920*800],http://qqtv.nl:8080/patti/patti123/20343
-LA: SHOWTIME HD[1920*800],http://qqtv.nl:8080/patti/patti123/20342
-LA: STARZ ENCORE SUSPENSE HD[1920*800],http://qqtv.nl:8080/patti/patti123/20327
-LA: STARZ FAMILY HD[1920*800],http://qqtv.nl:8080/patti/patti123/20325
-LA: STARZ ENCORE HD[1920*802],http://qqtv.nl:8080/patti/patti123/20329
-LA: MOVIEPLEX HD[1920*804],http://qqtv.nl:8080/patti/patti123/20347
-LA: CINE MAX ACTION HD[1920*808],http://qqtv.nl:8080/patti/patti123/20359
-LA: TELEMUNDO PUERTO RICO[1920*1080],http://qqtv.nl:8080/patti/patti123/52986
-LA: HBO WEST HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20351
-LA: HBO FAMILY HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20355
-LA: FOX SERIES[1920*1080],http://qqtv.nl:8080/patti/patti123/20276
-LA: FOX MOVIES[1920*1080],http://qqtv.nl:8080/patti/patti123/20281
-LA: FOX FAMILY[1920*1080],http://qqtv.nl:8080/patti/patti123/20259
-LA: FOX CINEMA[1920*1080],http://qqtv.nl:8080/patti/patti123/20277
-LA: FOX[1920*1080],http://qqtv.nl:8080/patti/patti123/20266
-LA: TRU TV MX[1920*1080],http://qqtv.nl:8080/patti/patti123/20239
-LA: TLC MEX[1920*1080],http://qqtv.nl:8080/patti/patti123/20244
-LA: TBS VERY FUNNY[1920*1080],http://qqtv.nl:8080/patti/patti123/20251
-LA: SPACE[1920*1080],http://qqtv.nl:8080/patti/patti123/20240
-LA: PARAMOUNT CHANNEL HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20238
-LA: NAT GEO WILD[1920*1080],http://qqtv.nl:8080/patti/patti123/20246
-LA: GOLF CHANNEL[1920*1080],http://qqtv.nl:8080/patti/patti123/20072
-LA: FILM & ARTS[1920*1080],http://qqtv.nl:8080/patti/patti123/20098
-LA: NICKELODEON[1920*1080],http://qqtv.nl:8080/patti/patti123/20306
-LA: CARTOON NETWORK[1920*1080],http://qqtv.nl:8080/patti/patti123/20292
-LA: ANIMAL PLANET[1920*1080],http://qqtv.nl:8080/patti/patti123/20296
-LA: TLC[1920*1080],http://qqtv.nl:8080/patti/patti123/20426
-LA: STUDIO UNIVERSAL.[1920*1080],http://qqtv.nl:8080/patti/patti123/20429
-LA: MTV HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20417
-LA: BLOOMBERG HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20421
-LA: INDIEPLEX HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20350
-LA: EL SEMBRADOR[1920*1080],http://qqtv.nl:8080/patti/patti123/19998
-LA: STARZ BLACK HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20339
-LA: STARZ ENCORE ACTION[1920*1080],http://qqtv.nl:8080/patti/patti123/20333
-LA: STARZ ENCORE BLACK HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20332
-LA: STARZ HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20324
-MEX: TV MAS VERACRUZ[1920*1080],http://qqtv.nl:8080/patti/patti123/20091
-MEX: CANAL ONCE[1920*1080],http://qqtv.nl:8080/patti/patti123/20054
-MEX: WOBI HD[1920*1080],http://qqtv.nl:8080/patti/patti123/20428
-MEX: GARAGE TV[1920*1080],http://qqtv.nl:8080/patti/patti123/20183
-MEX: HOLA TV[1920*1080],http://qqtv.nl:8080/patti/patti123/20071
-MEX: FILM & ART[1920*1080],http://qqtv.nl:8080/patti/patti123/20399
-MEX: ULTRA TAINMENT[1920*1080],http://qqtv.nl:8080/patti/patti123/20163
-MEX: AZTECA UNO[1920*1080],http://qqtv.nl:8080/patti/patti123/20255
