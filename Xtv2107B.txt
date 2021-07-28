@@ -1,19 +1,6 @@
 X直播电视台 油管频道
 测试,#genre#
-河南都市,http://149.129.100.78/dxxw.php?id=141
-河南电视剧,http://149.129.100.78/dxxw.php?id=148
-河南民生,http://149.129.100.78/dxxw.php?id=146
-河南法治,http://149.129.100.78/dxxw.php?id=147
-河南新闻,http://149.129.100.78/dxxw.php?id=149
-河南公共,http://149.129.100.78/dxxw.php?id=151
-河南乡村,http://149.129.100.78/dxxw.php?id=152
-河南国际,http://149.129.100.78/dxxw.php?id=153
-郑州新闻综合,http://stream1.zztv.tv/zhpd/sd/live.m3u8
-郑州商都,http://stream2.zztv.tv/zztv2/sd/live.m3u8
-郑州文体旅游,http://stream1.zztv.tv/zztv3/sd/live.m3u8
-郑州影视戏曲,http://stream2.zztv.tv/zztv4/sd/live.m3u8
-郑州妇女儿童,http://stream1.zztv.tv/zztv5/sd/live.m3u8
-郑州都市生活,http://stream2.zztv.tv/zztv6/sd/live.m3u8
+
 
 
 
@@ -27,9 +14,9 @@ CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-河南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
-體育©頻道,#genre#
+河南新闻,http://149.129.100.78/dxxw.php?id=149
 
+體育©頻道,#genre#
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
