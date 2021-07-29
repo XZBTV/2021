@@ -1,45 +1,6 @@
 X直播电视台 油管频道
 测试,#genre#
-AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
-AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/318
-AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/319
-AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/320
-AstroOLYMPIC 4,https://link.zozotv.xyz:443/Freemium1/unlimited99/321
-AstroOLYMPIC 5,https://link.zozotv.xyz:443/Freemium1/unlimited99/322
-AstroOLYMPIC 6,https://link.zozotv.xyz:443/Freemium1/unlimited99/323
-AstroOLYMPIC 7,https://link.zozotv.xyz:443/Freemium1/unlimited99/324
-AstroOLYMPIC 8,https://link.zozotv.xyz:443/Freemium1/unlimited99/325
-AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium1/unlimited99/326
-AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
-AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium1/unlimited99/336
-AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium1/unlimited99/337
-Eurosport 1 FHD,http://protv-nordic.club:8080/maryan/maryan123/22543
-EUROSPORT 2HD,http://protv-nordic.club:8080/maryan/maryan123/7291
 
-ASSP-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/155
-ASSP2-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/156
-ASSP3-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/157
-ASSP4-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/158
-FOX Sport 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/159
-FOX Sport 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/160
-FOX Sport 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/161
-beIN Sports 1 ID,https://link.zozotv.xyz:443/Freemium1/unlimited99/162
-beIN Sports 2 ID,https://link.zozotv.xyz:443/Freemium1/unlimited99/163
-Champions 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/164
-Champions 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/165
-BT Sport 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/173
-BT Sport 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/174
-Sport TV 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/176
-Sport TV 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/177
-Sport TV 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/178
-Arena,https://link.zozotv.xyz:443/Freemium1/unlimited99/154
-SUKAN RTM,https://link.zozotv.xyz:443/Freemium1/unlimited99/153
-Tennis HD,https://link.zozotv.xyz:443/Freemium1/unlimited99/175
-NBC Golf,https://link.zozotv.xyz:443/Freemium1/unlimited99/166
-Eurosport,https://link.zozotv.xyz:443/Freemium1/unlimited99/328
-WWE,https://link.zozotv.xyz:443/Freemium1/unlimited99/284
-NBA TV,https://link.zozotv.xyz:443/Freemium1/unlimited99/167
-Fight Sport,https://link.zozotv.xyz:443/Freemium1/unlimited99/168
 
 
 
@@ -88,6 +49,66 @@ CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
 CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/319
+AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/320
+AstroOLYMPIC 4,https://link.zozotv.xyz:443/Freemium1/unlimited99/321
+AstroOLYMPIC 5,https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+AstroOLYMPIC 6,https://link.zozotv.xyz:443/Freemium1/unlimited99/323
+AstroOLYMPIC 7,https://link.zozotv.xyz:443/Freemium1/unlimited99/324
+AstroOLYMPIC 8,https://link.zozotv.xyz:443/Freemium1/unlimited99/325
+AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium1/unlimited99/326
+AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
+AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium1/unlimited99/336
+AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium1/unlimited99/337
+Eurosport 1 FHD,http://protv-nordic.club:8080/maryan/maryan123/22543
+EUROSPORT 2HD,http://protv-nordic.club:8080/maryan/maryan123/7291
+
+ASSP-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/155
+ASSP2-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/156
+ASSP3-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/157
+ASSP4-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/158
+FOX Sport 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/159
+FOX Sport 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/160
+FOX Sport 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/161
+beIN Sports 1 ID,https://link.zozotv.xyz:443/Freemium1/unlimited99/162
+beIN Sports 2 ID,https://link.zozotv.xyz:443/Freemium1/unlimited99/163
+Champions 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/164
+Champions 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/165
+BT Sport 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/173
+BT Sport 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/174
+Sport TV 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/176
+Sport TV 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/177
+Sport TV 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/178
+Arena,https://link.zozotv.xyz:443/Freemium1/unlimited99/154
+SUKAN RTM,https://link.zozotv.xyz:443/Freemium1/unlimited99/153
+Tennis HD,https://link.zozotv.xyz:443/Freemium1/unlimited99/175
+NBC Golf,https://link.zozotv.xyz:443/Freemium1/unlimited99/166
+Eurosport,https://link.zozotv.xyz:443/Freemium1/unlimited99/328
+WWE,https://link.zozotv.xyz:443/Freemium1/unlimited99/284
+NBA TV,https://link.zozotv.xyz:443/Freemium1/unlimited99/167
+Fight Sport,https://link.zozotv.xyz:443/Freemium1/unlimited99/168
+
+Live 1,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/18850
+Live 2,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28898
+Live 3,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28897
+Live 4,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15000
+
+&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
+冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
+
+劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
+体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
+精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
+咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 咪咕视频 4M1080A,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
 咪咕视频 8M1080B,http://39.134.66.66/PLTV/88888888/224/3221225753/index.m3u8
 咪咕视频 8M1080C,http://39.134.66.66/PLTV/88888888/224/3221225772/index.m3u8
@@ -135,32 +156,6 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 咪咕视频 8M1080T,http://39.134.66.66/PLTV/88888888/224/3221225768/index.m3u8
 咪咕视频 8M1080U,http://39.134.66.66/PLTV/88888888/224/3221225770/index.m3u8
 咪咕视频 8M1080V,http://39.134.66.66/PLTV/88888888/224/3221225774/index.m3u8
-Live 1,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/18850
-Live 2,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28898
-Live 3,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28897
-Live 4,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15000
-Live 5,http://212.224.98.207:2200/EX/bein12hd-ar/index.m3u8?token=
-Live 6,http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=
-Live 7,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15001
-Live 8,http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=
-Live 9,http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=
-Live 10,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/21927
-F1 [When Live],http://31.220.41.90:8081/live/skysportsf1.stream/chunks.m3u8
-广东体育,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
-
-劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-咪咕视频·PP体育2,http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
