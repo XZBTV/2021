@@ -1,6 +1,14 @@
 X直播电视台 油管频道
 测试,#genre#
 东森新闻台,http://pullhls3948069e.live.126.net/live/6c4d6a46ff23701118006be4ad9d4687/playlist.m3u8
+sopot1,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+sopot2,sopot1,http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+sopot3,http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+s4,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+s5,https://link.zozotv.xyz:443/Freemium1/unlimited99/154
+s6,http://91.126.141.13:1935/live/41/1800-def.m3u8
+test,https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+
 
 
 
