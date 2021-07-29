@@ -1,6 +1,44 @@
 X直播电视台 油管频道
 测试,#genre#
-IPTV5+蓝光,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
+AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
+AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/318
+AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/319
+AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/320
+AstroOLYMPIC 4,https://link.zozotv.xyz:443/Freemium1/unlimited99/321
+AstroOLYMPIC 5,https://link.zozotv.xyz:443/Freemium1/unlimited99/322
+AstroOLYMPIC 6,https://link.zozotv.xyz:443/Freemium1/unlimited99/323
+AstroOLYMPIC 7,https://link.zozotv.xyz:443/Freemium1/unlimited99/324
+AstroOLYMPIC 8,https://link.zozotv.xyz:443/Freemium1/unlimited99/325
+AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium1/unlimited99/326
+AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
+AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium1/unlimited99/336
+AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium1/unlimited99/337
+
+ASSP-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/155
+ASSP2-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/156
+ASSP3-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/157
+ASSP4-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/158
+FOX Sport 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/159
+FOX Sport 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/160
+FOX Sport 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/161
+beIN Sports 1 ID,https://link.zozotv.xyz:443/Freemium1/unlimited99/162
+beIN Sports 2 ID,https://link.zozotv.xyz:443/Freemium1/unlimited99/163
+Champions 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/164
+Champions 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/165
+BT Sport 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/173
+BT Sport 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/174
+Sport TV 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/176
+Sport TV 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/177
+Sport TV 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/178
+Arena,https://link.zozotv.xyz:443/Freemium1/unlimited99/154
+SUKAN RTM,https://link.zozotv.xyz:443/Freemium1/unlimited99/153
+Tennis HD,https://link.zozotv.xyz:443/Freemium1/unlimited99/175
+NBC Golf,https://link.zozotv.xyz:443/Freemium1/unlimited99/166
+Eurosport,https://link.zozotv.xyz:443/Freemium1/unlimited99/328
+WWE,https://link.zozotv.xyz:443/Freemium1/unlimited99/284
+NBA TV,https://link.zozotv.xyz:443/Freemium1/unlimited99/167
+Fight Sport,https://link.zozotv.xyz:443/Freemium1/unlimited99/168
+
 
 
 
