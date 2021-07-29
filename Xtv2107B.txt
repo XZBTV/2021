@@ -1,13 +1,11 @@
 X直播电视台 油管频道
 测试,#genre#
 东森新闻台,http://pullhls3948069e.live.126.net/live/6c4d6a46ff23701118006be4ad9d4687/playlist.m3u8
-sopot1,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
 sopot2,http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 sopot3,http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-s4,http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-s5,https://link.zozotv.xyz:443/Freemium1/unlimited99/154
+
 s6,http://91.126.141.13:1935/live/41/1800-def.m3u8
-test,https://link.zozotv.xyz:443/Freemium1/unlimited99/318
 
 
 
@@ -95,7 +93,10 @@ Live 2,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28898
 Live 3,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28897
 Live 4,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/15000
 
-&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+sopot2,http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+sopot3,http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+s6,http://91.126.141.13:1935/live/41/1800-def.m3u8
 五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
 冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
 
