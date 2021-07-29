@@ -9,23 +9,15 @@ X直播电视台 油管频道
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
+北京新闻,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-北京影视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=#http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
-北京文艺,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
-北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
-北京科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
-北京财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
-北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=#http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-北京东奥,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226668/index.m3u8#http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-卡酷少儿,http://39.135.138.6:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls#http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
-北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
-石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+
 河南新闻,http://149.129.100.78/dxxw.php?id=149
 
 體育©頻道,#genre#
@@ -702,6 +694,7 @@ BSフジ[1280*720],http://203.162.235.41:16911
 
 
 福建PLTV移动CDN修改版,#genre#
+
 纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 百事通4K 15M2160,http://39.135.230.79/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
@@ -899,7 +892,18 @@ SiTV都市剧场 8M1080,http://39.135.230.68/ott.fj.chinamobile.com/PLTV/8888888
 影视8 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 影视9 4M1080,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
 信号测试 5M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
+北京影视,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
+http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+北京文艺,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=#http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
+北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
+北京科教,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
+北京财经,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
 
+北京东奥,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/1.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8#http://39.135.33.12/PLTV/77777777/224/3221226668/index.m3u8#http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+卡酷少儿,http://39.135.138.6:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls#http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
+北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
+石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
 
 陕西移动,#genre#
