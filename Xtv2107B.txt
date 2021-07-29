@@ -1,6 +1,6 @@
 X直播电视台 油管频道
 测试,#genre#
-电影,https://cdn5.woniuzfb.com/live/dsdy/hIaQBNgr.m3u8
+东森新闻台,http://pullhls3948069e.live.126.net/live/6c4d6a46ff23701118006be4ad9d4687/playlist.m3u8
 
 
 
