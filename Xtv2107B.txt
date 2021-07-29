@@ -13,6 +13,8 @@ AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium1/unlimited99/326
 AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
 AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium1/unlimited99/336
 AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium1/unlimited99/337
+Eurosport 1 FHD,http://protv-nordic.club:8080/maryan/maryan123/22543
+EUROSPORT 2HD,http://protv-nordic.club:8080/maryan/maryan123/7291
 
 ASSP-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/155
 ASSP2-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/156
