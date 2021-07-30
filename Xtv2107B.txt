@@ -1,8 +1,6 @@
 X直播电视台 油管频道
 测试,#genre#
-爱尔达体育 1,rtmp://59.124.75.153/sat/md011
-爱尔达体育 2,rtmp://59.124.75.153/sat/md021
-爱尔达体育 3,rtmp://59.124.75.153/sat/md051
+
 
 东森新闻台,http://pullhls3948069e.live.126.net/live/6c4d6a46ff23701118006be4ad9d4687/playlist.m3u8
 
@@ -51,46 +49,48 @@ CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
 CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-
-AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/318
-AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/319
-AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/320
-AstroOLYMPIC 4,https://link.zozotv.xyz:443/Freemium1/unlimited99/321
-AstroOLYMPIC 5,https://link.zozotv.xyz:443/Freemium1/unlimited99/322
-AstroOLYMPIC 6,https://link.zozotv.xyz:443/Freemium1/unlimited99/323
-AstroOLYMPIC 7,https://link.zozotv.xyz:443/Freemium1/unlimited99/324
-AstroOLYMPIC 8,https://link.zozotv.xyz:443/Freemium1/unlimited99/325
-AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium1/unlimited99/326
-AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium1/unlimited99/327
-AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium1/unlimited99/336
-AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium1/unlimited99/337
+爱尔达体育 1,rtmp://59.124.75.153/sat/md021
+爱尔达体育 2,rtmp://59.124.75.153/sat/md011
+爱尔达体育 3,rtmp://59.124.75.153/sat/md051
+AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium3/unlimited99/318
+AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium3/unlimited99/319
+AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium3/unlimited99/320
+AstroOLYMPIC 4,https://link.zozotv.xyz:443/Freemium3/unlimited99/321
+AstroOLYMPIC 5,https://link.zozotv.xyz:443/Freemium3/unlimited99/322
+AstroOLYMPIC 6,https://link.zozotv.xyz:443/Freemium3/unlimited99/323
+AstroOLYMPIC 7,https://link.zozotv.xyz:443/Freemium3/unlimited99/324
+AstroOLYMPIC 8,https://link.zozotv.xyz:443/Freemium3/unlimited99/325
+AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium3/unlimited99/326
+AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium3/unlimited99/327
+AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium3/unlimited99/336
+AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium3/unlimited99/337
 Eurosport 1 FHD,http://protv-nordic.club:8080/maryan/maryan123/22543
 EUROSPORT 2HD,http://protv-nordic.club:8080/maryan/maryan123/7291
 
-ASSP-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/155
-ASSP2-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/156
-ASSP3-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/157
-ASSP4-A,https://link.zozotv.xyz:443/Freemium1/unlimited99/158
-FOX Sport 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/159
-FOX Sport 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/160
-FOX Sport 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/161
-beIN Sports 1 ID,https://link.zozotv.xyz:443/Freemium1/unlimited99/162
-beIN Sports 2 ID,https://link.zozotv.xyz:443/Freemium1/unlimited99/163
-Champions 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/164
-Champions 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/165
-BT Sport 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/173
-BT Sport 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/174
-Sport TV 1,https://link.zozotv.xyz:443/Freemium1/unlimited99/176
-Sport TV 2,https://link.zozotv.xyz:443/Freemium1/unlimited99/177
-Sport TV 3,https://link.zozotv.xyz:443/Freemium1/unlimited99/178
-Arena,https://link.zozotv.xyz:443/Freemium1/unlimited99/154
-SUKAN RTM,https://link.zozotv.xyz:443/Freemium1/unlimited99/153
-Tennis HD,https://link.zozotv.xyz:443/Freemium1/unlimited99/175
-NBC Golf,https://link.zozotv.xyz:443/Freemium1/unlimited99/166
-Eurosport,https://link.zozotv.xyz:443/Freemium1/unlimited99/328
-WWE,https://link.zozotv.xyz:443/Freemium1/unlimited99/284
-NBA TV,https://link.zozotv.xyz:443/Freemium1/unlimited99/167
-Fight Sport,https://link.zozotv.xyz:443/Freemium1/unlimited99/168
+ASSP-A,https://link.zozotv.xyz:443/Freemium3/unlimited99/155
+ASSP2-A,https://link.zozotv.xyz:443/Freemium3/unlimited99/156
+ASSP3-A,https://link.zozotv.xyz:443/Freemium3/unlimited99/157
+ASSP4-A,https://link.zozotv.xyz:443/Freemium3/unlimited99/158
+FOX Sport 1,https://link.zozotv.xyz:443/Freemium3/unlimited99/159
+FOX Sport 2,https://link.zozotv.xyz:443/Freemium3/unlimited99/160
+FOX Sport 3,https://link.zozotv.xyz:443/Freemium3/unlimited99/161
+beIN Sports 1 ID,https://link.zozotv.xyz:443/Freemium3/unlimited99/162
+beIN Sports 2 ID,https://link.zozotv.xyz:443/Freemium3/unlimited99/163
+Champions 1,https://link.zozotv.xyz:443/Freemium3/unlimited99/164
+Champions 2,https://link.zozotv.xyz:443/Freemium3/unlimited99/165
+BT Sport 1,https://link.zozotv.xyz:443/Freemium3/unlimited99/173
+BT Sport 2,https://link.zozotv.xyz:443/Freemium3/unlimited99/174
+Sport TV 1,https://link.zozotv.xyz:443/Freemium3/unlimited99/176
+Sport TV 2,https://link.zozotv.xyz:443/Freemium3/unlimited99/177
+Sport TV 3,https://link.zozotv.xyz:443/Freemium3/unlimited99/178
+Arena,https://link.zozotv.xyz:443/Freemium3/unlimited99/154
+SUKAN RTM,https://link.zozotv.xyz:443/Freemium3/unlimited99/153
+Tennis HD,https://link.zozotv.xyz:443/Freemium3/unlimited99/175
+NBC Golf,https://link.zozotv.xyz:443/Freemium3/unlimited99/166
+Eurosport,https://link.zozotv.xyz:443/Freemium3/unlimited99/328
+WWE,https://link.zozotv.xyz:443/Freemium3/unlimited99/284
+NBA TV,https://link.zozotv.xyz:443/Freemium3/unlimited99/167
+Fight Sport,https://link.zozotv.xyz:443/Freemium3/unlimited99/168
 
 Live 1,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/18850
 Live 2,http://cloudcdn.tk:80/wn6Iah1hqc/Lx9UshoaAs/28898
