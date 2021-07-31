@@ -38,9 +38,19 @@ CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
 CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-爱尔达体育 1,rtmp://59.124.75.153/sat/md021
-爱尔达体育 2,rtmp://59.124.75.153/sat/md011
-爱尔达体育 3,rtmp://59.124.75.153/sat/md051
+AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium3/unlimited99/318
+AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium3/unlimited99/319
+AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium3/unlimited99/320
+AstroOLYMPIC 4,https://link.zozotv.xyz:443/Freemium3/unlimited99/321
+AstroOLYMPIC 5,https://link.zozotv.xyz:443/Freemium3/unlimited99/322
+AstroOLYMPIC 6,https://link.zozotv.xyz:443/Freemium3/unlimited99/323
+AstroOLYMPIC 7,https://link.zozotv.xyz:443/Freemium3/unlimited99/324
+AstroOLYMPIC 8,https://link.zozotv.xyz:443/Freemium3/unlimited99/325
+AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium3/unlimited99/326
+AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium3/unlimited99/327
+AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium3/unlimited99/336
+AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium3/unlimited99/337
+
 AIS1,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel1/chunks.m3u8
 AIS2,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
 AIS3,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel3/chunks.m3u8
@@ -57,22 +67,11 @@ AIS13,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chu
 AIS14,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
 AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chunks.m3u8
 AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
+爱尔达体育 1,rtmp://59.124.75.153/sat/md021
+爱尔达体育 2,rtmp://59.124.75.153/sat/md011
+爱尔达体育 3,rtmp://59.124.75.153/sat/md051
+RTVE OL,http://91.126.141.13:1935/live/41/1800-def.m3u8
 
-AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium3/unlimited99/318
-AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium3/unlimited99/319
-AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium3/unlimited99/320
-AstroOLYMPIC 4,https://link.zozotv.xyz:443/Freemium3/unlimited99/321
-AstroOLYMPIC 5,https://link.zozotv.xyz:443/Freemium3/unlimited99/322
-AstroOLYMPIC 6,https://link.zozotv.xyz:443/Freemium3/unlimited99/323
-AstroOLYMPIC 7,https://link.zozotv.xyz:443/Freemium3/unlimited99/324
-AstroOLYMPIC 8,https://link.zozotv.xyz:443/Freemium3/unlimited99/325
-AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium3/unlimited99/326
-AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium3/unlimited99/327
-AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium3/unlimited99/336
-AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium3/unlimited99/337
-sopot2,http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
-sopot3,http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
-s6,http://91.126.141.13:1935/live/41/1800-def.m3u8
 http://protv-nordic.club:8080/maryan/maryan123/7291
 ASSP-A,https://link.zozotv.xyz:443/Freemium3/unlimited99/155
 ASSP2-A,https://link.zozotv.xyz:443/Freemium3/unlimited99/156
@@ -99,10 +98,7 @@ WWE,https://link.zozotv.xyz:443/Freemium3/unlimited99/284
 NBA TV,https://link.zozotv.xyz:443/Freemium3/unlimited99/167
 Fight Sport,https://link.zozotv.xyz:443/Freemium3/unlimited99/168
 
-
-五星体育,http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4612233678249154892&livemode=1&authCode=3a&stbId=7D4003FF004735100000288CB80A1C30&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000
-冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
-
+北京冬奥纪实 3M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
