@@ -6,6 +6,7 @@ CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
+北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
@@ -186,6 +187,25 @@ FS1185,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 FS2185,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 FS3185,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 FS3LIVE,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+Sport TV + HD,http://usa3.iptvteam.org:8000/paulo/2016/531
+Sport TV+,http://usa3.iptvteam.org:8000/paulo/2016/234
+Sport TV NBA,http://usa3.iptvteam.org:8000/paulo/2016/77
+Sport TV 1,http://usa3.iptvteam.org:8000/paulo/2016/81
+Sport TV 1 HD,http://usa3.iptvteam.org:8000/paulo/2016/108
+Sport TV 2,http://usa3.iptvteam.org:8000/paulo/2016/184
+Sport TV 2 HD,http://usa3.iptvteam.org:8000/paulo/2016/102
+Sport TV 3,http://usa3.iptvteam.org:8000/paulo/2016/79
+Sport TV 3 HD,http://usa3.iptvteam.org:8000/paulo/2016/132
+Sport TV 4,http://usa3.iptvteam.org:8000/paulo/2016/86
+Sport TV 5,http://usa3.iptvteam.org:8000/paulo/2016/78
+Eleven Sports 1,http://usa3.iptvteam.org:8000/paulo/2016/545
+Eleven Sports 2,http://usa3.iptvteam.org:8000/paulo/2016/89
+Eleven Sports 3,http://usa3.iptvteam.org:8000/paulo/2016/150
+Eleven Sports 4,http://usa3.iptvteam.org:8000/paulo/2016/66
+Eleven Sports 5,http://usa3.iptvteam.org:8000/paulo/2016/139
+Eleven Sports 6,http://usa3.iptvteam.org:8000/paulo/2016/96
+Sporting TV,http://usa3.iptvteam.org:8000/paulo/2016/526
+Sporting TV HD,http://usa3.iptvteam.org:8000/paulo/2016/645
 
 香港☒頻道,#genre#
 
