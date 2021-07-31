@@ -14,8 +14,8 @@ CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
 广州新闻,http://149.129.100.78/gztv.php?id=xinwen
+福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
 河南新闻,http://149.129.100.78/dxxw.php?id=149
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
