@@ -12,6 +12,7 @@ CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
+福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 河南新闻,http://149.129.100.78/dxxw.php?id=149
 
@@ -222,15 +223,15 @@ TVB8,https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
 无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
-RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
-RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
 ViuTV6,http://61.238.6.49:8000/bysid/96
 ViuTV6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
+RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
+RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
