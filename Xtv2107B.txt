@@ -1,7 +1,7 @@
 X直播电视台 油管频道
 测试_qqqq,#genre#
 Astro Arena,p2p://ns2.hellotvvod.com:9906/360aed0639684a89bef5a91115634d34.ts
-HKC奥运661,p2p://ns2.hellotvvod.com:9906/8304c3fae2ed4b969dbc1a15ad4f4e86.ts
+HKC奥运661,p5p://ns2.hellotvvod.com:9906/8304c3fae2ed4b969dbc1a15ad4f4e86.ts
 
 
 中文©新闻,#genre#
