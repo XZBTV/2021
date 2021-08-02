@@ -81,7 +81,8 @@ AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium4/unlimited99/326
 AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium4/unlimited99/327
 AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium4/unlimited99/336
 AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium4/unlimited99/337
-
+AstroOLYMPIC 4,https://51.79.144.36:443/Freemium4/unlimited99/321
+AstroOLYMPIC 4,https://vps -f98f79b8.vps.ovh.ca:443/Freemium4/unlimited99/321
 AIS1,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel1/chunks.m3u8
 AIS2,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
 AIS3,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel3/chunks.m3u8
