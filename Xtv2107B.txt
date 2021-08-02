@@ -55,6 +55,14 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
 超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
 咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+有線奧運601台,https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
+有線奧運602台,https://www.navchina.cf/IPTV/icable.php?id=62#https://api.leonardpark.dev/live/icable/602
+有線高清603台,https://www.navchina.cf/IPTV/icable.php?id=63#https://api.leonardpark.dev/live/icable/603
+有線奧運604台,https://www.navchina.cf/IPTV/icable.php?id=64#https://api.leonardpark.dev/live/icable/604
+有線奧運605台,https://www.navchina.cf/IPTV/icable.php?id=65#https://api.leonardpark.dev/live/icable/605
+爱尔达体育 1,rtmp://59.124.75.153/sat/md021
+爱尔达体育 2,rtmp://59.124.75.153/sat/md011
+爱尔达体育 3,rtmp://59.124.75.153/sat/md051
 AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium3/unlimited99/318
 AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium3/unlimited99/319
 AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium3/unlimited99/320
@@ -84,9 +92,7 @@ AIS13,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chu
 AIS14,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
 AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chunks.m3u8
 AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
-爱尔达体育 1,rtmp://59.124.75.153/sat/md021
-爱尔达体育 2,rtmp://59.124.75.153/sat/md011
-爱尔达体育 3,rtmp://59.124.75.153/sat/md051
+
 RTVE OL,http://91.126.141.13:1935/live/41/1800-def.m3u8
 
 http://protv-nordic.club:8080/maryan/maryan123/7291
