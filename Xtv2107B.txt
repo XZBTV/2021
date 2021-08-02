@@ -311,7 +311,7 @@ Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
 港台©198,#genre#
-
+huanxi,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
 TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
