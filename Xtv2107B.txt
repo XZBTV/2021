@@ -1,13 +1,6 @@
 X直播电视台 油管频道
-测试_qqqq,#genre#
-Astro Arena,p2p://ns2.hellotvvod.com:9906/360aed0639684a89bef5a91115634d34.ts
-HKC奥运661,p5p://ns2.hellotvvod.com:9906/8304c3fae2ed4b969dbc1a15ad4f4e86.ts
-愛爾達體育1 ,https://olympiclive-hamivideo.cdn.hinet.net/live/pool/hamitv-live56/hls-ae-uhd/hamitv-live56-avc1_3000000=4-mp4a_128000=2.m3u8?token=nOOXCJ6ErTvPCjIEHAtVlA&expires=1628475551
-愛爾達體育2 ,https://olympiclive-hamivideo.cdn.hinet.net/live/pool/hamitv-live57/hls-ae-uhd/hamitv-live57-avc1_3000000=4-mp4a_128000=2.m3u8?token=poMj53voOdESqhBnIMYq8Q&expires=1628475551
-愛爾達體育3 ,https://olympiclive-hamivideo.cdn.hinet.net/live/pool/hamitv-live008/hls-ae-fhd/hamitv-live008-avc1_2872000=4-mp4a_128000_eng=2.m3u8?token=nJLbaCydvajsXQhxqXOM-Q&expires=1628475551
-愛爾達奧運1 ,https://olympiclive-hamivideo.cdn.hinet.net/live/pool/hamitv-live123/hls-ae-fhd/hamitv-live123-avc1_3000000=4-mp4a_212400=2.m3u8?token=eVgX2My38gYACRybTrSOGQ&expires=1628475551
-愛爾達奧運2 ,https://olympiclive-hamivideo.cdn.hinet.net/live/pool/hamitv-live124/hls-ae-fhd/hamitv-live124-avc1_3000000=4-mp4a_212400=2.m3u8?token=BlB0d6I-Rzn1ba3Wg9i_Hw&expires=1628475551
-愛爾達奧運3 ,https://olympiclive-hamivideo.cdn.hinet.net/live/pool/hamitv-live125/hls-ae-fhd/hamitv-live125-avc1_3000000=4-mp4a_212400=2.m3u8?token=CMj8u-LqelcxREGJcrl6Vw&expires=1628475551
+测试,#genre#
+https://flv3948069e.live.126.net/live/fbf8bd32d0618c3adeb84b7b8f516576.flv
 
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
