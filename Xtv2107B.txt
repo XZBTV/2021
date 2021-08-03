@@ -3,8 +3,12 @@ X直播电视台 油管频道
 香港有线新闻,https://flv3948069e.live.126.net/live/fbf8bd32d0618c3adeb84b7b8f516576.flv
 香港有线财经,https://flv3948069e.live.126.net/live/841c5ae3da34aff976025204a4d02006.flv
 香港有线直播台,https://flv3948069e.live.126.net/live/d0a5a405a4619113dbc88034e6609028.flv
-香港有线603奥运台,https://flv3948069e.live.126.net/live/72949520fe3b0e6f0ac3a7632c71b61d.flv
-
+香港有线601奥运台,https://flv3948069e.live.126.net/live/72949520fe3b0e6f0ac3a7632c71b61d.flv
+香港有线602奥运台,https://flv3948069e.live.126.net/live/085ed53b1083c3f3a55a1d7ca179be30.flv
+香港有线603奥运台,https://flv3948069e.live.126.net/live/7d5f2003420c6f4d286d0f41f50006e9.flv
+香港有线604奥运台,https://flv3948069e.live.126.net/live/257d0681c64d2f99df603613c3a929d7.flv
+香港有线605奥运台,https://flv3948069e.live.126.net/live/2baad0968b207e08b6af1300440bccc9.flv
+中天新闻台,https://flv3948069e.live.126.net/live/a3f506de37747834e79ac23ccf22d315.flv
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
