@@ -70,20 +70,35 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 爱尔达体育 1,rtmp://59.124.75.153/sat/md021
 爱尔达体育 2,rtmp://59.124.75.153/sat/md011
 爱尔达体育 3,rtmp://59.124.75.153/sat/md051
-AstroOLYMPIC 1,https://link.zozotv.xyz:443/Freemium4/unlimited99/318
-AstroOLYMPIC 2,https://link.zozotv.xyz:443/Freemium4/unlimited99/319
-AstroOLYMPIC 3,https://link.zozotv.xyz:443/Freemium4/unlimited99/320
-AstroOLYMPIC 4,https://link.zozotv.xyz:443/Freemium4/unlimited99/321
-AstroOLYMPIC 5,https://link.zozotv.xyz:443/Freemium4/unlimited99/322
-AstroOLYMPIC 6,https://link.zozotv.xyz:443/Freemium4/unlimited99/323
-AstroOLYMPIC 7,https://link.zozotv.xyz:443/Freemium4/unlimited99/324
-AstroOLYMPIC 8,https://link.zozotv.xyz:443/Freemium4/unlimited99/325
-AstroOLYMPIC 9,https://link.zozotv.xyz:443/Freemium4/unlimited99/326
-AstroOLYMPIC 10,https://link.zozotv.xyz:443/Freemium4/unlimited99/327
-AstroOLYMPIC 11,https://link.zozotv.xyz:443/Freemium4/unlimited99/336
-AstroOLYMPIC 12,https://link.zozotv.xyz:443/Freemium4/unlimited99/337
+AstroOLYMPIC 1,https://51.79.144.36:443/Freemium4/unlimited99/318
+AstroOLYMPIC 2,https://51.79.144.36:443/Freemium4/unlimited99/319
+AstroOLYMPIC 3,https://51.79.144.36:443/Freemium4/unlimited99/320
 AstroOLYMPIC 4,https://51.79.144.36:443/Freemium4/unlimited99/321
-AstroOLYMPIC 4,https://vps -f98f79b8.vps.ovh.ca:443/Freemium4/unlimited99/321
+AstroOLYMPIC 5,https://51.79.144.36:443/Freemium4/unlimited99/322
+AstroOLYMPIC 6,https://51.79.144.36:443/Freemium4/unlimited99/323
+AstroOLYMPIC 7,https://51.79.144.36:443/Freemium4/unlimited99/324
+AstroOLYMPIC 8,https://51.79.144.36:443/Freemium4/unlimited99/325
+AstroOLYMPIC 9,https://51.79.144.36:443/Freemium4/unlimited99/326
+AstroOLYMPIC 10,https://51.79.144.36:443/Freemium4/unlimited99/327
+AstroOLYMPIC 11,https://51.79.144.36:443/Freemium4/unlimited99/336
+AstroOLYMPIC 12,https://51.79.144.36:443/Freemium4/unlimited99/337
+
+OLYMPIC 1,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+OLYMPIC 2,http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+OLYMPIC 3,http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+OLYMPIC 4,http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+OLYMPIC 5,http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+OLYMPIC 6,http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+OLYMPIC 7,http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+OLYMPIC 8,http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+OLYMPIC 9,http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+OLYMPIC 10,http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+OLYMPIC 11,http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+OLYMPIC 12,http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+OLYMPIC 13,http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+OLYMPIC 14,http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+OLYMPIC 15,http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+OLYMPIC 16,http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 AIS1,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel1/chunks.m3u8
 AIS2,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
 AIS3,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel3/chunks.m3u8
