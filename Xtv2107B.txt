@@ -1,6 +1,9 @@
 X直播电视台 油管频道
 测试,#genre#
-香港有线603,https://flv3948069e.live.126.net/live/fbf8bd32d0618c3adeb84b7b8f516576.flv
+香港有线新闻,https://flv3948069e.live.126.net/live/fbf8bd32d0618c3adeb84b7b8f516576.flv
+香港有线财经,https://flv3948069e.live.126.net/live/841c5ae3da34aff976025204a4d02006.flv
+香港有线直播台,https://flv3948069e.live.126.net/live/d0a5a405a4619113dbc88034e6609028.flv
+香港有线603奥运台,https://flv3948069e.live.126.net/live/72949520fe3b0e6f0ac3a7632c71b61d.flv
 
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
