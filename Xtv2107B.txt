@@ -152,12 +152,8 @@ Fight Sport,https://51.79.144.36:443/Freemium4/unlimited99/168
 咪咕视频 4M1080F,http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
 咪咕视频 4M1080G,http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
 咪咕视频 4M1080H,http://39.134.66.66/PLTV/88888888/224/3221225618/index.m3u8
-
-
 咪咕视频 4M1080L,http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
 咪咕视频 4M1080M,http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-
-
 咪咕视频 4M1080Q,http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8
 咪咕视频 4M1080R,http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
 咪咕视频 4M1080S,http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
@@ -167,7 +163,6 @@ Fight Sport,https://51.79.144.36:443/Freemium4/unlimited99/168
 咪咕视频 4M1080W,http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
 咪咕视频 4M1080X,http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
 咪咕视频 4M1080Y,http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
-
 咪咕视频 4M1080A1,http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
 咪咕视频 8M1080A,http://39.134.66.66/PLTV/88888888/224/3221225733/index.m3u8
 咪咕视频 8M1080B,http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
@@ -317,6 +312,7 @@ Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
 
 港台©198,#genre#
+
 huanxi,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
 TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
@@ -611,6 +607,7 @@ TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 晴天@港台,#genre#
+
 美亚电影台HD,mitv://ns2.hellotvvod.com:9906/294fd5166d3a49c0b50e35599970a8fa.ts
 龙华电影,mitv://ns2.hellotvvod.com:9906/b8bccd3c55f3458c95afa15545e1ebc6.ts
 星卫HD电影台,mitv://ns2.hellotvvod.com:9906/60a5e8d7006846678448155004ea5086.ts
@@ -733,7 +730,6 @@ ELEVEN体育2台,mitv://ns2.hellotvvod.com:9906/8bf23db46347476ea9ef744b3baeb58d
 智林体育台,mitv://ns2.hellotvvod.com:9906/65757604129040d0994fa63efdc45c53.ts
 博斯运动二台,mitv://ns2.hellotvvod.com:9906/9caf88670f7847cda1cc17936f242e5e.ts
 OUTDOOR,mitv://ns2.hellotvvod.com:9906/7d531270665247468b937fcf6fcd5a30.ts
-
 国家地理高画质野生频道,mitv://ns2.hellotvvod.com:9906/27dc48b4d6fa4369a016697d3c593abf.ts
 BBC Earth,mitv://ns2.hellotvvod.com:9906/76123360fff84a51ad9858112f2ec41b.ts
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/a77d9a578d03441183dfd71880ba985f.ts
@@ -784,7 +780,6 @@ BLUE ANT Extreme,mitv://ns2.hellotvvod.com:9906/754df221de6645a98ed6ac91c9088a3f
 寰宇新闻台,mitv://ns2.hellotvvod.com:9906/1e92dbd13a92441680acfffa105d4472.ts
 华视新闻,mitv://ns2.hellotvvod.com:9906/001c66bc4162497c990ee19ee075c6bd.ts
 NHK新闻资讯台,mitv://ns2.hellotvvod.com:9906/f6d510c9a71143c28af2b577796c1e04.ts
-
 采昌影剧台,mitv://ns2.hellotvvod.com:9906/1a26f5e89d8c41bfaba94e0cba53f5cb.ts
 唯心电视台,mitv://ns2.hellotvvod.com:9906/2e3d8be3630c4daab28cb880397585aa.ts
 佛卫慈悲台,mitv://ns2.hellotvvod.com:9906/1659dd3ffd0144eeae67339a9e309fae.ts
@@ -803,11 +798,12 @@ EYE TV戏剧台,mitv://ns2.hellotvvod.com:9906/20b2b2546480462dabe8dd88327a81f3.
 
 電影©頻道,#genre#
 星卫HD电影台,P2p://ns2.hellotvvod.com:9906/0a29bbae12f5470bbb63dd66f8464106.ts
+龙祥电影,P2p://ns2.hellotvvod.com:9906/a05f47ed451d4579bb46148be8b91fbb.ts
 卫视电影台,P2p://ns2.hellotvvod.com:9906/37b241c295bb41158ca4b63899dbee10.ts
 东森电影台,P2p://ns2.hellotvvod.com:9906/1ac6de1485274d0c85e199f545a9feda.ts
 东森洋片台,P2p://ns2.hellotvvod.com:9906/75a26e5097004289846a11221a765768.ts
 纬来电影台,P2p://ns2.hellotvvod.com:9906/9888df3cc5dd4e248f31d1c85922d13c.ts
-龙祥电影,P2p://ns2.hellotvvod.com:9906/a05f47ed451d4579bb46148be8b91fbb.ts
+
 美亚电影台HD,P2p://ns2.hellotvvod.com:9906/e48d3afade704120bd8a6ce07751d504.ts
 龙华电影,P2p://ns2.hellotvvod.com:9906/13bbd5efea354b5eaabe492178bb4126.ts
 AXN,P2p://ns2.hellotvvod.com:9906/a4b5bd33031e4096b454cd33ae13749b.ts
@@ -821,6 +817,7 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
 
 海外©頻道,#genre#
+
 NBC,http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8
 CNBC,http://stream.tvtap.live:8081/live/us-cnbc.stream/playlist.m3u8
 ABCnews,http://stream.tvtap.live:8081/live/us-abcnews.stream/playlist.m3u8
