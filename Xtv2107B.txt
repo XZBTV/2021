@@ -9,6 +9,7 @@ X直播电视台 油管频道
 香港有线604奥运台,https://flv3948069e.live.126.net/live/257d0681c64d2f99df603613c3a929d7.flv
 香港有线605奥运台,https://flv3948069e.live.126.net/live/2baad0968b207e08b6af1300440bccc9.flv
 中天新闻台,https://flv3948069e.live.126.net/live/a3f506de37747834e79ac23ccf22d315.flv
+中天新闻台2,https://flv3948069e.live.126.net/live/39f81a1745ab8550d7acf230ec213b54.m3u8
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
