@@ -239,8 +239,6 @@ Sporting TV HD,http://usa3.iptvteam.org:8000/paulo/2016/645
 翡翠台1,http://livetv.dnsfor.me/channel.18.m3u8
 翡翠台2,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
-翡翠台4,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
-翡翠台5,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 J23,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
 J24,p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
