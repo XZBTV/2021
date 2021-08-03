@@ -1,10 +1,14 @@
 X直播电视台 油管频道
 测试,#genre#
-
+TVB US 1,p2p://fccsovh.pvbox.live:18912/5cffd79b0008224605e668c79ca6efc0.ts
+TVB US 1,p2p://fccseuro.pvbox.live:18912/5cffd79b0008224605e668c79ca6efc0.ts
+TVB US 2,p2p://fccsovh.pvbox.live:18912/5cffd79d0004cbb66f6dece9140f8690.ts
+TVB US 2,p2p://fccseuro.pvbox.live:18912/5cffd79d0004cbb66f6dece9140f8690.ts
+TVB,p2p://fccsovh.pvbox.live:18912/5cf559f800003d1bab8b3e07f042c2b9.ts
+TVB,p2p://fccseuro.pvbox.live:18912/5cf559f800003d1bab8b3e07f042c2b9.ts
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 北京新闻,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
@@ -14,9 +18,9 @@ CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-广州新闻,http://149.129.100.78/gztv.php?id=xinwen
+广州新闻,
 福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
-河南新闻,http://149.129.100.78/dxxw.php?id=149
+河南新闻,
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 
