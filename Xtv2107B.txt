@@ -1,93 +1,6 @@
 X直播电视台 油管频道
 测试,#genre#
 
-Unknown 0,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-Unknown 1,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-Unknown 2,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-Unknown 3,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-Unknown 4,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-Unknown 5,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-Unknown 12,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-Unknown 13,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-Unknown 14,https://livecdn.fptplay.net/hda/foxfamilymovies_2000.stream/chunklist.m3u8
-Unknown 15,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-Unknown 16,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-Unknown 17,https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-Unknown 18,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-Unknown 19,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-Unknown 20,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-Unknown 21,https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-Unknown 22,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-Unknown 23,https://live-ng-01.more.tv/hls/UFC/index_4.m3u8
-Unknown 24,http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-Unknown 25,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-Unknown 26,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-Unknown 27,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-Unknown 28,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-Unknown 29,http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
-Unknown 31,https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-Unknown 32,https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-Unknown 33,https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-Unknown 34,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-Unknown 35,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-Unknown 36,https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-Unknown 39,https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/happykidhd_abr/playlist.m3u8
-Unknown 40,https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-Unknown 41,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-Unknown 42,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-Unknown 43,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-Unknown 44,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-Unknown 45,https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
-Unknown 46,https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/drfithd_abr/playlist.m3u8
-Unknown 47,https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/womanhd_abr/playlist.m3u8
-Unknown 48,https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/planetearthhd_abr/playlist.m3u8
-Unknown 49,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-Unknown 50,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-Unknown 51,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-Unknown 52,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-Unknown 53,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-Unknown 54,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-Unknown 55,http://live.cgtn.com/1000/prog_index.m3u8
-Unknown 56,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
-Unknown 57,https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
-Unknown 58,https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
-Unknown 59,https://rt-usa.secure.footprint.net/1105.m3u8
-Unknown 60,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-Unknown 61,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-Unknown 62,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-Unknown 63,https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-Unknown 64,http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
-Unknown 65,http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-Unknown 66,https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-Unknown 68,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-Unknown 69,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-Unknown 70,http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
-Unknown 71,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
-Unknown 72,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-Unknown 73,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-Unknown 74,http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227483/index.m3u8
-Unknown 75,http://203.162.235.41:16910
-Unknown 76,http://203.162.235.41:16906
-Unknown 77,http://203.162.235.41:16908
-Unknown 78,http://203.162.235.41:16907
-Unknown 79,http://203.162.235.41:16904
-Unknown 80,http://203.162.235.41:16905
-Unknown 81,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-Unknown 82,http://203.162.235.41:16913
-Unknown 83,http://203.162.235.41:16914
-Unknown 84,http://203.162.235.41:16911
-Unknown 85,http://203.162.235.41:16915
-Unknown 86,http://203.162.235.41:16912
-Unknown 87,http://203.162.235.41:16916
-Unknown 88,https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-Unknown 89,https://tc-live1.sanook.com/live/22302_ch5.m3u8
-Unknown 90,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-Unknown 91,http://livetv.dnsfor.me:80/channel.18.m3u8
-Unknown 92,http://livetv.dnsfor.me:80/channel.19.m3u8
-Unknown 93,http://livetv.dnsfor.me:80/channel.10.m3u8
-Unknown 94,http://livetv.dnsfor.me:80/channel.11.m3u8
-Unknown 95,http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
-Unknown 96,http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
@@ -101,9 +14,7 @@ CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
-广州新闻,
 福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
-河南新闻,
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 
