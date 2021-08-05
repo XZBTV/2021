@@ -3,7 +3,6 @@ X直播电视台 油管频道
 
 Astro Shuang Xing,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro Quan Jia HD,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-Astro Ceria,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 Astro 小太阳 (Astro Xiao Tai Yang),http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -17,11 +16,6 @@ TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Oh!K hd,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-Awesome,https://jukin-peopleareawesome-2-in.samsung.wurl.com/manifest/playlist.m3u8
-Crime & Investigation,http://185.180.221.194:8278/streams/d/Ci/playlist.m3u8
-LifeTime,http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
-FOX MOVIES,http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-
 KBS WORLD,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 HBO Malaysia,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -140,31 +134,7 @@ AIS13,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chu
 AIS14,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
 AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chunks.m3u8
 AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
-RTVE OL,http://91.126.141.13:1935/live/41/1800-def.m3u8
-ASSP-A,https://51.79.144.36:443/Freemium4/unlimited99/155
-ASSP2-A,https://51.79.144.36:443/Freemium4/unlimited99/156
-ASSP3-A,https://51.79.144.36:443/Freemium4/unlimited99/157
-ASSP4-A,https://51.79.144.36:443/Freemium4/unlimited99/158
-FOX Sport 1,https://51.79.144.36:443/Freemium4/unlimited99/159
-FOX Sport 2,https://51.79.144.36:443/Freemium4/unlimited99/160
-FOX Sport 3,https://51.79.144.36:443/Freemium4/unlimited99/161
-beIN Sports 1 ID,https://51.79.144.36:443/Freemium4/unlimited99/162
-beIN Sports 2 ID,https://51.79.144.36:443/Freemium4/unlimited99/163
-Champions 1,https://51.79.144.36:443/Freemium4/unlimited99/164
-Champions 2,https://51.79.144.36:443/Freemium4/unlimited99/165
-BT Sport 1,https://51.79.144.36:443/Freemium4/unlimited99/173
-BT Sport 2,https://51.79.144.36:443/Freemium4/unlimited99/174
-Sport TV 1,https://51.79.144.36:443/Freemium4/unlimited99/176
-Sport TV 2,https://51.79.144.36:443/Freemium4/unlimited99/177
-Sport TV 3,https://51.79.144.36:443/Freemium4/unlimited99/178
-Arena,https://51.79.144.36:443/Freemium4/unlimited99/154
-SUKAN RTM,https://51.79.144.36:443/Freemium4/unlimited99/153
-Tennis HD,https://51.79.144.36:443/Freemium4/unlimited99/175
-NBC Golf,https://51.79.144.36:443/Freemium4/unlimited99/166
-Eurosport,https://51.79.144.36:443/Freemium4/unlimited99/328
-WWE,https://51.79.144.36:443/Freemium4/unlimited99/284
-NBA TV,https://51.79.144.36:443/Freemium4/unlimited99/167
-Fight Sport,https://51.79.144.36:443/Freemium4/unlimited99/168
+
 
 
 北京冬奥纪实 3M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
