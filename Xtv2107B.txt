@@ -1,6 +1,43 @@
 X直播电视台 油管频道
 测试,#genre#
 
+SportTv1,http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+SportTv2,http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+SportTv3,http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+SportTv4,http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+SportTv5,http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+BEIN SPORT 1  HD,http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+
+BEIN SPORT 2  HD,http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+
+beIN SPORTS 1 Tur,http://6.oldbozcdn1.cc/nirvana1/index.m3u8
+beIN SPORTS XTRA,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Canal+ Sport HD,http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+ELEVEN SPORTS 1 HD,http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+ELEVEN SPORTS 2 HD,http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+TNT SPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+TNT SPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+TNT SPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+SKyNet-HD,http://77.83.117.60:8888/03_skynetsporthd_720p/chunklist.m3u8
+SKYNET HD,https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+SKyNet-1,http://77.83.117.60:8888/03_skynetsport1_480p/chunklist.m3u8
+
+SKyNet-2,http://77.83.117.60:8888/03_skynetsport2_480p/chunklist.m3u8
+
+SKyNet-3,http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+
+SKyNet-4,http://77.83.117.60:8888/03_skynetsport4_480p/chunklist.m3u8
+
+SKyNet-5,http://77.83.117.60:8888/03_skynetsport5_480p/chunklist.m3u8
+
+SKyNet-6,http://77.83.117.60:8888/03_skynetsport6_480p/chunklist.m3u8
+
+
+
+
+马来@50,#genre#
 Astro Shuang Xing,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro Quan Jia HD,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
