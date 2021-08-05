@@ -1,9 +1,6 @@
 X直播电视台 油管频道
 测试,#genre#
 
-
-
-
 马来@50,#genre#
 Astro Shuang Xing,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro Quan Jia HD,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
@@ -293,6 +290,8 @@ Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 功夫台2,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
+天映电影台,http://iptv.tvmalaysia.cc/932633/932633/7222
+天映电影台2,http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
