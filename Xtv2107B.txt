@@ -68,18 +68,6 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 爱尔达体育 1,rtmp://59.124.75.153/sat/md021
 爱尔达体育 2,rtmp://59.124.75.153/sat/md011
 爱尔达体育 3,rtmp://59.124.75.153/sat/md051
-AstroOLYMPIC 1,https://51.79.144.36:443/Freemium4/unlimited99/318
-AstroOLYMPIC 2,https://51.79.144.36:443/Freemium4/unlimited99/319
-AstroOLYMPIC 3,https://51.79.144.36:443/Freemium4/unlimited99/320
-AstroOLYMPIC 4,https://51.79.144.36:443/Freemium4/unlimited99/321
-AstroOLYMPIC 5,https://51.79.144.36:443/Freemium4/unlimited99/322
-AstroOLYMPIC 6,https://51.79.144.36:443/Freemium4/unlimited99/323
-AstroOLYMPIC 7,https://51.79.144.36:443/Freemium4/unlimited99/324
-AstroOLYMPIC 8,https://51.79.144.36:443/Freemium4/unlimited99/325
-AstroOLYMPIC 9,https://51.79.144.36:443/Freemium4/unlimited99/326
-AstroOLYMPIC 10,https://51.79.144.36:443/Freemium4/unlimited99/327
-AstroOLYMPIC 11,https://51.79.144.36:443/Freemium4/unlimited99/336
-AstroOLYMPIC 12,https://51.79.144.36:443/Freemium4/unlimited99/337
 
 OLYMPIC 1,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
 OLYMPIC 2,http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
