@@ -68,23 +68,6 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 爱尔达体育 1,rtmp://59.124.75.153/sat/md021
 爱尔达体育 2,rtmp://59.124.75.153/sat/md011
 爱尔达体育 3,rtmp://59.124.75.153/sat/md051
-
-OLYMPIC 1,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-OLYMPIC 2,http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-OLYMPIC 3,http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-OLYMPIC 4,http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-OLYMPIC 5,http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-OLYMPIC 6,http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-OLYMPIC 7,http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-OLYMPIC 8,http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-OLYMPIC 9,http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-OLYMPIC 10,http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-OLYMPIC 11,http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-OLYMPIC 12,http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-OLYMPIC 13,http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-OLYMPIC 14,http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-OLYMPIC 15,http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-OLYMPIC 16,http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 AIS1,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel1/chunks.m3u8
 AIS2,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel2/chunks.m3u8
 AIS3,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel3/chunks.m3u8
@@ -101,8 +84,22 @@ AIS13,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel13/chu
 AIS14,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel14/chunks.m3u8
 AIS15,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel15/chunks.m3u8
 AIS16,https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r9/channel16/chunks.m3u8
-
-
+OLYMPIC 1,http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
+OLYMPIC 2,http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
+OLYMPIC 3,http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
+OLYMPIC 4,http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
+OLYMPIC 5,http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
+OLYMPIC 6,http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
+OLYMPIC 7,http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
+OLYMPIC 8,http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
+OLYMPIC 9,http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
+OLYMPIC 10,http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
+OLYMPIC 11,http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
+OLYMPIC 12,http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
+OLYMPIC 13,http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
+OLYMPIC 14,http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
+OLYMPIC 15,http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
+OLYMPIC 16,http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 
 北京冬奥纪实 3M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
@@ -175,8 +172,7 @@ ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
-博斯运动2台,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
+纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
 FS1cdn,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 FS2cdn,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 FS3cdn,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
@@ -549,34 +545,32 @@ Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 刘德华,http://121.12.115.15/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
 李连杰,http://121.12.115.15/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
 老电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-虎牙娱乐
-星爷经典不间断,http://hy.tushepy.com/pls/huya.php?id=11342412
-英叔护体 | 林正英搞笑僵尸系列,http://hy.tushepy.com/pls/huya.php?id=11342421
-蜡笔小新·逗比少年欢乐多,http://hy.tushepy.com/pls/huya.php?id=11352970
-飞驰人生·献丑了！,http://hy.tushepy.com/pls/huya.php?id=880261
-老白涮肉坊·葵花点穴手,http://hy.tushepy.com/pls/huya.php?id=11352915
-纪晓岚-岚宝珅宝的爱恨情仇,http://hy.tushepy.com/pls/huya.php?id=11342396
-加时 预祝X哥荣升超皇 大象up,http://hy.tushepy.com/pls/huya.php?id=592010
+星爷经典,http://hy.tushepy.com/pls/huya.php?id=11342412
+林正英,http://hy.tushepy.com/pls/huya.php?id=11342421
+蜡笔小新,http://hy.tushepy.com/pls/huya.php?id=11352970
+飞驰人生,http://hy.tushepy.com/pls/huya.php?id=880261
+武林外传,http://hy.tushepy.com/pls/huya.php?id=11352915
+纪晓岚,http://hy.tushepy.com/pls/huya.php?id=11342396
 看电影啦~,http://hy.tushepy.com/pls/huya.php?id=22115343
 经典华语片场,http://hy.tushepy.com/pls/huya.php?id=24357459
-万众瞩目的丧尸剧续集来袭,http://hy.tushepy.com/pls/huya.php?id=13303478
-让子弹飞，搞笑系列,http://hy.tushepy.com/pls/huya.php?id=24436252
+丧尸剧续集来袭,http://hy.tushepy.com/pls/huya.php?id=13303478
+让子弹飞,http://hy.tushepy.com/pls/huya.php?id=24436252
 喜剧片【哗鬼旅行团】,http://hy.tushepy.com/pls/huya.php?id=19491676
-成龙经典武打动作片,http://hy.tushepy.com/pls/huya.php?id=11342386
-沈腾合集笑就完事儿了,http://hy.tushepy.com/pls/huya.php?id=11601968
+成龙经典,http://hy.tushepy.com/pls/huya.php?id=11342386
+沈腾合集,http://hy.tushepy.com/pls/huya.php?id=11601968
 美人鱼！,http://hy.tushepy.com/pls/huya.php?id=11259843
-动作，恐怖，僵尸，喜剧,http://hy.tushepy.com/pls/huya.php?id=15454980
-恐怖经典电影,http://hy.tushepy.com/pls/huya.php?id=13479330
-康熙·民间私访,http://hy.tushepy.com/pls/huya.php?id=11342418
-刘德华电影_经典系列,http://hy.tushepy.com/pls/huya.php?id=11342424
-看孙悟空唐三藏取西经,http://hy.tushepy.com/pls/huya.php?id=23735126
-胡八一胖子沙漠古城找鬼洞,http://hy.tushepy.com/pls/huya.php?id=11352871
-西虹市首富 背台词选手请就位！,http://hy.tushepy.com/pls/huya.php?id=22972199
-历年贺岁档 笑就完事儿了,http://hy.tushepy.com/pls/huya.php?id=11601986
-【吴京】京哥看了都说赞,http://hy.tushepy.com/pls/huya.php?id=11602045
-甄子丹 我要打十个,http://hy.tushepy.com/pls/huya.php?id=11352935
+动作,http://hy.tushepy.com/pls/huya.php?id=15454980
+恐怖经典,http://hy.tushepy.com/pls/huya.php?id=13479330
+康熙私访,http://hy.tushepy.com/pls/huya.php?id=11342418
+刘德华经典,http://hy.tushepy.com/pls/huya.php?id=11342424
+悟空唐三藏取西经,http://hy.tushepy.com/pls/huya.php?id=23735126
+盗墓笔记,http://hy.tushepy.com/pls/huya.php?id=11352871
+西虹市首富,http://hy.tushepy.com/pls/huya.php?id=22972199
+贺岁档,http://hy.tushepy.com/pls/huya.php?id=11601986
+【吴京】,http://hy.tushepy.com/pls/huya.php?id=11602045
+甄子丹 ,http://hy.tushepy.com/pls/huya.php?id=11352935
 【僵尸】林正英 恐怖,http://hy.tushepy.com/pls/huya.php?id=19916618
-大笑~人在囧途,http://hy.tushepy.com/pls/huya.php?id=118524
+人在囧途,http://hy.tushepy.com/pls/huya.php?id=118524
 【科幻系列】硬核浪漫,http://hy.tushepy.com/pls/huya.php?id=11352895
 周润发电影 小马哥归来,http://hy.tushepy.com/pls/huya.php?id=11342387
 
