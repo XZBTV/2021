@@ -1,18 +1,5 @@
 X直播电视台 油管频道
 测试,#genre#
-无线新闻,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-无线翡翠,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-TVB-J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-无线明珠,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-NOW-新闻台,p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b.ts
-
-
-
-
-
-
-
-
 
 
 中文©新闻,#genre#
@@ -218,9 +205,10 @@ TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 J2,http://livetv.dnsfor.me/channel.19.m3u8
-明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
-TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+
+
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
 TVB8,https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5399055.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
@@ -251,16 +239,14 @@ Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2
 凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
 凤凰资讯,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰香港,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 功夫台2,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-天映电影台,http://iptv.tvmalaysia.cc/932633/932633/7222
 天映电影台2,http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
