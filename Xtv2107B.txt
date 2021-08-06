@@ -8,7 +8,7 @@ http://livetv.dnsfor.me/channel.12.m3u8
 
 
 马来@50,#genre#
-Astro 双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
@@ -37,6 +37,8 @@ Celestial Movies 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playli
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
+Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 Astro SuperSport,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 Astro SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
