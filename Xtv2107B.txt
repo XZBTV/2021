@@ -229,6 +229,7 @@ TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+J2,http://livetv.dnsfor.me/channel.19.m3u8
 明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -249,8 +250,11 @@ ViuTV6,http://61.238.6.49:8000/bysid/96
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+Now直播331台,https://api.leonardpark.dev/live/now/331
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播660台,http://livetv.dnsfor.me/channel.12.m3u8
+Now Sports Prime 630,https://api.leonardpark.dev/live/now/630
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,http://livetv.dnsfor.me:80/channel.9.m3u8  
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -276,6 +280,30 @@ Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
 国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
+
+香港@Livetv,#genre#
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊台 HD,http://livetv.dnsfor.me:80/channel.6.m3u8
+有線綜合娛樂台 HD,http://livetv.dnsfor.me:80/channel.7.m3u8
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
+無綫新聞台,http://livetv.dnsfor.me:80/channel.10.m3u8
+無綫財經資訊台,http://livetv.dnsfor.me:80/channel.11.m3u8
+Now Sports Prime 630,http://livetv.dnsfor.me:80/channel.12.m3u8
+ATV,http://livetv.dnsfor.me:80/channel.14.m3u8
+HKS香港卫视,http://livetv.dnsfor.me:80/channel.15.m3u8
+凤凰香港台,http://livetv.dnsfor.me:80/channel.16.m3u8
+CCTV5HD,http://livetv.dnsfor.me:80/channel.17.m3u8
+翡翠台,http://livetv.dnsfor.me:80/channel.18.m3u8
+J2,http://livetv.dnsfor.me:80/channel.19.m3u8
+VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
+鳳凰資訊台,http://livetv.dnsfor.me:80/channel.21.m3u8
+星空卫视,http://livetv.dnsfor.me:80/channel.22.m3u8
+UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
+亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
 
 港台©198,#genre#
 
