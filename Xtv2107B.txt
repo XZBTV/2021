@@ -1,6 +1,11 @@
 X直播电视台 油管频道
 测试,#genre#
-
+ASTRO AEC HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6701
+ASTRO AOD 351 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
+ASTRO AOD 352 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
+ASTRO AOD 353 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
+ASTRO AOD 354 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
+ASTRO AOD 355 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
 
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
