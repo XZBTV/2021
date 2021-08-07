@@ -1620,7 +1620,7 @@ CCTV中视购物 4M1080,http://39.135.140.104:6610/PLTV/88888888/224/3221225976/
 昌南资讯 2.5M1080,http://39.135.140.104:6610/PLTV/88888888/224/3221226228/2/index.m3u8?fmt=ts2hls
 昌南都市 2.5M1080,http://39.135.140.104:6610/PLTV/88888888/224/3221226226/2/index.m3u8?fmt=ts2hls
 
-测试@晴天,#genre#
+临时MITV@晴天,#genre#
 奥运,#genre#
 CCTV5,mitv://ns2.hellotvvod.com:9906/3c135db0bfb84112bb843700754a3054.ts
 CCTV5+,mitv://ns2.hellotvvod.com:9906/4819baae737a4b31bb4477788c512f7c.ts
