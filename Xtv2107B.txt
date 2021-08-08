@@ -1,105 +1,5 @@
 X直播电视台 油管频道
 测试,#genre#
-7-Teletica,http://190.61.102.67:8000/play/a0f9
-AZ click HD,http://190.61.102.67:8000/play/a0dv
-CARTOON NT HD,http://190.61.102.67:8000/play/a0e5
-Canal Claro HD,http://190.61.102.67:8000/play/a0e4
-DHE HD,http://190.61.102.67:8000/play/a0du
-DISCOVERY THEATHER HD,http://190.61.102.67:8000/play/a0d7
-Discovery Channel HD,http://190.61.102.67:8000/play/a0gi
-Discovery ID HD,http://190.61.102.67:8000/play/a0gn
-Discovery Kids HD,http://190.61.102.67:8000/play/a0gj
-Discovery World HD,http://190.61.102.67:8000/play/a0gk
-Disney CHANNEL,http://190.61.102.67:8000/play/a0ao
-E! Entertairment HD,http://190.61.102.67:8000/play/a0dm
-ESPN +,http://190.61.102.67:8000/play/a0ed
-ESPN 2 HD,http://190.61.102.67:8000/play/a0gd
-ESPN 3 HD,http://190.61.102.67:8000/play/a0gc
-ESPN HD,http://190.61.102.67:8000/play/a0gb
-EURO Channel,http://190.61.102.67:8000/play/a09j
-Europa HD,http://190.61.102.67:8000/play/a0ds
-FOX SPORTS 2 HD,http://190.61.102.67:8000/play/a0d5
-FOX SPORTS 3 HD,http://190.61.102.67:8000/play/a0ge
-FUTV HD CR,http://190.61.102.67:8000/play/a0gr
-FX HD,http://190.61.102.67:8000/play/a0dr
-FX Movies HD,http://190.61.102.67:8000/play/a0dt
-Film & arts HD,http://190.61.102.67:8000/play/a0dn
-Fox Sports HD,http://190.61.102.67:8000/play/a0ej
-France24,http://190.61.102.67:8000/play/a09a
-Golden,http://190.61.102.67:8000/play/a0h2
-Golf Channel HD,http://190.61.102.67:8000/play/a0dx
-HBO Plus HD,http://190.61.102.67:8000/play/a0e9
-HOLA! TV HD,http://190.61.102.67:8000/play/a0d9
-History HD,http://190.61.102.67:8000/play/a0ec
-Holvoet TV INT,http://190.61.102.67:8000/play/a0i0
-Holvoet tv INT,http://190.61.102.67:8000/play/a0i8
-Home & Health HD,http://190.61.102.67:8000/play/a0d8
-ID,http://190.61.102.67:8000/play/a0as
-LIFE TIME,http://190.61.102.67:8000/play/a091
-LITUS HD INT,http://190.61.102.67:8000/play/a0i2
-La voz de Maria,http://190.61.102.67:8000/play/a0ff
-MASTV ROATAN,http://190.61.102.67:8000/play/a0bs
-MTV,http://190.61.102.67:8000/play/a0av
-MTV 80s,http://190.61.102.67:8000/play/a094
-MTV HD,http://190.61.102.67:8000/play/a0fw
-MTV Hits,http://190.61.102.67:8000/play/a093
-MTV SIM HD,http://190.61.102.67:8000/play/a0db
-Mas Chic,http://190.61.102.67:8000/play/a0ey
-Multicinema,http://190.61.102.67:8000/play/a0fm
-Nat Geo HD,http://190.61.102.67:8000/play/a0gf
-Nat Geo Kids,http://190.61.102.67:8000/play/a09g
-Nick 2 HD,http://190.61.102.67:8000/play/a0d3
-Nick Jr,http://190.61.102.67:8000/play/a0gt
-Nick SIM HD,http://190.61.102.67:8000/play/a0d4
-PORTAL FOX MIX INT,http://190.61.102.67:8000/play/a0i4
-PORTALMIX INT,http://190.61.102.67:8000/play/a0hz
-PXTV,http://190.61.102.67:8000/play/a0fl
-Paramount HD,http://190.61.102.67:8000/play/a0gg
-Pasiones HD,http://190.61.102.67:8000/play/a0g1
-Pentecostes Patzicia,http://190.61.102.67:8000/play/a0ir
-Playboy,http://190.61.102.67:8000/play/a0f4
-RADIO M2O INT,http://190.61.102.67:8000/play/a0i5
-RCN - GUA,http://190.61.102.67:8000/play/a086
-RCN Novelas,http://190.61.102.67:8000/play/a09i
-RHEMA TV,http://190.61.102.67:8000/play/a0fi
-Romancero Latino,http://190.61.102.67:8000/play/a0g3
-SEMILLITAS,http://190.61.102.67:8000/play/a08t
-SONY HD,http://190.61.102.67:8000/play/a0eh
-SPACE,http://190.61.102.67:8000/play/a08x
-SPACE HD,http://190.61.102.67:8000/play/a0el
-STAR ACTION HD,http://190.61.102.67:8000/play/a0df
-STAR CHANNEL,http://190.61.102.67:8000/play/a0ap
-STAR CHANNEL HD,http://190.61.102.67:8000/play/a0ef
-STAR CLASSICS HD,http://190.61.102.67:8000/play/a0dh
-STAR COMEDY HD,http://190.61.102.67:8000/play/a0go
-STAR COMEDY HD,http://190.61.102.67:8000/play/a0g2
-STAR FUN HD,http://190.61.102.67:8000/play/a0dg
-STAR HITS,http://190.61.102.67:8000/play/a0fh
-STAR HITS HD,http://190.61.102.67:8000/play/a0de
-STAR LIFE,http://190.61.102.67:8000/play/a08u
-STAR SERIES,http://190.61.102.67:8000/play/a0fg
-STAR SERIES HD,http://190.61.102.67:8000/play/a0dd
-Sembrador,http://190.61.102.67:8000/play/a09w
-Star TVE HD,http://190.61.102.67:8000/play/a0dw
-Studio Universal HD,http://190.61.102.67:8000/play/a0dj
-Sun Channel,http://190.61.102.67:8000/play/a0f1
-SyFy,http://190.61.102.67:8000/play/a0ab
-SyFy HD,http://190.61.102.67:8000/play/a0dk
-TBN Enlace,http://190.61.102.67:8000/play/a0bj
-TCM,http://190.61.102.67:8000/play/a09s
-TD+2 HD CR,http://190.61.102.67:8000/play/a0fq
-TD+HD CR,http://190.61.102.67:8000/play/a0gs
-TLT,http://190.61.102.67:8000/play/a0g7
-TNT HD,http://190.61.102.67:8000/play/a0d6
-TNT Series HD,http://190.61.102.67:8000/play/a0gh
-TV Max - PAN,http://190.61.102.67:8000/play/a0fb
-TVE,http://190.61.102.67:8000/play/a0ak
-Telemundo,http://190.61.102.67:8000/play/a08v
-Telemundo HD,http://190.61.102.67:8000/play/a0dq
-Televida RD,http://190.61.102.67:8000/play/a0ez
-Univision HD,http://190.61.102.67:8000/play/a0gm
-VH1,http://190.61.102.67:8000/play/a09q
-VH1 HD,http://190.61.102.67:8000/play/a0gw
 
 台湾,#genre#
 
@@ -584,11 +484,9 @@ TVBS欢乐,rtmp://161.202.204.248:1935/sat/tv421
 东森财经新闻台,rtmp://59.124.75.130/sat/tv571
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
-
-
-
-
-马来Malaysia@50,#genre#
+马来@50,#genre#
+Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
@@ -625,7 +523,7 @@ Astro SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 Astro SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 Astro SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
-马来Malaysia@iptv,#genre#
+马来@iptv,#genre#
 
 ASTRO Ria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
 ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
