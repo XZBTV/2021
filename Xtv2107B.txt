@@ -1,6 +1,17 @@
 X直播电视台 油管频道
 测试,#genre#
-
+TVBS,mitv://fccsovh.pvbox.live:18912/5b140960000c982bf20a21204526e2d1.ts
+环宇新闻,mitv://fccsovh.pvbox.live:18912/5b1408f30005adec057583980131e1ee.ts
+中视新闻,mitv://fccsovh.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec.ts
+中天新闻,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
+东森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
+壹视新闻,mitv://fccseuro.pvbox.live:18912/5bdbf3a3000abb1b9d0d2fbc16310115.ts
+年代新闻,mitv://fccsovh.pvbox.live:18912/5c2dd76000032856525d0ee781504477.ts
+民视新闻,mitv://fccsovh.pvbox.live:18912/5c2dd73500017585407c3f581ea07c53.ts
+三立新闻,mitv://fccseuro.pvbox.live:18912/5c2dd73800094069401436c92bc9bed5.ts
+TVBS新闻,mitv://fccseuro.pvbox.live:18912/5c2dd76300095ef4ca7620ece66109ec.ts
+TVBS娱乐,mitv://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d.ts
+TVBS精彩,mitv://fccsovh.pvbox.live:18912/5bdbf3b20000e966127226d088c6564d.ts
 台湾,#genre#
 
 BBC HD,p2p://fccsovh.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4#p2p://fccseuro.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
