@@ -150,14 +150,7 @@ CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
 CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-咪咕视频 4M1080J,http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
-咪咕视频 4M1080K,http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
-咪咕视频 4M1080N,http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
-咪咕视频 4M1080P,http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
-咪咕视频 4M1080R,http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
-咪咕视频 4M1080V,http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
-咪咕视频 4M1080X,http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
-咪咕视频 4M1080Z,http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+
 超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
 超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
 超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
@@ -214,48 +207,6 @@ OLYMPIC 16,http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
 精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
 咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-咪咕视频 4M1080A,http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
-咪咕视频 8M1080B,http://39.134.66.66/PLTV/88888888/224/3221225753/index.m3u8
-咪咕视频 8M1080C,http://39.134.66.66/PLTV/88888888/224/3221225772/index.m3u8
-咪咕视频 8M1080D,http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
-咪咕视频 8M1080E,http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
-咪咕视频 4M1080F,http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
-咪咕视频 4M1080G,http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
-咪咕视频 4M1080H,http://39.134.66.66/PLTV/88888888/224/3221225618/index.m3u8
-咪咕视频 4M1080L,http://39.134.66.66/PLTV/88888888/224/3221225615/index.m3u8
-咪咕视频 4M1080M,http://39.134.66.66/PLTV/88888888/224/3221225617/index.m3u8
-咪咕视频 4M1080Q,http://39.134.66.66/PLTV/88888888/224/3221225621/index.m3u8
-咪咕视频 4M1080R,http://39.134.66.66/PLTV/88888888/224/3221225622/index.m3u8
-咪咕视频 4M1080S,http://39.134.66.66/PLTV/88888888/224/3221225624/index.m3u8
-咪咕视频 4M1080T,http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
-咪咕视频 4M1080U,http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
-咪咕视频 4M1080V,http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
-咪咕视频 4M1080W,http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
-咪咕视频 4M1080X,http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
-咪咕视频 4M1080Y,http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
-咪咕视频 4M1080A1,http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
-咪咕视频 8M1080A,http://39.134.66.66/PLTV/88888888/224/3221225733/index.m3u8
-咪咕视频 8M1080B,http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
-咪咕视频 8M1080C,http://39.134.66.66/PLTV/88888888/224/3221225737/index.m3u8
-咪咕视频 8M1080D,http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
-咪咕视频 8M1080E,http://39.134.66.66/PLTV/88888888/224/3221225741/index.m3u8
-咪咕视频 8M1080F,http://39.134.66.66/PLTV/88888888/224/3221225745/index.m3u8
-咪咕视频 8M1080G,http://39.134.66.66/PLTV/88888888/224/3221225747/index.m3u8
-咪咕视频 8M1080H,http://39.134.66.66/PLTV/88888888/224/3221225749/index.m3u8
-咪咕视频 8M1080I,http://39.134.66.66/PLTV/88888888/224/3221225751/index.m3u8
-咪咕视频 8M1080J,http://39.134.66.66/PLTV/88888888/224/3221225752/index.m3u8
-咪咕视频 8M1080K,http://39.134.66.66/PLTV/88888888/224/3221225754/index.m3u8
-咪咕视频 8M1080L,http://39.134.66.66/PLTV/88888888/224/3221225755/index.m3u8
-咪咕视频 8M1080M,http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
-咪咕视频 8M1080N,http://39.134.66.66/PLTV/88888888/224/3221225757/index.m3u8
-咪咕视频 8M1080O,http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
-咪咕视频 8M1080P,http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8
-咪咕视频 8M1080Q,http://39.134.66.66/PLTV/88888888/224/3221225762/index.m3u8
-咪咕视频 8M1080R,http://39.134.66.66/PLTV/88888888/224/3221225764/index.m3u8
-咪咕视频 8M1080S,http://39.134.66.66/PLTV/88888888/224/3221225766/index.m3u8
-咪咕视频 8M1080T,http://39.134.66.66/PLTV/88888888/224/3221225768/index.m3u8
-咪咕视频 8M1080U,http://39.134.66.66/PLTV/88888888/224/3221225770/index.m3u8
-咪咕视频 8M1080V,http://39.134.66.66/PLTV/88888888/224/3221225774/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
@@ -263,7 +214,6 @@ OLYMPIC 16,http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
-爱尔达体育,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
 爱尔达体育3,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
 ELEVEN2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
@@ -310,6 +260,7 @@ TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNT SPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNT SPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
 香港☒頻道,#genre#
 
 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
