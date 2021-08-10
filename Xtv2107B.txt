@@ -2,6 +2,17 @@ X直播电视台 油管频道
 测试,#genre#
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+Fight Sports,tvbus://3eWmpA35Hr5HXgWdjfzPMLgrWUinNVuZgztJtoSy28vc1x7qJM
+Eleven运动台2,p2p://fccs.123178.top:9806/60447228000e0e420170d2547df9954a.ts
+NHK World HD,p2p://fccs.123178.top:9806/6044741d0000e8b9017873ff81c638cb.ts
+美國高爾夫球,p2p://fccs.123178.top:9806/60447654000dbd4101811e203ac3ee9f.ts
+博斯高球1,p2p://fccs.123178.top:9806/604476f500023ffc01839017c2f8b12b.ts
+博斯高球二台,p2p://fccs.123178.top:9806/604477b3000746210186779063f54d2a.ts
+博斯網球,p2p://fccs.123178.top:9806/6044783c0007f05c01888ee3506bef35.ts
+博斯運動1台,p2p://fccs.123178.top:9806/604478f0000e964f018b4fb7c6ee22b4.ts
+博斯運動 II,p2p://fccs.123178.top:9806/6044799300093dbb018dcb11ecf6cc03.ts
+靖天卡通台,tvbus://4ACoyHPeaCVVfSJFtkVrom3Tapz4E4CExe5x9uosxBmTwq4u4d
+靖洋卡通台,tvbus://3U8U8T2Lj525RXnDyHXb71CcEmHJaaKQdcJ8ibSZGbdwX1taRF
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
