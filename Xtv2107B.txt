@@ -87,9 +87,8 @@ TVB星河频道HD,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 功夫台2,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 天映电影台,http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
-天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映经典HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+天映电影HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
 Discovery,rtmp://58.200.131.2:1935/livetv/discovery
