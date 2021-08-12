@@ -82,7 +82,7 @@ Now Sports Prime 630,https://api.leonardpark.dev/live/now/630
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰香港,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+TVB星河频道HD,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 卫视卡式台,http://ws.matchupstream.tuboshu.com/live/sytv_2ac8702326e2e3176b7e317e.flv
 功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 功夫台2,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
