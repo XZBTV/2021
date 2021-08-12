@@ -23,6 +23,24 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 PP体育1080P,http://39.134.65.162/PLTV/88888888/224/3221225655/index.m3u8
+Asia UHD,http://1.255.204.45:9981/stream/channelid/38708974
+Dream TV UHD,http://1.255.204.45:9981/stream/channelid/1911924344
+UMAX UHD,http://1.255.204.45:9981/stream/channelid/481289914
+UXN UHD,http://1.255.204.45:9981/stream/channelid/873335828
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Spain,http://18.168.248.67/webdav/UHDSpain.m3u8[url=http://18.168.248.67/webdav/UHDSpain_SDR.m3u8]http://18.168.248.67/webdav/UHDSpain_SDR.m3u8[/url]
+UltraHD Cinema,http://qplywwqz.russtv.net/iptv/2KY92AAPN2DTBU/4000/index.m3u
+Loupe,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+MTV,http://185.228.135.48:8080/tv_mtv_live_hd/index.m3u8
+VTC,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+HOME,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
+全纪实,http://140.207.241.3:8080/live/program/live/qjshd/4000000/mnf.m3u8
+纪实人文,http://117.148.179.160/PLTV/88888888/224/3221231612/index.m3u8#http://140.207.241.3:8080/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226174/index.m3u8
+金鹰纪实,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225671/1/index.m3u8?fmt=ts2hls
+冬奥记录,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/index.m3u8
+茶频道,http://111.20.105.60:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+中华特产,http://play.zhtctv.cn/portal/btv.flv
+江西陶瓷,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226983/index.m3u8
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 中文©新闻,#genre#
