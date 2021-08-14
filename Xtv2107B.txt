@@ -532,7 +532,7 @@ Godzilla vs. Kong (2021),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/
 18 Puasa Di Kampung Pisang,http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7334.mkv
 
 
-越南Vietnam,#genre#
+越南Livecdn,#genre#
 Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 Boomerang,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -710,7 +710,6 @@ TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 電影©輪播,#genre#
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-
 死神來了,http://121.12.115.15/tx.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.m3u8
 林正英專輯,http://121.12.115.119/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
 小叮噹,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/672651/live_7981914_1286387.m3u8
@@ -1390,8 +1389,7 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 
-AIshang,#genre#
-
+爱上@卫视,#genre#
 爱上4K 25M2160,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1
 CCTV4K 25M2160,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1
 CCTV1 8M1080,http://117.71.37.17/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
