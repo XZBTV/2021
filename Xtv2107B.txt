@@ -1,7 +1,7 @@
 X直播电视台 油管频道
 测试,#genre#
 
-4K©頻道,#genre#
+4K©高清,#genre#
 
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
@@ -709,52 +709,35 @@ TNT SPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 電影©輪播,#genre#
-北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-死神來了,http://121.12.115.15/tx.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.m3u8
-林正英專輯,http://121.12.115.119/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-小叮噹,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/672651/live_7981914_1286387.m3u8
-漫威宇宙,http://121.12.115.15/tx.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
-異形,http://121.12.115.15/tx.hls.huya.com/src/1099531752770-1099531752770-86436191062196224-2199063628996-10057-A-0-1.m3u8
-舌尖上的中國,http://121.12.115.15/tx.hls.huya.com/src/1423787851-1423787851-6115122256487120896-2847699158-10057-A-0-1-imgplus.m3u8
-科幻电影,http://121.12.115.15/tx.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8
-武侠电影,http://121.12.115.15/tx.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8
-甄子丹,http://121.12.115.15/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
-周润发,http://121.12.115.15/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
-成龙,http://121.12.115.15/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8
-五福星,http://121.12.115.15/tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
-金庸,http://121.12.115.15/tx.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
-洪金宝,http://121.12.115.15/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
-刘德华,http://121.12.115.15/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-李连杰,http://121.12.115.15/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
-老电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-星爷经典,http://hy.tushepy.com/pls/huya.php?id=11342412
-林正英,http://hy.tushepy.com/pls/huya.php?id=11342421
-蜡笔小新,http://hy.tushepy.com/pls/huya.php?id=11352970
-飞驰人生,http://hy.tushepy.com/pls/huya.php?id=880261
-武林外传,http://hy.tushepy.com/pls/huya.php?id=11352915
-纪晓岚,http://hy.tushepy.com/pls/huya.php?id=11342396
-看电影啦~,http://hy.tushepy.com/pls/huya.php?id=22115343
-经典华语片场,http://hy.tushepy.com/pls/huya.php?id=24357459
-丧尸剧续集来袭,http://hy.tushepy.com/pls/huya.php?id=13303478
-让子弹飞,http://hy.tushepy.com/pls/huya.php?id=24436252
-喜剧片【哗鬼旅行团】,http://hy.tushepy.com/pls/huya.php?id=19491676
-成龙经典,http://hy.tushepy.com/pls/huya.php?id=11342386
-沈腾合集,http://hy.tushepy.com/pls/huya.php?id=11601968
-美人鱼！,http://hy.tushepy.com/pls/huya.php?id=11259843
-动作,http://hy.tushepy.com/pls/huya.php?id=15454980
-恐怖经典,http://hy.tushepy.com/pls/huya.php?id=13479330
-康熙私访,http://hy.tushepy.com/pls/huya.php?id=11342418
-刘德华经典,http://hy.tushepy.com/pls/huya.php?id=11342424
-悟空唐三藏取西经,http://hy.tushepy.com/pls/huya.php?id=23735126
-盗墓笔记,http://hy.tushepy.com/pls/huya.php?id=11352871
-西虹市首富,http://hy.tushepy.com/pls/huya.php?id=22972199
-贺岁档,http://hy.tushepy.com/pls/huya.php?id=11601986
-【吴京】,http://hy.tushepy.com/pls/huya.php?id=11602045
-甄子丹 ,http://hy.tushepy.com/pls/huya.php?id=11352935
-【僵尸】林正英 恐怖,http://hy.tushepy.com/pls/huya.php?id=19916618
-人在囧途,http://hy.tushepy.com/pls/huya.php?id=118524
-【科幻系列】硬核浪漫,http://hy.tushepy.com/pls/huya.php?id=11352895
-周润发电影 小马哥归来,http://hy.tushepy.com/pls/huya.php?id=11342387
+成龙-1,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342386
+洪金宝,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342427
+漫威电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602034
+杰森斯坦森电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id11602046
+动画电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342428
+冯小刚电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352906
+刘德华,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342424
+甄子丹,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352935
+任达华,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352883
+吴京,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602045
+张国荣,http://kuqq.tk/00/huya.php?id=11602034&type=.m3u8
+古装动作,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352964
+郭富城1,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352962
+徐峥电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602043
+漫威,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602075
+最佳搭档系列,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342397
+富贵系列,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352934
+五福星系列,https://tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1_2000.m3u8?wsSecret=3dbecb345fa5fa2f9d47e13f4f1773d8&wsTime=5fd0c541&u=0&seqid=16074311252640670&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
+五福星系列,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11282233
+黑帮系列,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11336719
+搞笑港片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11601960
+警匪片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352886
+黄渤,,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602044
+赌片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342399
+灾难片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352871
+阿斗归来了,http://ftp9524803.host166.gotoip4.cn/huya.php?id=13303478
+鱼丸电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=16615910
+大象放映室,http://ftp9524803.host166.gotoip4.cn/huya.php?id=21277391
+科幻梦工场,http://ftp9524803.host166.gotoip4.cn/huya.php?id=15152155
 
 日韩©頻道,#genre#
 SBS国际[859*480],http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
