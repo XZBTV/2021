@@ -789,7 +789,7 @@ BS 東京[1280*720],http://203.162.235.41:16915
 BSフジ[1280*720],http://203.162.235.41:16911
 日韩频道선거방송[1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 
-可回看@江苏PLTV移动CDN修改版,#genre#
+回看@江苏PLTV移动CDN修改版,#genre#
 
 SiTV欢笑剧场 12M2160,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 4K花园生活 24M2160,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
@@ -1061,7 +1061,7 @@ NewTV明星大片 4M1080,http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/22
 江苏好享购物 4M1080,http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 5G购 2M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 
-可回看@超清PLTV,#genre#
+回看@卫视超清PLTV,#genre#
 CCTV1 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
 CCTV2 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 CCTV3 8M1080,http://39.134.39.39/PLTV/88888888/224/3221226251/index.m3u8
@@ -1178,7 +1178,7 @@ SiTV都市剧场 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m
 购物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226194/index.m3u8
 购物 4M1080,http://39.134.39.39/PLTV/88888888/224/3221226231/index.m3u8
 
-可回看@福建PLTV移动CDN修改版,#genre#
+回看@福建PLTV移动CDN修改版,#genre#
 
 纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
@@ -1389,8 +1389,6 @@ http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
 卡酷少儿,http://39.135.138.6:6610/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls#http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=#http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8
-
-
 
 AIshang,#genre#
 
