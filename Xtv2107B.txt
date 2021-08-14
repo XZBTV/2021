@@ -2,7 +2,9 @@ X直播电视台 油管频道
 测试,#genre#
 
 4K©高清,#genre#
-
+凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
@@ -21,6 +23,7 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 中文©新闻,#genre#
@@ -57,6 +60,10 @@ TVB8,https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
 无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+無綫新聞台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+無綫財經資訊台,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+無綫新聞,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
+無綫直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
@@ -120,24 +127,7 @@ UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 
 港台©198,#genre#
 
-huanxi,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
-TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
-TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
-中天娱乐,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
-中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
-民视,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
-民视台湾台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
-三立台湾,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
-三立戏剧台,http://198.16.106.62:8278/sanlixiju_zero/playlist.m3u8
-三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
-纬来日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
-纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-纬来精彩台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
-纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
-纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
-纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+Astro欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
@@ -189,8 +179,33 @@ HBO,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=m020000000000177685
 香港鳳凰,http://198.16.106.62:8278/phoenixtv_hd/playlist.m3u8?tid=m02000000000012301168&ct=18001&tsum=d0f3fc4a36a32e3f2c3d895bb932d170
 鳳凰香港,http://198.16.106.62:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000018250733&ct=18001&tsum=e70ca7acd14b287077a17bb5a2fd3cb2
 TVB互動新聞,http://198.16.106.62:8278/inews_twn/playlist.m3u8?tid=m02000000000015903088&ct=18001&tsum=6eeaca6d11a1352c9a8022edabd0f65e
+TVBS News 新闻台,http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+TVBS欢乐,http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+中天新闻,http://198.16.106.62:8278/streams/d/ctinews/playlist.m3u8
+中天娱乐,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
+中天综合,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+民视,http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+民视台湾台,http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+三立台湾,http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+三立戏剧台,http://198.16.106.62:8278/sanlixiju_zero/playlist.m3u8
+三立新聞,http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+纬来日本台,http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+纬来电影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+纬来精彩台,http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+纬来戏剧台,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+纬来综合台,http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+
 
 台湾@161,#genre#
+有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk021
+有线603HD,rtmp://161.202.204.248:1935/sat/hk011
+有线18台,rtmp://161.202.204.248/sat/hk042
+民视,rtmp://161.202.204.248/sat/tv052#rtmp://161.202.204.248:1935/sat/tv051
+台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
+中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
+華视,rtmp://161.202.204.248:1935/sat/tv111
 TVBS欢乐台,rtmp://161.202.204.248/sat/tv421
 纬来日本,rtmp://161.202.204.248:1935/sat/tv521
 TVBS新闻台,rtmp://161.202.204.248/sat/tv551
@@ -223,8 +238,9 @@ eleven2,rtmp://161.202.204.248/sat/md021
 壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-东森财经新闻台,rtmp://59.124.75.130/sat/tv571
 TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 
 马来@50,#genre#
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
