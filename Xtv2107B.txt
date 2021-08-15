@@ -2,9 +2,9 @@ X直播电视台 油管频道
 
 P2P测试1,#genre#
 
-民視,p2p://ns2.hellotvvod.com:9906/21d978fdd64348a5ac9d40c3515f780f
-人間衛視,p2p://ns2.hellotvvod.com:9906/2ba1fc9d3faf4d05bfda81260502b15e
-台視,p2p://ns2.hellotvvod.com:9906/958403fe95e5467b8236690b36d94691
+民視,mitv://ns2.hellotvvod.com:9906/21d978fdd64348a5ac9d40c3515f780f
+人間衛視,mitv://ns2.hellotvvod.com:9906/2ba1fc9d3faf4d05bfda81260502b15e
+台視,mitv://ns2.hellotvvod.com:9906/958403fe95e5467b8236690b36d94691
 大愛,p2p://ns2.hellotvvod.com:9906/958cd42f6181485eac4c660dbf236716
 中視,p2p://ns2.hellotvvod.com:9906/25f0b23382494143a2278ef21f577b22
 霹雳台灣台,p2p://ns2.hellotvvod.com:9906/cb56a8e8338244e89dee747073a4f879
