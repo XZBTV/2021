@@ -1,5 +1,17 @@
 X直播电视台 油管频道
 测试,#genre#
+民視,p2p://ns2.hellotvvod.com:9906/21d978fdd64348a5ac9d40c3515f780f
+人間衛視,p2p://ns2.hellotvvod.com:9906/2ba1fc9d3faf4d05bfda81260502b15e
+台視,p2p://ns2.hellotvvod.com:9906/958403fe95e5467b8236690b36d94691
+大愛,p2p://ns2.hellotvvod.com:9906/958cd42f6181485eac4c660dbf236716
+中視,p2p://ns2.hellotvvod.com:9906/25f0b23382494143a2278ef21f577b22
+霹雳台灣台,p2p://ns2.hellotvvod.com:9906/cb56a8e8338244e89dee747073a4f879
+華視,p2p://ns2.hellotvvod.com:9906/816337d141394b03a983d8362cb01fca
+公視,p2p://ns2.hellotvvod.com:9906/17cb5b09102c4013945fbb6095ff978c
+公視台語台,p2p://ns2.hellotvvod.com:9906/980c60226bdd4fc18c57451be5ec140c
+好消息,p2p://ns2.hellotvvod.com:9906/a1e93e08a3d14f20badc21eb72f246f1
+CNN,p2p://ns2.hellotvvod.com:9906/4174a5c91a9645e58974cbc620c36c19
+原住民宿電視台,p2p://ns2.hellotvvod.com:9906/ba6272588f264f40b8151177d9cc88d9
 HBO測試,http://125.227.210.37:16027/VideoInput/play.ts
 東森洋片測試,http://125.227.210.37:18685/VideoInput/play.ts
 CN卡通測試,http://125.227.210.37:16671/VideoInput/play.ts
