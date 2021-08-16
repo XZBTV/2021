@@ -1145,6 +1145,7 @@ FOXSPORTS3,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr5
 国家地理悠人频道,tvbus://5rcm8hf7wJMULKec5YcP7MSV4s7fd7LHhfjpWrBqmoLP4M8Xb4r8DJGSqTTfa
 博斯无限,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf4
 
+
 斗鱼频道,#genre#
 电影3_斗鱼,http://dyscdnali1.douyucdn.cn/live/1504768rIizwk7Jz.flv?uuid=
 电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
@@ -1171,33 +1172,6 @@ FOXSPORTS3,tvbus://6HB6UMpUbJzpUEwF6YbaRxMxw2muZ2WVyNFyU7mRoWgh9WzSFpnVhgtMSNRr5
 斗鱼24,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 斗鱼36,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
 斗鱼70,http://dyscdnali1.douyucdn.cn/live/7356023rO9cZhnMh.flv?uuid=
-
-555,P2p://fccsovh.pvbox.live:18912/5b140a1600003212a76d9098c78cc76b
-555,MITV://fccsovh.pvbox.live:18912/5b140a1600003212a76d9098c78cc76b
-衛視電影台,mitv://ns2.hellotvvod.com:9906/648b9d2c93b048309585465f5bd6f97c
-東森電影台,p2p://ns2.hellotvvod.com:9906/294a2b1d17d04414893ef2f034aa395b
-緯來電影台,p2p://ns2.hellotvvod.com:9906/4807ee2575b24f49b1dc07fa1d279c37
-龍祥電影,p2p://ns2.hellotvvod.com:9906/2be34003cbe745728c5c407689eb53f6
-HBO,p2p://ns2.hellotvvod.com:9906/3918dd5b08f84f1e95cfebeb6463ba60
-東森洋片台,p2p://ns2.hellotvvod.com:9906/dcfc6498425b4246a268c874e8f6e187
-AXN,p2p://ns2.hellotvvod.com:9906/d4abc5c44c604a54904645f9f6a0afb6
-tvN,p2p://147.135.39.171:9906/5f25734d0009e72b5191c20a0d235030
-美亞電影台,p2p://ns2.hellotvvod.com:9906/21718303d05b4b17aa62c13d827955e3
-龍華電影,p2p://ns2.hellotvvod.com:9906/06b6c1ba5572454999e421b7e32de15e
-星衛電影台,p2p://ns2.hellotvvod.com:9906/2545dc270cd34eceb04a33215565bfb1
-靖天映畫,p2p://ns2.hellotvvod.com:9906/d56ade79f66a4bd2940d41a1981d301b
-靖天電影台,p2p://ns2.hellotvvod.com:9906/d75c906b333048f9ad66bee781744343
-WARNER TV,p2p://ns2.hellotvvod.com:9906/121b10e3d09e4fc79d7bc5a3b865cd38
-Star Movies ,p2p://ns2.hellotvvod.com:9906/9f8365c375db4e689b307469cadfe5ff
-福斯家庭電影台,p2p://ns2.hellotvvod.com:9906/164a970badd54c84b00954ce9a9d5494
-AMC最愛電影,p2p://ns2.hellotvvod.com:9906/ed64802a76a049759fd702e33e3f3507
-FOX CRIME,p2p://ns2.hellotvvod.com:9906/5124ebae19494cfab6626af4408de12c
-CatchPlay電影台,p2p://ns2.hellotvvod.com:9906/1799681dc73a4045a1fce1af347070eb
-CinemaWorld,p2p://ns2.hellotvvod.com:9906/dc9d703b3acd49b2882d2f4e15d6dabb
-壹電視電影台,p2p://ns2.hellotvvod.com:9906/c40b05d2b22749fbb38924e4c81a736b
-
-
-
 
 港台125,#genre#
 凤凰卫视,http://125.227.210.37:8935/VideoInput/play.ts
@@ -1365,7 +1339,7 @@ UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
 
 港台©198,#genre#
-
+东风卫视,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
 Astro欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
