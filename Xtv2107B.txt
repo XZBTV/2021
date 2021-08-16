@@ -190,6 +190,7 @@ VTV4,p2p://ns2.hellotvvod.com:9906/5ff5d6b7000976be677903601edb1d03
 
 
 港台125,#genre#
+東森電影HD,http://125.227.210.37:27889/VideoInput/play.ts
 YTNHD,http://125.227.210.37:8932/VideoInput/play.ts
 NHKworldHD,http://125.227.210.37:8931/VideoInput/play.ts
 arirang HD,http://125.227.210.37:8933/VideoInput/play.ts
@@ -199,19 +200,20 @@ RT HD,http://125.227.210.37:8936/VideoInput/play.ts
 ALJAZEERA HD,http://125.227.210.37:8938/VideoInput/play.ts
 NHK BS1HD,http://125.227.210.37:8939/VideoInput/play.ts
 NHK BSPHD,http://125.227.210.37:8940/VideoInput/play.ts
-凤凰卫视,http://125.227.210.37:8935/VideoInput/play.ts 
+凤凰卫视,http://125.227.210.37:8935/VideoInput/play.ts
+
+#年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
+#FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
 非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
-三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
-FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
-中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
-東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
-年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
 三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
-HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
-國家地理,http://125.227.210.37:16408/VideoInput/play.ts
-CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
-緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
-東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
+中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
+#HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
+#國家地理,http://125.227.210.37:16408/VideoInput/play.ts
+#CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
+#東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+#緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
+#東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 
 
 高清©频道,#genre#
