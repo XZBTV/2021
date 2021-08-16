@@ -72,6 +72,9 @@ ELEVEN,http://125.227.210.37:10677/VideoInput/play.ts
 #國家地理,http://125.227.210.37:16408/VideoInput/play.ts
 #CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
 #東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+185号[1920*1080],http://125.227.210.37:18184/VideoInput/play.ts
+790号[1920*1080],http://125.227.210.37:18789/VideoInput/play.ts
+1021号[1920*1080],http://125.227.210.37:19020/VideoInput/play.ts
 #緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
 #東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 YTNHD,http://125.227.210.37:8932/VideoInput/play.ts
