@@ -1,6 +1,12 @@
 X直播电视台 油管频道
 
 P2P测试1,#genre#
+ESPN1,http://84.17.41.7/FoxSports1Dutch/index.m3u8
+ESPN2,http://84.17.41.7/FoxSports2Dutch/index.m3u8
+ESPN3,http://84.17.41.7/FoxSports3Dutch/index.m3u8
+ESPN4,http://84.17.41.7/FoxSports4Dutch/index.m3u8
+ESPN5,http://84.17.41.7/FoxSports5Dutch/index.m3u8
+ESPN6,http://84.17.41.7/FoxSports6Dutch/index.m3u8
 
 民視,mitv://ns2.hellotvvod.com:9906/21d978fdd64348a5ac9d40c3515f780f
 人間衛視,mitv://ns2.hellotvvod.com:9906/2ba1fc9d3faf4d05bfda81260502b15e
