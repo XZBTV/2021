@@ -1,6 +1,8 @@
 X直播电视台 油管频道
 
 测试1,#genre#
+經典影視台,http://103.140.229.13/BOBO/bibi.php?id=23169468
+經典電影台,http://103.140.229.13/BOBO/bibi.php?id=23285297
 斗鱼频道,#genre#
 电影3_斗鱼,http://dyscdnali1.douyucdn.cn/live/1504768rIizwk7Jz.flv?uuid=
 电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
@@ -27,6 +29,7 @@ X直播电视台 油管频道
 斗鱼24,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 斗鱼36,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
 斗鱼70,http://dyscdnali1.douyucdn.cn/live/7356023rO9cZhnMh.flv?uuid=
+
 555,P2p://fccsovh.pvbox.live:18912/5b140a1600003212a76d9098c78cc76b
 555,MITV://fccsovh.pvbox.live:18912/5b140a1600003212a76d9098c78cc76b
 衛視電影台,mitv://ns2.hellotvvod.com:9906/648b9d2c93b048309585465f5bd6f97c
