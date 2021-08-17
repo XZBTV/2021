@@ -1,7 +1,10 @@
 X直播电视台 油管频道
 
 测试1,#genre#
-
+CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
+BBC World News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 
 爱尔达影剧台,tvbus://5PiEXTiszZht1CyoDx3ix3Ss9oa3hcVKpFRUu6tWQug3ctfERDVPd8J8YxfCx
 爱尔达综合台,tvbus://5TZyPk4BU14TfGgyVjqjFvhyWYmk5e4PqaxvYVtrq252qsiDv48a2zCPdNgdF
