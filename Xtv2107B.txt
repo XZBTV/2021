@@ -13,17 +13,8 @@ BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 
 
 
-斗鱼频道,#genre#
-电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-电影14_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-电影16_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-电影18_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-电影33_斗鱼,http://dyscdnali1.douyucdn.cn/live/544263rqpxGOGZ7X.flv?uuid=
-电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
-电影46_斗鱼,http://dyscdnali1.douyucdn.cn/live/310926rxaVCymr5Z.flv?uuid=
+
+
 
 港台125,#genre#
 凤凰卫视,http://125.227.210.37:8935/VideoInput/play.ts
@@ -620,7 +611,37 @@ Weathering with You (2019),http://iptv.tvmalaysia.cc:80/movie/penang172/penang17
 Wreck-It Ralph (2012),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7327.mp4
 Godzilla vs. Kong (2021),http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7332.mp4
 18 Puasa Di Kampung Pisang,http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7334.mkv
-
+日韩©頻道,#genre#
+SBS国际[859*480],http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+TJB 대전방송(SBS 大田)[1280*720],http://1.245.74.5:1935/live/tv/.m3u8
+TMA Caraïbes[1920*1080],http://hls.tmacaraibes.com/live/index.m3u8
+Tokyo MX 1[1280*720],http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2[1280*720],http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+ウェザーニュース[1280*720],http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+シネフィルWOWOW[1280*720],http://203.162.235.41:16916
+ジャパネットチャンネルDX[1280*720],http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+テレビ東京[1280*720],http://203.162.235.41:16908
+フジテレビ[1280*720],http://203.162.235.41:16904
+가요TV[1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
+여수MBC(MBC Yeosu)[1280*720],https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+EBS 1[720*405],http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+EBS 2[720*405],http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+EBS Kids[640*360],http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+EBS+ 1[720*405],http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+EBS+ 2[720*405],http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+EBSe[720*405],http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+Jasmin TV[1280*720],http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+KBC 광주방송(SBS 光州)[1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS World[1024*576],https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+KBS World[1920*1080],http://125.227.210.37:8935/VideoInput/play.ts
+KCTV 광주 CH05[1280*720],http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+Kids TV[854*480],http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+BS TBS[1280*720],http://203.162.235.41:16913
+BS 日テレ[1280*720],http://203.162.235.41:16912
+BS 朝日[1280*720],http://203.162.235.41:16914
+BS 東京[1280*720],http://203.162.235.41:16915
+BSフジ[1280*720],http://203.162.235.41:16911
+선거방송[1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 
 越南Livecdn,#genre#
 Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
@@ -829,37 +850,16 @@ TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 大象放映室,http://ftp9524803.host166.gotoip4.cn/huya.php?id=21277391
 科幻梦工场,http://ftp9524803.host166.gotoip4.cn/huya.php?id=15152155
 
-日韩©頻道,#genre#
-SBS国际[859*480],http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-TJB 대전방송(SBS 大田)[1280*720],http://1.245.74.5:1935/live/tv/.m3u8
-TMA Caraïbes[1920*1080],http://hls.tmacaraibes.com/live/index.m3u8
-Tokyo MX 1[1280*720],http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Tokyo MX 2[1280*720],http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-ウェザーニュース[1280*720],http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-シネフィルWOWOW[1280*720],http://203.162.235.41:16916
-ジャパネットチャンネルDX[1280*720],http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-テレビ東京[1280*720],http://203.162.235.41:16908
-フジテレビ[1280*720],http://203.162.235.41:16904
-가요TV[1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
-여수MBC(MBC Yeosu)[1280*720],https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-EBS 1[720*405],http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
-EBS 2[720*405],http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-EBS Kids[640*360],http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-EBS+ 1[720*405],http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-EBS+ 2[720*405],http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
-EBSe[720*405],http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-Jasmin TV[1280*720],http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-KBC 광주방송(SBS 光州)[1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBS World[1024*576],https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KBS World[1920*1080],http://125.227.210.37:8935/VideoInput/play.ts
-KCTV 광주 CH05[1280*720],http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-Kids TV[854*480],http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-BS TBS[1280*720],http://203.162.235.41:16913
-BS 日テレ[1280*720],http://203.162.235.41:16912
-BS 朝日[1280*720],http://203.162.235.41:16914
-BS 東京[1280*720],http://203.162.235.41:16915
-BSフジ[1280*720],http://203.162.235.41:16911
-日韩频道선거방송[1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+斗鱼频道,#genre#
+电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+电影14_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+电影16_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+电影18_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
+
 
 回看@江苏PLTV移动CDN修改版,#genre#
 
