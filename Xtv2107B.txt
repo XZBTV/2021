@@ -16,7 +16,7 @@ BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 
 
 
-港台125,#genre#
+港台@125,#genre#
 凤凰卫视,http://125.227.210.37:8935/VideoInput/play.ts
 CNN HD,http://125.227.210.37:10677/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
@@ -50,21 +50,18 @@ NHK BS1HD,http://125.227.210.37:8939/VideoInput/play.ts
 NHK BSPHD,http://125.227.210.37:8940/VideoInput/play.ts
 BBCworld HD,http://125.227.210.37:10246/VideoInput/play.ts
 
-
-高清©频道,#genre#
+4K©高清,#genre#
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 湖南卫视 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
 湖南卫视 8M1080,http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
 浙江卫视 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/index.m3u8
-
-4K©频道,#genre#
-北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘娱乐[高清],http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 淘萌宠[高清],http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 爱上4KII,http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
@@ -84,7 +81,6 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 中文©新闻,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-北京新闻,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
