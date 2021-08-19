@@ -1,5 +1,26 @@
 X直播电视台 油管频道
 
+中文©新闻,#genre#
+
+测试1,#genre#
+纬来综合HD,http://107.167.5.66:80/mylive/102/2026/index.m3u8
+年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
+非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
+卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
+
+CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
+北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
+凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
+无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
+福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+
 电影@频道,#genre#
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
@@ -12,34 +33,6 @@ HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-
-
-测试1,#genre#
-11号[853*480],http://45.126.83.51/qwr9ew/s/s11/01.m3u8
-12号[853*480],http://45.126.83.51/qwr9ew/s/s12/01.m3u8
-10号[873*480],http://45.126.83.51/qwr9ew/s/s10/01.m3u8
-13号[853*480],http://45.126.83.51/qwr9ew/s/s13/01.m3u8
-16号[853*480],http://45.126.83.51/qwr9ew/s/s16/01.m3u8
-14号[853*480],http://45.126.83.51/qwr9ew/s/s14/01.m3u8
-17号[853*480],http://45.126.83.51/qwr9ew/s/s17/01.m3u8
-20号[853*480],http://45.126.83.51/qwr9ew/s/s20/01.m3u8
-21号[853*480],http://45.126.83.51/qwr9ew/s/s21/01.m3u8
-22号[853*480],http://45.126.83.51/qwr9ew/s/s22/01.m3u8
-23号[853*480],http://45.126.83.51/qwr9ew/s/s23/01.m3u8
-27号[853*480],http://45.126.83.51/qwr9ew/s/s27/01.m3u8
-28号[853*480],http://45.126.83.51/qwr9ew/s/s28/01.m3u8
-29号[853*480],http://45.126.83.51/qwr9ew/s/s29/01.m3u8
-33号[873*480],http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-31号[873*480],http://45.126.83.51/qwr9ew/s/s31/01.m3u8
-34号[873*480],http://45.126.83.51/qwr9ew/s/s34/01.m3u8
-39号[853*480],http://45.126.83.51/qwr9ew/s/s39/01.m3u8
-38号[873*480],http://45.126.83.51/qwr9ew/s/s38/01.m3u8
-46号[853*480],http://45.126.83.51/qwr9ew/s/s46/01.m3u8
-纬来综合HD,http://107.167.5.66:80/mylive/102/2026/index.m3u8
-年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
-非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
-卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
 
 4K©高清,#genre#
@@ -70,18 +63,7 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
-中文©新闻,#genre#
-CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
-北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
-凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
-无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
-福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+
 
 香港☒頻道,#genre#
 
@@ -98,6 +80,7 @@ TVB8,https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
 有线新闻台2,https://www.navchina.cf/IPTV/icable.php?id=37
 有线财经资讯台2,https://www.navchina.cf/IPTV/icable.php?id=38
+有線直播新聞台2,https://www.navchina.cf/IPTV/icable.php?id=39
 有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
@@ -128,6 +111,7 @@ Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 Now Sports Prime 630,https://api.leonardpark.dev/live/now/630
 香港开电视,http://livetv.dnsfor.me:80/channel.9.m3u8  
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
