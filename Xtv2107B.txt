@@ -1,16 +1,17 @@
 X直播电视台 油管频道
-台湾@频道,#genre#
-HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
-非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
+
+电影@频道,#genre#
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
+HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
+卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+
+
 
 
 测试1,#genre#
-
-
-台湾测试1,#genre#
 年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
 非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
@@ -55,7 +56,6 @@ CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
-南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
@@ -194,9 +194,10 @@ CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
 東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
 NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
-TLC,http://125.227.210.37:19020/VideoInput/play.ts
+
 緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+TLC,http://125.227.210.37:19020/VideoInput/play.ts
 YTNHD,http://125.227.210.37:8932/VideoInput/play.ts
 NHKworldHD,http://125.227.210.37:8931/VideoInput/play.ts
 arirang HD,http://125.227.210.37:8933/VideoInput/play.ts
