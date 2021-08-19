@@ -7,11 +7,15 @@ HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
-
-
+天映頻道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 
 
 测试1,#genre#
+纬来综合HD,http://107.167.5.66:80/mylive/102/2026/index.m3u8
 年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
 非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
@@ -68,6 +72,7 @@ J2,http://livetv.dnsfor.me/channel.19.m3u8
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 TVB8,https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5399055.m3u8
 明珠台HD,http://cdn.hkdtmb.com/hls/84/index.m3u8
+有线财经资讯台2,https://www.navchina.cf/IPTV/icable.php?id=38
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
@@ -82,6 +87,10 @@ TVB8,https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5
 無綫財經資訊台,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 無綫新聞,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 無綫直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+TVB星河频道HD,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+原*TVB星河HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
+原*TVBE-News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6840
+TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
@@ -107,21 +116,16 @@ Now Sports Prime 630,https://api.leonardpark.dev/live/now/630
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰香港,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-TVB星河频道HD,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+
 卫视卡式台,http://ws.matchupstream.tuboshu.com/live/sytv_2ac8702326e2e3176b7e317e.flv
 經典影視台,http://103.140.229.13/BOBO/bibi.php?id=23169468
 經典電影台,http://103.140.229.13/BOBO/bibi.php?id=23285297
 經典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 經典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 天映頻道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-天映电影台,http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
-Discovery,rtmp://58.200.131.2:1935/livetv/discovery
-国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
+
 
 香港@Livetv,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
@@ -304,6 +308,7 @@ TVBS,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
 
 
 马来@50,#genre#
+Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 Astro IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
@@ -640,32 +645,9 @@ BS 東京[1280*720],http://203.162.235.41:16915
 BSフジ[1280*720],http://203.162.235.41:16911
 선거방송[1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 
-越南Livecdn,#genre#
 Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-Boomerang,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-Discovery Asia(vn),https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-ANIMAL PLANET(vn),https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-Boomerang HD,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-BabyFirst,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-BBC Lifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-BBC Cbeebies,https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
-Animal Planet,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-National Geographic HD,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-Outdoor Channel HD,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-TLC,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-Boomerang,https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-BabyFirst HD,https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-Discovery HD,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-BBC Earth HD,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-BBC Lifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-AnimalPlanet HD,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-Travel & Living,https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-Outdoor Channel HD,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
 
 
 海外©頻道,#genre#
