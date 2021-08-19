@@ -1,36 +1,13 @@
 X直播电视台 油管频道
+台湾@频道,#genre#
+HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
+非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
+卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
+
+
 测试1,#genre#
-
-
-
-
-
-
-
-
-
-
-WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-Tennis HD,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
-FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-
-
-
 
 
 台湾测试1,#genre#
@@ -38,17 +15,6 @@ FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b250
 非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-
-CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
-BBC World News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
-BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-
-
-
-
-
-
 
 
 4K©高清,#genre#
@@ -710,382 +676,27 @@ AFC-美食[1280*720],https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_
 FOX-生活[1280*720],https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 索尼动画[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 国家地理[1280*720],https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
-ESPN 1,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1
-ESPN 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2
-ESPN 3,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/3
-ESPN EXTRA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/4
-ESPN 3 SUR,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/8
-FOX SPORTS 1,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/9
-FOX SPORTS 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/10
-FOX SPORTS 3,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/11
-FOX PREMIUM,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/16
-GOL PERU,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/17
-GOL TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/18
-CLARO SPORTS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/19
-TUDN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/20
-TVC DEPORTES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/21
-TNT SPORTS 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/22
-BEIN SPORTS Ñ,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/23
-DIRECTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/25
-DIRECTV 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/26
-DIRECTV PLUS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/27
-SKY SPORTS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/28
-WIN SPORTS +,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/31
-TYC SPORTS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/32
-EL CANAL DEL FUTBOL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/33
-AFIZZIONADOS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/34
-FUTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/36
-WAPA 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/37
-VTV_PLUS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/38
-M. LA LIGA HD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/39
-M.LIGA CAMPEONES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/40
-LA LIGA TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/41
-Sky Sport Bundesliga 1 HD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/42
-Sky Sport Bundesliga 2 HD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/43
-#V,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/44
-M.DEPORTES HD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/45
-GOLTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/47
-EUROSPORT 1,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/48
-EUROSPORTS 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/49
-M. FORMULA 1,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/50
-NBA TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/52
-MLB NETWORK,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/53
-WWE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/54
-UFC NETWORK,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/55
-DANZ 1,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/56
-ESPN 1 USA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/57
-ESPN U USA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/59
-USA | Espn SEC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/60
-GOLF CHANNEL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/61
-DANZ 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/62
-BEIN SPORTS ENG HD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/63
-NFL NETWORK,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/64
-FS1 USA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/65
-FS2 USA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/66
-ELEVEN_SPORTS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/67
-BOX NATION,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/68
-FINGHT NETWORK,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/69
-YES NETWORK,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/70
-SPORTSMAN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/71
-TENIS CHANNEL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2465
-RED BULL TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2466
-BARCA TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2467
-BABY TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/73
-CARTOON NETWORK,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/74
-BOOMERANG,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/75
-NICK,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/76
-NICK JR,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/78
-DISNEY CHANNEL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/80
-DISNEY JUNIOR,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/81
-DISNEY XD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/82
-DISCOVERY KIDS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/83
-NAT GEO KIDS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/84
-TOONCAST,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/85
-BITME,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/87
-IPE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/88
-ANIMAL PLANET,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/89
-DISCOVERY CHANNEL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/90
-DISCOVERY H&H,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/91
-DISCOVERY SCIENCE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/92
-DISCOVERY THEATER,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/93
-DISCOVERY TURBO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/94
-DISCOVERY WORLD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/95
-DISCOVERY ID,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/96
-TLC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/97
-HGTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/98
-NAT GEO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/99
-NAT GEO WILD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/100
-NATIONAL GEOGRAPHIC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/101
-HISTORY,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/102
-HISTORY 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/103
-CAZA Y PESCA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/104
-FILM & ARTS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/185
-A&E,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/105
-AMC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/106
-AXN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/107
-FOX CHANNEL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/108
-FOX LIFE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/109
-FX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/110
-FXM,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/111
-FOX PREMIUM ACTION,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/112
-FOX PREMIUM MOVIE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/114
-FOX PREMIUM CLASSICS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/115
-FOX PREMIUM SERIES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/116
-FOX PREMIUM FAMILY,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/117
-GOLDEN PREMIER,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/121
-GOLDEN PLUS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/122
-CINE CANAL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/123
-CINE LATINO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/124
-CINEMAX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/125
-TNT,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/126
-TNT SERIES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/127
-HBO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/128
-HBO 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/129
-HBO +,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/130
-HBO FAMILY,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/131
-HBO SIGNATURE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/132
-HBO XTREME,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/135
-PARAMOUNT CHANNEL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/136
-SONY,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/137
-SPACE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/138
-STUDIO UNIVERSAL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/139
-UNIVERSAL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/140
-WARNER,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/141
-ZEEMUNDO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/142
-SYFY,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/143
-DE PELICULA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/144
-AZCINEMA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/145
-MC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/146
-MULTIPREMIER,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/147
-TBS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1407
-AZ UNO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/150
-AZ CORAZON,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/151
-GALAVISION,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/152
-TLNOVELAS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/153
-UNICABLE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/154
-CANAL DE LAS ESTRELLAS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/155
-PASIONES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/156
-A3 SERIES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/157
-ESTRELLA TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/158
-ANTENA 3,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/159
-UNIVISION,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/160
-UNIVERSO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/161
-TELEMUNDO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/162
-TELEMUNDO 47,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/163
-UNIMAS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/164
-E!,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/165
-LIFETIME,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/166
-Fashion,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/167
-EL GOURMET,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/168
-IMAGEN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/169
-FOOD NETWORK,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/170
-FOOD 52,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/171
-TRUTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/172
-HOLA TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/174
-FORO TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/175
-PORTALFOXMIX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/177
-RADIOM20,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/178
-HTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/179
-MTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/180
-MTV HITS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/181
-BANDAMAX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/182
-CNN EN ESPAÑOL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/183
-MULTIMEDIOS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/184
-COMEDY CENTRAL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/186
-CARACOL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/188
-RCN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2083
-MUSICA TV LATINA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2478
-Music Top esp,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2479
-Music Top Arg,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2480
-MTV Mix,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2481
-V2Beat TV EN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2482
-RUTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2483
-М2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2484
-30A Music,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2489
-1 Music Channel,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2490
-DanceStar TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2491
-Hit Music Channel,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2493
-MUSIC TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2494
-Remember The \'80s,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2495
-Greatest Hits,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2496
-Retro Music,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2497
-EVENTO 1,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1343
-EVENTO 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1344
-EVENTO 3,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1345
-EVENTO 4,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1346
-EVENTO 5,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1347
-EVENTO 6,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1348
-ONCE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1409
-MILENIO TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1410
-MVSTV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1411
-ONCE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1413
-UNA VOZ,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1414
-INGENIO TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1415
-TV UMAN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1416
-EURO NEWS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1417
-CONGRESO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1418
-FORO TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1419
-AZTECA 7,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1428
-Conecta TV * | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1430
-15TV Sabinas  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1432
-8 NTV  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1433
-Canal 10 Cancun  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1435
-Canal 12.1 Colima  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1437
-Canal 28 Nuevo Leon  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1440
-Canal 4 Saltillo  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1441
-Canal 7 SLP  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1442
-Canal Once Mexico  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1443
-Canal Once Nacional  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1444
-Conecta TV  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1446
-Genesis TV  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1447
-Jalisco TV  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1448
-Mexiquense TV  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1449
-Multimedios CDMX  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1451
-Multimedios Guadalajara  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1452
-Multimedios Laguna  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1453
-Multimedios Monterrey  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1454
-Presumiendo Mexico  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1456
-Quiero TV  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1457
-RCG 2 Saltillo  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1459
-RCG 3 Saltillo  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1460
-RTQ Queretaro  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1461
-SIZART Canal 24 Zacatecas  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1463
-Telemar Campeche  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1464
-Telemax Hermosillo  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1465
-Teleplay  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1466
-Teleritmo  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1467
-Tlaxcala TV  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1468
-Transmedia TV Morelia  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1469
-TRC TV Campeche  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1470
-TV Lobo  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1471
-UMTV  | MX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1479
-Euro Indie Music  | GB,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1480
-TELEANTILLAS,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1552
-REDDY TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1553
-CERTV CANAL 4,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1554
-TELEMICRO 5,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1555
-TELEMICRO INTERNACIONAL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1556
-ANTENA 7,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1557
-CDN SPORTS MAX,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1558
-COLOR VISION,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1559
-MICROVISION,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1560
-TELECISTEMA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1561
-TELECANAL 12,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1562
-TELECENTRO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1563
-DIGITAL QUINCE 15,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1565
-TDN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1566
-TELENORD,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1567
-TELECIBAO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1568
-CANAL 19,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1569
-ANTENA 21,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1571
-TVS Canal,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1572
-ORBIT TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1573
-CIELO TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1574
-Onda TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1578
-TELEUNIVERSO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1579
-ROMANA TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1580
-BOREAL TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1581
-TELEMILENIO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1582
-SUPER CANAL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1583
-SUPER TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1584
-VALLEVISION TV,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1586
-CDN,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1587
-VISION DIGITAL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1592
-TELENOVISA 43,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1593
-TELEFUTURO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1596
-AME,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1597
-TELEVISION DEL ESTE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1598
-TV PLATA,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1599
-CARIVISION,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1600
-Canal IPE  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1603
-Best Cable Music  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1605
-Hatun TV  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1606
-Mas Cumbia  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1608
-TV Peru Noticias  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1611
-UCI Noticias 1  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1612
-UCI Noticias 2  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1613
-Vision Noticias Peru  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1614
-Antares TV  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1616
-Best Cable TV  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1617
-BHTV  |,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1618
-Central TV Chosica  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1619
-Cultura 24 TV  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1620
-Hechicera TV  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1622
-Monterrico TV  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1626
-Ovacion  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1627
-Pax TV  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1628
-TV Cosmos  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1629
-TVperuanisima  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1630
-WILLAX | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1631
-Via Television Tarapoto  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1632
-Vision TV  | PE,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1633
-Cali TV  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1635
-Canal CNC Pasto  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1639
-Canal Doce Sincelejo  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1640
-Canal Visión Dorada  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1644
-Caracol  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1645
-Cosmovisión  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1647
-Mundo +  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1651
-Suram  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1653
-Tele Islas  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1655
-Telecaribe  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1657
-Telecaribe Deportes  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1658
-TV Agro  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1662
-UAO Play  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1663
-Canal Capital  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1665
-Tele Familia  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1668
-TV Gracia  | CO,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1669
-Recuerdos Retro Radio TV  | CL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1670
-Retro Plus TV  | CL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1671
-Retro Plus TV Señal 2  | CL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1672
-Retro Plus TV Señal 3  | CL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1673
-CineCable TV  | EC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1677
-Hechos TV  | EC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1681
-La Nueva TV  | EC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1682
-TV Puruwa  | EC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1689
-AC Vision  | EC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1691
-Asomavision  | EC,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/1692
-antena 3,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2498
-axn,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2499
-amc,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2500
-bein ñ,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2501
-calle 13,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2502
-toros,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2503
-hollywood,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2504
-cosmo,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2505
-crimen + investigation,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2506
-cuatro,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2507
-telecinco,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2508
-moviestar f1,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2509
-discovery,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2510
-fox,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2511
-life,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2512
-la 1,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2513
-la 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2514
-la sexta,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2515
-mega,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2516
-movistar accion,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2518
-moviestar cine,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2519
-movistar deportes,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2520
-movistar deportes 2,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2521
-movistar dcine,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2522
-movistar esternos,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2523
-movistar series,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2524
-bein la liga,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2526
-mtv,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2527
-nat geo wild,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2528
-national geographic,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2529
-neox,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2530
-real madrid,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2531
-syfy,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2532
-tcm,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2533
-tnt,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2534
-galicia infantil,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2535
-Pequeradio TV  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2536
-Planeta Junior  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2537
-7TV Murcia  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2538
-Alcarria TV  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2539
-Canal 33 Madrid  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2540
-Castilla-La Mancha Media  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2543
-Cultura 365  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2545
-Euskal Telebista 1 Pais Vasco  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2547
-Extremadura  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2548
-La 1  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2549
-La 2  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2550
-Lancelot TV Canarias  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2552
-Momentos G  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2554
-Onda Algeciras  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2555
-TV Galicia Europa  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2558
-Xabarin TV  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2559
-RTVE1  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2561
-TV Galicia America  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2562
-Zapping Music  | CL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2563
-Cristiana TV  | ES,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/2564
-UNICANAL,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/3011
-FARA PLAY,http://51.159.54.137:25461/FRANCOM3U/drfdrsyaz/3012
-
-HGTV,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
+CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
+BBC World News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+Tennis HD,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+Fox Sport3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 tvN,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
