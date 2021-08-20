@@ -1,7 +1,5 @@
 X直播电视台 油管频道
 
-中文©新闻,#genre#
-
 测试1,#genre#
 
 卫视洋片台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d20?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
