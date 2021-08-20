@@ -3,12 +3,34 @@ X直播电视台 油管频道
 中文©新闻,#genre#
 
 测试1,#genre#
+
+20号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d20?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+24号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+22号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d22?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+28号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d28?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+32号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d32?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+36号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d36?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+34号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d34?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+30号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d30?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+38号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d38?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+40号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d40?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+44号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d44?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+46号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d46?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+48号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+50号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d50?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+54号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d54?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+68号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d68?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+88号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d88?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+
+
+台湾@107,#genre#
 纬来综合HD,http://107.167.5.66:80/mylive/102/2026/index.m3u8
 年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
 非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
+新闻@频道,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
@@ -191,6 +213,7 @@ eleven1,rtmp://59.124.75.153/sat/tv731
 eleven2,rtmp://59.124.75.153/sat/tv741
 MoMo综合台,rtmp://59.124.75.153/sat/tv761
 东森超视,rtmp://59.124.75.153/sat/tv771
+日本,rtmp://59.124.75.153/sat/jp011
 11号[1280*720],rtmp://59.124.75.153/sat/us011
 21号[1280*720],rtmp://59.124.75.153/sat/us021
 31号[720*480],rtmp://59.124.75.153/sat/us031
