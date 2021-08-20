@@ -21,6 +21,14 @@ X直播电视台 油管频道
 54号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d54?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 68号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d68?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 88号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d88?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+72号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c72?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+78号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c78?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+74号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c74?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+88号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c88?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+84号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c84?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+92号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c92?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+90号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c90?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+96号[1280*720],rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c96?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
 
 台湾@107,#genre#
