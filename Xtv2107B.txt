@@ -109,6 +109,7 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 
 香港☒頻道,#genre#
 
+翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
