@@ -1,5 +1,35 @@
 X直播电视台 油管频道
 
+港台@60,#genre#
+6号[1280*720],http://60.251.59.179:8505/xoxo.m3u8
+7号[1920*1080],http://60.251.59.179:8506/xoxo.m3u8
+4号[1920*1080],http://60.251.59.179:8503/xoxo.m3u8
+5号[1920*1080],http://60.251.59.179:8504/xoxo.m3u8
+3号[1920*1080],http://60.251.59.179:8502/xoxo.m3u8
+13号[1920*1080],http://60.251.59.179:8512/xoxo.m3u8
+14号[1920*1080],http://60.251.59.179:8513/xoxo.m3u8
+12号[1920*1080],http://60.251.59.179:8511/xoxo.m3u8
+19号[1920*1080],http://60.251.59.179:8518/xoxo.m3u8
+18号[1920*1080],http://60.251.59.179:8517/xoxo.m3u8
+16号[1920*1080],http://60.251.59.179:8515/xoxo.m3u8
+15号[1920*1080],http://60.251.59.179:8514/xoxo.m3u8
+20号[1920*1080],http://60.251.59.179:8519/xoxo.m3u8
+21号[1920*1080],http://60.251.59.179:8520/xoxo.m3u8
+22号[1920*1080],http://60.251.59.179:8521/xoxo.m3u8
+23号[1280*720],http://60.251.59.179:8522/xoxo.m3u8
+28号[1920*1080],http://60.251.59.179:8527/xoxo.m3u8
+30号[1280*720],http://60.251.59.179:8529/xoxo.m3u8
+31号[1280*720],http://60.251.59.179:8530/xoxo.m3u8
+33号[1280*720],http://60.251.59.179:8532/xoxo.m3u8
+46号[1280*720],http://60.251.59.179:8545/xoxo.m3u8
+48号[1920*1080],http://60.251.59.179:8547/xoxo.m3u8
+49号[1920*1080],http://60.251.59.179:8548/xoxo.m3u8
+50号[1920*1080],http://60.251.59.179:8549/xoxo.m3u8
+35号[1920*1080],http://60.251.59.179:8534/xoxo.m3u8
+44号[1920*1080],http://60.251.59.179:8543/xoxo.m3u8
+
+
+
 港台@185,#genre#
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
@@ -14,7 +44,9 @@ ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 
 
 测试1,#genre#
-
+东森电影,http://60.251.59.179:8514/xoxo.m3u8
+卫视电影台,https://flv3948069e.live.126.net/live/8127ce91a079d7ef21881aa47f17c657.flv
+龙翔时代,https://flv3948069e.live.126.net/live/67f1cc66004c8ae64d0a5dec68de40cd.flv
 卫视洋片台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d20?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 寰宇综合台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 国家地理,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d22?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -102,6 +134,7 @@ HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 淘萌宠[高清],http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 爱上4KII,http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
