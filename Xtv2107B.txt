@@ -42,6 +42,8 @@ TVB 新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 
 
 测试1,#genre#
+动物星球p8p,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
+动物星球p5p,p5p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
 纬来戏剧198,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
 纬来戏剧p5p,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
 
