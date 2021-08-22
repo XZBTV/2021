@@ -1,79 +1,17 @@
 X直播电视台 油管频道
 
-港台@P5P,#genre#
-dianying,mitv://147.135.39.171:9906/5c6d32c7000229213a30ea886caf4ebe.ts
-无线翡翠,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
-无线明珠,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-有线18台,p5p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts
-天映频道,p5p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts
-台视,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
-中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
-TVBS ᴴᴰ,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
-TVBS新闻台,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
-TVBS欢乐台,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
-八大综合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac.ts
-纬来综合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418.ts
-纬来电影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
-纬来戏剧,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
-纬来体育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
-龍華戲劇,p5p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1.ts
-ANIMAX,p5p://0198.02686.cc:16871/5f38db6700036d2e46923885d5fec1d8
-Astro欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
-Astro欢喜台,p5p://0198.02686.cc:16871/5f34c9c00007f8c936ad45568b5ad1ef
-Astro双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
-Astro双星,p5p://0198.02686.cc:16871/5f34c7a80001412a36a515dec131429c
-Astro AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
-Astro AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
-Astro supersport 2,p5p://0198.02686.cc:16871/5ecfb8a5000633be9696b5b754f59677
-Astro supersport 3,p5p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1
-Astro Ria,p5p://0198.02686.cc:16871/5f38da5a000597f0468e1e4b36907bc0
-Ci罪案侦缉,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-国家地理悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
-韩国娱乐台,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
-Z频道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
-K+,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd.ts
-FOX2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642.ts
-
-
-台湾@60,#genre#
-动物星球,http://60.251.59.179:8503/xoxo.m3u8
-TLC,http://60.251.59.179:8504/xoxo.m3u8
-国家地理台湾,http://60.251.59.179:8502/xoxo.m3u8
-TVBSHD,http://60.251.59.179:8512/xoxo.m3u8
-TVBS新闻台,http://60.251.59.179:8513/xoxo.m3u8
-CNN,http://60.251.59.179:8511/xoxo.m3u8
-东森综合台,http://60.251.59.179:8518/xoxo.m3u8
-东森财经新闻,http://60.251.59.179:8517/xoxo.m3u8
-中天新闻台,http://60.251.59.179:8515/xoxo.m3u8
-东森新闻台,http://60.251.59.179:8514/xoxo.m3u8
-东森戏剧台,http://60.251.59.179:8519/xoxo.m3u8
-TVBS欢乐台,http://60.251.59.179:8520/xoxo.m3u8
-卫视中文台,http://60.251.59.179:8521/xoxo.m3u8
-卫视中文台,http://60.251.59.179:8522/xoxo.m3u8
-东风卫视,http://60.251.59.179:8527/xoxo.m3u8
-卫视电影台,http://60.251.59.179:8529/xoxo.m3u8
-FOXMOVIE,http://60.251.59.179:8530/xoxo.m3u8
-卫视电影台,http://60.251.59.179:8532/xoxo.m3u8
-卫视电影台,http://60.251.59.179:8545/xoxo.m3u8
-FOX电影台,http://60.251.59.179:8547/xoxo.m3u8
-东森幼幼台,http://60.251.59.179:8543/xoxo.m3u8
-东森幼幼台,http://60.251.59.179:8506/xoxo.m3u8
-6号[1280*720],http://60.251.59.179:8505/xoxo.m3u8
-
-
-
-港台V@185,#genre#
-TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-
 
 
 测试1,#genre#
+纬来综合HD,http://107.167.5.66:80/mylive/102/2026/index.m3u8
+年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
+非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
+卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
+緯來電影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+東森電影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+AXN,rtmp://59.125.103.61/channel/60b4e50239e1b02e8b910c9c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 卫视洋片台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d20?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 寰宇综合台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 国家地理,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d22?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -108,19 +46,7 @@ HBO家庭 ,rtmp://220.130.33.19/channel/60b4e50239e1b02e8b910caa?sign=mcnHvuVPiT
 東森電影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 AXN,rtmp://59.125.103.61/channel/60b4e50239e1b02e8b910c9c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-FOX動作電影,rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-HBO原創,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 
-
-纬来综合HD,http://107.167.5.66:80/mylive/102/2026/index.m3u8
-年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
-非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
-卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
 新闻@频道,#genre#
 
@@ -279,6 +205,53 @@ VIU TV,http://livetv.dnsfor.me:80/channel.20.m3u8
 UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
 
+港台@P5P,#genre#
+
+无线翡翠,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+无线明珠,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+有线18台,p5p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts
+天映频道,p5p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts
+台视,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
+中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
+TVBS ᴴᴰ,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
+TVBS新闻台,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+TVBS欢乐台,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
+八大综合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac.ts
+纬来综合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418.ts
+纬来电影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
+纬来戏剧,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
+纬来体育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
+龍華戲劇,p5p://0198.02686.cc:16871/5f380947000effbb435d6e7b21bc4ac1.ts
+ANIMAX,p5p://0198.02686.cc:16871/5f38db6700036d2e46923885d5fec1d8
+Astro欢喜台,p5p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c.ts
+Astro欢喜台,p5p://0198.02686.cc:16871/5f34c9c00007f8c936ad45568b5ad1ef
+Astro双星,p5p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f.ts
+Astro双星,p5p://0198.02686.cc:16871/5f34c7a80001412a36a515dec131429c
+Astro AEC,p5p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b.ts
+Astro AOD,p5p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc.ts
+Astro supersport 2,p5p://0198.02686.cc:16871/5ecfb8a5000633be9696b5b754f59677
+Astro supersport 3,p5p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1
+Astro Ria,p5p://0198.02686.cc:16871/5f38da5a000597f0468e1e4b36907bc0
+Ci罪案侦缉,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
+国家地理悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
+韩国娱乐台,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
+Z频道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
+华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
+K+,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd.ts
+FOX2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642.ts
+
+港台V@185,#genre#
+TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+
+
+
+
+
 台湾@59,#genre#
 民视,rtmp://59.124.75.153/sat/tv051
 台式,rtmp://59.124.75.153/sat/tv071
@@ -395,7 +368,32 @@ TVBS新聞台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
 
-港台©198,#genre#
+台湾@60,#genre#
+动物星球,http://60.251.59.179:8503/xoxo.m3u8
+TLC,http://60.251.59.179:8504/xoxo.m3u8
+国家地理台湾,http://60.251.59.179:8502/xoxo.m3u8
+TVBSHD,http://60.251.59.179:8512/xoxo.m3u8
+TVBS新闻台,http://60.251.59.179:8513/xoxo.m3u8
+CNN,http://60.251.59.179:8511/xoxo.m3u8
+东森综合台,http://60.251.59.179:8518/xoxo.m3u8
+东森财经新闻,http://60.251.59.179:8517/xoxo.m3u8
+中天新闻台,http://60.251.59.179:8515/xoxo.m3u8
+东森新闻台,http://60.251.59.179:8514/xoxo.m3u8
+东森戏剧台,http://60.251.59.179:8519/xoxo.m3u8
+TVBS欢乐台,http://60.251.59.179:8520/xoxo.m3u8
+卫视中文台,http://60.251.59.179:8521/xoxo.m3u8
+卫视中文台,http://60.251.59.179:8522/xoxo.m3u8
+东风卫视,http://60.251.59.179:8527/xoxo.m3u8
+卫视电影台,http://60.251.59.179:8529/xoxo.m3u8
+FOXMOVIE,http://60.251.59.179:8530/xoxo.m3u8
+卫视电影台,http://60.251.59.179:8532/xoxo.m3u8
+卫视电影台,http://60.251.59.179:8545/xoxo.m3u8
+FOX电影台,http://60.251.59.179:8547/xoxo.m3u8
+东森幼幼台,http://60.251.59.179:8543/xoxo.m3u8
+东森幼幼台,http://60.251.59.179:8506/xoxo.m3u8
+6号[1280*720],http://60.251.59.179:8505/xoxo.m3u8
+
+台湾©198,#genre#
 HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 鳳凰香港台,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
@@ -403,7 +401,6 @@ Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
