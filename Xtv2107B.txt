@@ -163,13 +163,17 @@ HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘娱乐[高清],http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 淘萌宠[高清],http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+IPTV4K[3840*2160],http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+南国都市[1920*1080],http://ye23.win/iptv/gztv.php?id=shenghuo
 LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
+爱上4K[0*0],http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 爱上4KII,http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 百思特4K,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8
+纯享4K[3840*2160],http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 芒果TV 15M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 芒果TV4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
@@ -178,6 +182,7 @@ SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582
 FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+4K花园[3840*2160],http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -207,6 +212,7 @@ TVB8,https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
+无线财经台[1280*720],http://ftp9524803.host166.gotoip4.cn/tvb.php?id=2
 无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 無綫新聞台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 無綫財經資訊台,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
@@ -222,7 +228,9 @@ ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
 ViuTV6,http://61.238.6.49:8000/bysid/96
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+港台电视31[1920*1080],http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
+港台电视32[1920*1080],http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now直播331台,https://api.leonardpark.dev/live/now/331
@@ -901,6 +909,26 @@ CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 百事通体育 1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
 NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+极速汽车[1920*1080],http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+山东体育[1920*1080],http://livealone302.iqilu.com/iqilu/typd.m3u8
+精品体育[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+超级体育[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+弈坛春秋[1047*576],http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
+吉林篮球[1047*576],http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
+PremierHD1[1280*720],https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+PremierHD2[1280*720],https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+PremierHD3[1280*720],https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+PremierHD4[1280*720],https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+ufc 2[512*288],https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+ufc 3[1280*720],https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+sports[1280*720],https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+BA HD[1280*720],https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+GOLF HD[1280*720],https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+True Sport HD1[1280*720],https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+True Sport HD2[1280*720],https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+True Sport HD3[1280*720],https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+FOXMovie[1280*720],https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+FOXLife[1280*720],https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 ASTRO SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 ASTRO SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 ASTRO SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
