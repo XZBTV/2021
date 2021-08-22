@@ -1,14 +1,12 @@
 X直播电视台 油管频道
 
 港台@P5P,#genre#
-天映频道,p5p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts
+
 无线翡翠,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
 无线明珠,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-
 有线18台,p5p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts
-
+天映频道,p5p://0198.02686.cc:16871/5ecfb28400055004967ec4954fccfd7f.ts
 台视,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
-
 中天新聞,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
 TVBS ᴴᴰ,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
 TVBS新闻台,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
@@ -35,12 +33,10 @@ Ci罪案侦缉,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
 Z频道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
 K+,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd.ts
-
 FOX2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642.ts
 
 
-
-
+台湾@60,#genre#
 动物星球,http://60.251.59.179:8503/xoxo.m3u8
 TLC,http://60.251.59.179:8504/xoxo.m3u8
 国家地理台湾,http://60.251.59.179:8502/xoxo.m3u8
@@ -82,13 +78,6 @@ TVB 新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 
 
 测试1,#genre#
-动物星球p8p,p8p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-动物星球p5p,p5p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-纬来戏剧198,http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
-纬来戏剧p5p,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
-
-卫视电影台,https://flv3948069e.live.126.net/live/8127ce91a079d7ef21881aa47f17c657.flv
-龙翔时代,https://flv3948069e.live.126.net/live/67f1cc66004c8ae64d0a5dec68de40cd.flv
 卫视洋片台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d20?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 寰宇综合台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d24?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 国家地理,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d22?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
