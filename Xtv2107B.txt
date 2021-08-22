@@ -67,10 +67,6 @@ FOX电影台,http://60.251.59.179:8547/xoxo.m3u8
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-TVB 新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-财经资讯台,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
@@ -127,16 +123,13 @@ FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
 新闻@频道,#genre#
-CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 凤凰资讯 10M1080,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
-无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
-福建新闻,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227074/index.m3u8
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
 
 电影@频道,#genre#
