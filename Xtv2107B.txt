@@ -22,23 +22,25 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 
 电影@频道,#genre#
 
+
+淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
-卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
-東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 天映电影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 纬来电影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
 华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
 龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+HBO台1,http://107.167.5.66:80/mylive/102/2065/index.m3u8
+HBO台2,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+HBO台3,http://125.227.210.37:16027/VideoInput/play.ts
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HBO2,https://gratismkctv.net/film/hbo.m3u8
+卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
+東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 
-HBOHD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HBOHD,https://gratismkctv.net/film/hbo.m3u8
+
 
 
 4K©高清,#genre#
@@ -132,8 +134,8 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 
 
 香港@Livetv,#genre#
-RTHK31,http://123.176.102.22:80/channel.1.m3u8
-RTHK32,http://123.176.102.22:80/channel.2.m3u8
+RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
