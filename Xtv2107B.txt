@@ -27,7 +27,7 @@ HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
-天映頻道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+天映电影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
@@ -46,12 +46,11 @@ HBOHD,https://gratismkctv.net/film/hbo.m3u8
 
 凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港 10M1080,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-湖南卫视1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
-湖南卫视2,http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
-湖南卫视3,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+湖南卫视,http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
+湖南卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
 江苏卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
-浙江卫视1,http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
-浙江卫视2,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+浙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
+浙江卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
 东方卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
 北京卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
 
@@ -79,52 +78,44 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 香港☒頻道,#genre#
 
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
-翡翠台,http://livetv.dnsfor.me/channel.18.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
-J2,http://livetv.dnsfor.me/channel.19.m3u8
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-TVB8,https://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/689546/live_194707653_5399055.m3u8
-明珠台HD,http://cdn.hkdtmb.com/hls/84/index.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 有線直播新聞台,https://api.leonardpark.dev/live/icable/110
+
 有线新闻台2,https://www.navchina.cf/IPTV/icable.php?id=37
 有线财经资讯台2,https://www.navchina.cf/IPTV/icable.php?id=38
 有線直播新聞台2,https://www.navchina.cf/IPTV/icable.php?id=39
-有線綜合娛樂台,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
-无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
-无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
-无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
-无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
-无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
-无线财经台[1280*720],http://ftp9524803.host166.gotoip4.cn/tvb.php?id=2
-无线财经,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-無綫新聞台,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-無綫財經資訊台,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-無綫新聞,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
-無綫直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
-TVB经典台,Dhttp://sytv.jnooo1.top/mytv.php?id=tvbjd&by=qq594630802&user=sytv
+
+无线新闻1,http://cdn.hkdtmb.com/hls/83/index.m3u8
+无线财经1,http://cdn.hkdtmb.com/hls/85/index.m3u8
+无线新闻2,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
+
+
+无线财经2,http://ftp9524803.host166.gotoip4.cn/tvb.php?id=2
+
+无线新闻CH,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+无线财经CH,http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+无线新闻2CH,http://www.chahaoquan.com/wz/epg/tvb.php?id=3
+无线直播CH,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
+
 TVB星河频道HD,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-原*TVB星河HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
-原*TVBE-News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6840
 TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
-ViuTV6,http://61.238.6.49:8000/bysid/96
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港台电视31[1920*1080],http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 RHK32,http://livetv.dnsfor.me:80/channel.2.m3u8  
-港台电视32[1920*1080],http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now直播331台,https://api.leonardpark.dev/live/now/331
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-Now直播660台,http://livetv.dnsfor.me/channel.12.m3u8
-Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
-Now Sports Prime 630,https://api.leonardpark.dev/live/now/630
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,http://livetv.dnsfor.me:80/channel.9.m3u8  
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
@@ -136,12 +127,7 @@ Now Sports Prime 630,https://api.leonardpark.dev/live/now/630
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
 凤凰资讯,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-凤凰香港,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-
-卫视卡式台,http://ws.matchupstream.tuboshu.com/live/sytv_2ac8702326e2e3176b7e317e.flv
-經典影視台,http://103.140.229.13/BOBO/bibi.php?id=23169468
-經典電影台,http://103.140.229.13/BOBO/bibi.php?id=23285297
 經典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 經典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 天映頻道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
