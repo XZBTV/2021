@@ -132,8 +132,8 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 
 
 香港@Livetv,#genre#
-RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
-RTHK32,http://livetv.dnsfor.me:80/channel.2.m3u8
+RTHK31,http://123.176.102.22:80/channel.1.m3u8
+RTHK32,http://123.176.102.22:80/channel.2.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 有線新聞台 HD,http://livetv.dnsfor.me:80/channel.5.m3u8
