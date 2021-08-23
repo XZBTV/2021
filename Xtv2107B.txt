@@ -1,4 +1,4 @@
-X直播电视台 油管频道
+X直播电视台 youtube油管频道
 
 
 
@@ -33,8 +33,6 @@ HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 纬来电影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
 华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
-星卫电影台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d36?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-東森電影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d8a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
@@ -60,21 +58,21 @@ HBOHD,https://gratismkctv.net/film/hbo.m3u8
 东方卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
 北京卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
 
-淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-淘娱乐[高清],http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-淘萌宠[高清],http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+淘萌宠,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 IPTV4K[3840*2160],http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-南国都市[1920*1080],http://ye23.win/iptv/gztv.php?id=shenghuo
-LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
-爱上4K[0*0],http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-纯享4K[3840*2160],http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+南国都市,http://ye23.win/iptv/gztv.php?id=shenghuo
+爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
 FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-4K花园[3840*2160],http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -90,10 +88,10 @@ J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-有線直播新聞台,https://api.leonardpark.dev/live/icable/110
+有线直播新闻台,https://api.leonardpark.dev/live/icable/110
 有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
 有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
-有線直播新聞台,https://www.navchina.cf/IPTV/icable.php?id=39
+有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
@@ -126,9 +124,9 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 凤凰资讯,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-經典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
-經典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-天映頻道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
+经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
+天映频道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
@@ -233,13 +231,11 @@ JET综合,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c74?sign=mcnHvuVPiT0
 TVBSHD,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c90?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 CINEMAX电影,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c96?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 HBO家庭 ,rtmp://220.130.33.19/channel/60b4e50239e1b02e8b910caa?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-AXN,rtmp://59.125.103.61/channel/60b4e50239e1b02e8b910c9c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-
 
 
 台湾@59,#genre#
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-好消息2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 民视,rtmp://59.124.75.153/sat/tv051
 台式,rtmp://59.124.75.153/sat/tv071
 中视,rtmp://59.124.75.153/sat/tv091
@@ -300,7 +296,7 @@ eleven2,rtmp://161.202.204.248/sat/md021
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 
 
-台湾@125,#genre#
+台湾@卡125,#genre#
 凤凰卫视,http://125.227.210.37:8935/VideoInput/play.ts
 CNN HD,http://125.227.210.37:10677/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
@@ -763,36 +759,6 @@ TNT SPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNT SPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNT SPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-電影©輪播,#genre#
-成龙-1,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342386
-洪金宝,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342427
-漫威电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602034
-杰森斯坦森电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id11602046
-动画电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342428
-冯小刚电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352906
-刘德华,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342424
-甄子丹,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352935
-任达华,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352883
-吴京,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602045
-张国荣,http://kuqq.tk/00/huya.php?id=11602034&type=.m3u8
-古装动作,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352964
-郭富城1,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352962
-徐峥电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602043
-漫威,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602075
-最佳搭档系列,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342397
-富贵系列,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352934
-五福星系列,https://tx.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1_2000.m3u8?wsSecret=3dbecb345fa5fa2f9d47e13f4f1773d8&wsTime=5fd0c541&u=0&seqid=16074311252640670&ctype=tars_mobile&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-五福星系列,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11282233
-黑帮系列,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11336719
-搞笑港片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11601960
-警匪片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352886
-黄渤,,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11602044
-赌片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11342399
-灾难片,http://ftp9524803.host166.gotoip4.cn/huya.php?id=11352871
-阿斗归来了,http://ftp9524803.host166.gotoip4.cn/huya.php?id=13303478
-鱼丸电影,http://ftp9524803.host166.gotoip4.cn/huya.php?id=16615910
-大象放映室,http://ftp9524803.host166.gotoip4.cn/huya.php?id=21277391
-科幻梦工场,http://ftp9524803.host166.gotoip4.cn/huya.php?id=15152155
 
 斗鱼频道,#genre#
 电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
