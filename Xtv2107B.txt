@@ -448,6 +448,10 @@ Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 港台V@185,#genre#
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2台,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#https://cdn.hkdtmb.com/hls/85/index.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
