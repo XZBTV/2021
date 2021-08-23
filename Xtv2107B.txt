@@ -78,6 +78,9 @@ HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 
+HBOHD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+HBOHD,https://gratismkctv.net/film/hbo.m3u8
+
 
 4K©高清,#genre#
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -88,12 +91,12 @@ HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 
 凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港 10M1080,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-湖南卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
-湖南卫视,http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
-湖南卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
+湖南卫视1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226935/index.m3u8
+湖南卫视2,http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
+湖南卫视3,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
 江苏卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
-浙江卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
-浙江卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+浙江卫视1,http://39.135.138.60:18890/PLTV/88888910/224/3221225703/index.m3u8
+浙江卫视2,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
 东方卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
 北京卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
 
@@ -476,21 +479,19 @@ TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 Oh!K hd,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 HGTV,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 KBS WORLD,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 TVN HD,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 HBO Malaysia,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-Celestial Classic 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-Celestial Movies 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+Celestial天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+Celestial天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 ANIMAL PLANET,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 NAT GEO wild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 Arena,http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-Astro SuperSport,http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-Astro SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-Astro SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-Astro SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+
 
 马来@iptv,#genre#
 
@@ -597,100 +598,71 @@ UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/penang172/penang172/6618
 UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/penang172/penang172/6619
 
 日韩©頻道,#genre#
-SBS国际[859*480],http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-TJB 대전방송(SBS 大田)[1280*720],http://1.245.74.5:1935/live/tv/.m3u8
-TMA Caraïbes[1920*1080],http://hls.tmacaraibes.com/live/index.m3u8
-Tokyo MX 1[1280*720],http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Tokyo MX 2[1280*720],http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-ウェザーニュース[1280*720],http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-シネフィルWOWOW[1280*720],http://203.162.235.41:16916
-ジャパネットチャンネルDX[1280*720],http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-テレビ東京[1280*720],http://203.162.235.41:16908
-フジテレビ[1280*720],http://203.162.235.41:16904
-AniPlus (Malay subtitles) ,http://210.210.155.35/dr9445/h/h02/01.m3u8
-Arirang TV ,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Arirang ,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-BBS Buddhist Broadcasting,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-SBS 淸州,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-CTS기독교TV ,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-EBS Kids (360p),http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-Edaily TV ,http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
-GCN ,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
-Gugbang TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-KBC 광주방송(SBS 光州) ,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBS World ,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-KCTV 광주 CH05 ,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-Maeil Business Newspaper ,rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
-MTN ,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-NBS Korea Agricultural Broadcasting ,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-SBS International ,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-SBS International ,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
-SBS Plus ,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8
-SBS Plus International ,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-SBS Star ,https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-SBS Star ,https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
-TBC 대구(SBS 大邱) ,http://221.157.125.239:1935/live/psike/playlist.m3u8
-TBS ,http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
-TBS ,https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
-TJB 대전방송(SBS 大田) ,http://1.245.74.5:1935/live/tv/.m3u8
-tvN Asia  [Offline],http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-TVWorkNet ,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-YTN ,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-가요TV ,http://gayotv.net:1935/live/gayotv/playlist.m3u8
-국악방송 ,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-대구 MBC(MBC Daegu),https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8
-대전MBC(MBC Daejeon) ,https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
-여수MBC(MBC Yeosu) ,https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-춘천MBC(MBC Chuncheon) ,https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
-가요TV[1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
-여수MBC(MBC Yeosu)[1280*720],https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
-EBS 1[720*405],http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
-EBS 2[720*405],http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-EBS Kids[640*360],http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-EBS+ 1[720*405],http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
-EBS+ 2[720*405],http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
-EBSe[720*405],http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
-Jasmin TV[1280*720],http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-KBC 광주방송(SBS 光州)[1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBS World[1024*576],https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KBS World[1920*1080],http://125.227.210.37:8935/VideoInput/play.ts
-KCTV 광주 CH05[1280*720],http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-Kids TV[854*480],http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-BS TBS[1280*720],http://203.162.235.41:16913
-BS 日テレ[1280*720],http://203.162.235.41:16912
-BS 朝日[1280*720],http://203.162.235.41:16914
-BS 東京[1280*720],http://203.162.235.41:16915
-BSフジ[1280*720],http://203.162.235.41:16911
-선거방송[1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 
-Animax HD,https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+TMA Caraïbes[1920*1080][1920*1080],http://hls.tmacaraibes.com/live/index.m3u8
+Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+Arirang[1920*1080],http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+arirang[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+Arirang[1920*1080],http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+BBS Buddhist Broadcasting[1920*1080],http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+KBC 광주방송(SBS 光州)[1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+YTN[1920*1080],http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+가요TV[1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
+국악방송[1920*1080],http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+춘천MBC(MBC Chuncheon)[1920*1080],https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
+가요TV[1920*1080][1920*1080],http://gayotv.net:1935/live/gayotv/playlist.m3u8
+KBC 광주방송(SBS 光州)[1920*1080][1920*1080],http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBS World[1920*1080][1920*1080],http://125.227.210.37:8935/VideoInput/play.ts
+Tokyo MX 1[1280*720][1280*720],http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2[1280*720][1280*720],http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+ウェザーニュース[1280*720][1280*720],http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+シネフィルWOWOW[1280*720][1280*720],http://203.162.235.41:16916
+ジャパネットチャンネルDX[1280*720][1280*720],http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+テレビ東京[1280*720][1280*720],http://203.162.235.41:16908
+フジテレビ[1280*720][1280*720],http://203.162.235.41:16904
+TJB 대전방송(SBS 大田)[1280*720][1280*720],http://1.245.74.5:1935/live/tv/.m3u8
+arirang[1280*720],http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+Arirang[1280*720],http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+CGNTV[1280*720],http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+Edaily TV[1280*720],http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+KCTV 광주 CH05[1280*720],http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+Maeil Business Newspaper[1280*720],rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
+MTN[1280*720],http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+NBS Korea Agricultural Broadcasting[1280*720],https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+TJB 대전방송(SBS 大田)[1280*720],http://1.245.74.5:1935/live/tv/.m3u8
+대전MBC(MBC Daejeon)[1280*720],https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+여수MBC(MBC Yeosu)[1280*720],https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+여수MBC(MBC Yeosu)[1280*720][1280*720],https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+Jasmin TV[1280*720][1280*720],http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+KCTV 광주 CH05[1280*720][1280*720],http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+선거방송[1280*720][1280*720],http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+Animax HD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+AnimaxHD[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+KBS World[1024*576][1024*576],https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 
 
 海外©頻道,#genre#
+
+
+HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-Outdoor Channel[1280*720],http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-Fashion TV[800*453],http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-Fashion TV[800*453],http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-AFC-美食[1280*720],https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-FOX-生活[1280*720],https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-索尼动画[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-国家地理[1280*720],https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+Outdoor ,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+AFC,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+FOX,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+索尼动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
 CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
-BBC World News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+
 WarnerTV HD,https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-Tennis HD,https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 HISTORY HD,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 H2 HD,https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 Golf HD,https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
@@ -699,63 +671,16 @@ Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 DiscoveryHDWorld,https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 AnimalPlanet,https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
-FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-tvN,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-tvN,http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
-HBOHD,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HBOHD,https://gratismkctv.net/film/hbo.m3u8
-HBOHD,http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-HBOHits,http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-HBOSignature,http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-FOX,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-FOX,http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-FOXLIFE,http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-FOXMOVIES,http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-FOXMOVIES,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-FoxFamilyMovies,http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-FOXActionMovies,http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-FOXCRIME,http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-AnimaxHD,http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-TVNMovie,http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-SBSStar,https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-Sony One50,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-Sony ONE185,http://185.180.221.194:8278/streams/d/One/playlist.m3u8
-KBS World50,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
-BBCLifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-BBCEarth,https://livecdn.fptplay.net/qnetlive/bbcearth_2000.stream/chunklist.m3u8
-BBCEarth,http://185.180.221.194:8278/streams/d/Bbcearth/playlist.m3u8
-国家地理野生频道,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-国家地理悠人频道,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-Discovery,http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-Discovery,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
-Disney,http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8 
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+
 Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
 Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-动物星球,http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
-动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-动物星球,http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-FashionTV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-SkyNews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
+
 
 
 體育©頻道,#genre#
