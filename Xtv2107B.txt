@@ -464,110 +464,6 @@ Sukan,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 
-马来@iptv,#genre#
-
-ASTRO Ria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
-ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
-ASTRO Warna HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
-Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/penang172/penang172/7267
-ASTRO Naura HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
-ASTRO Oasis HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
-ASTRO Aura HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
-ASTRO Rania HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
-ASTRO Awani HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6714
-ASTRO Ceria HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6715
-Asian Food Network HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
-Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6694
-ASTRO Adithya,http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
-ASTRO AOD 351 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
-ASTRO AOD 352 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
-ASTRO AOD 353 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
-ASTRO AOD 354 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
-ASTRO AOD 355 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
-ASTRO Colors Tamil,http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
-ASTRO Zee Tamil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
-ASTRO Vinmeen HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
-ASTRO Vaanavil HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6738
-Makkal TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
-ASTRO Sun TV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6733
-ASTRO Star Vijay HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
-Chutti TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6762
-Bernama News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6750
-BollyOne HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
-Discovery Asia,http://iptv.tvmalaysia.cc:80/penang172/penang172/6772
-Colors HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
-Warner TV,http://iptv.tvmalaysia.cc:80/penang172/penang172/6848
-TV SARAWAK,http://iptv.tvmalaysia.cc:80/penang172/penang172/6846
-tvN Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/6845
-TVBS Asia HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
-TVB Xing He HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
-TVB E-News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6840
-TV-AlHijrah,http://iptv.tvmalaysia.cc:80/penang172/penang172/6834
-Travel Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6833
-Sun Music,http://iptv.tvmalaysia.cc:80/penang172/penang172/6831
-Sky News HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
-One HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
-Nick Jr,http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
-Hits HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6800
-History HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6799
-HGTV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6798
-HBO HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6797
-TV 1,http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
-TV 2,http://iptv.tvmalaysia.cc:80/penang172/penang172/7178
-TV 3,http://iptv.tvmalaysia.cc:80/penang172/penang172/7266
-TV 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
-TV 9,http://iptv.tvmalaysia.cc:80/penang172/penang172/7185
-BERNAMA,http://iptv.tvmalaysia.cc:80/penang172/penang172/7190
-Fox Movies Premium,http://iptv.tvmalaysia.cc:80/penang172/penang172/8838
-Fox Action Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/8839
-HBO FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7067
-Cinemax FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7062
-HBO Hits FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7068
-HBO Signature FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7069
-HBO Family FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7070
-Warner TV HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7072
-tVN movies HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7074
-National Geographic HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7075
-Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7081
-Nat Geo People HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7080
-History FHD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7079
-Discovery Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
-Animal Planet,http://iptv.tvmalaysia.cc:80/penang172/penang172/7077
-HGTV,http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
-Era FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7169
-Hitz FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7171
-Sinar FM,http://iptv.tvmalaysia.cc:80/penang172/penang172/7172
-THR GEGAR,http://iptv.tvmalaysia.cc:80/penang172/penang172/7174
-Cinema World,http://iptv.tvmalaysia.cc:80/penang172/penang172/7219
-AXN,http://iptv.tvmalaysia.cc:80/penang172/penang172/7223
-Fox Crime,http://iptv.tvmalaysia.cc:80/penang172/penang172/7225
-Fox Life,http://iptv.tvmalaysia.cc:80/penang172/penang172/7228
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/penang172/penang172/7222
-Celestial Movies,http://iptv.tvmalaysia.cc:80/penang172/penang172/7235
-Asia Food Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
-Crime & Investigation,http://iptv.tvmalaysia.cc:80/penang172/penang172/8858
-Blue Ant Entertainment,http://iptv.tvmalaysia.cc:80/penang172/penang172/8860
-Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/penang172/penang172/8861
-Sony One,http://iptv.tvmalaysia.cc:80/penang172/penang172/8863
-Sony Gem,http://iptv.tvmalaysia.cc:80/penang172/penang172/8864
-TvN,http://iptv.tvmalaysia.cc:80/penang172/penang172/8865
-Disney Channel HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/7196
-ASTRO Arena HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6707
-ASTRO SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
-ASTRO SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-ASTRO SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
-FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
-WWE Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/6849
-DSTV: SuperSport Variety 2,http://iptv.tvmalaysia.cc:80/penang172/penang172/6578
-DSTV: SuperSport Variety 3,http://iptv.tvmalaysia.cc:80/penang172/penang172/6579
-BT Sport 1,http://iptv.tvmalaysia.cc:80/penang172/penang172/6610
-BT Sport 2,http://iptv.tvmalaysia.cc:80/penang172/penang172/6611
-BT Sport 3,http://iptv.tvmalaysia.cc:80/penang172/penang172/6612
-UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/penang172/penang172/6614
-UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/penang172/penang172/6617
-UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/penang172/penang172/6618
-UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/penang172/penang172/6619
-
 日本©頻道,#genre#
 NHK WORLD TV[1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK Chinese Vision[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -576,7 +472,6 @@ CGNTV Japan[1280*720],http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.
 GTN Typhome (English Subs) [Not 24/7][1280*720],https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8
 New Japan Pro Wrestling World[1280*720],https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
 日本购物1[1280*720],http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-Tokyo MX (Webcam Stream) (720p)[1280*720],https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 Weather News[1280*720],https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 Gunma TV[1280*720],https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 Tokyo MX 1[1280*720][1280*720],http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
@@ -586,7 +481,6 @@ Tokyo MX 2[1280*720][1280*720],http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 ジャパネットチャンネルDX[1280*720][1280*720],http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 テレビ東京[1280*720][1280*720],http://203.162.235.41:16908
 フジテレビ[1280*720][1280*720],http://203.162.235.41:16904
-
 
 
 韩国©頻道,#genre#
