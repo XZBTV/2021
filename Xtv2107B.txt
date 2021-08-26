@@ -1,8 +1,8 @@
 X直播电视台 youtube油管频道
 2021/8/26 星期四 11:01:02
 广东测试1,#genre#
-凤凰电影,p6p://livefccs.evservicepro.com:16888/6044e3ed000e16668f40f756b2e3aa9f.ts
-凤凰电影,p5p://livefccs.evservicepro.com:16888/6044e3ed000e16668f40f756b2e3aa9f.ts
+
+
 凤凰卫视[1920*1080],http://113.64.147.95:808/hls/52/index.m3u8
 凤凰卫视[1024*576],http://113.64.147.95:808/hls/607/index.m3u8
 凤凰香港[1920*1080],http://113.64.147.95:808/hls/53/index.m3u8
@@ -1083,6 +1083,8 @@ Z频道,p5p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
 K+,p5p://0198.02686.cc:16871/5f380ea60005e9564372673f4fa697fd.ts
 FOX2,p5p://0198.02686.cc:16871/5f2fad7f0006356c22b6e6fb18281642.ts
+凤凰电影,p5p://livefccs.evservicepro.com:16888/6044e3ed000e16668f40f756b2e3aa9f.ts
+TVn,p5p://0198.02686.cc:16871/5f37e249000e578642c51e20bbf21abb
 
 
 
