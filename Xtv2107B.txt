@@ -1,7 +1,9 @@
 X直播电视台 youtube油管频道
 2021/8/26 星期四 11:01:02
 广东测试1,#genre#
-
+TVB星河,http://113.64.147.95:808/hls/1001/index.m3u8
+广东珠江,http://113.64.147.95:808/hls/1005/index.m3u8
+揭阳,http://113.64.147.95:808/hls/1006/index.m3u8
 3号[768*576],http://113.64.147.95:808/hls/3/index.m3u8
 6号[768*576],http://113.64.147.95:808/hls/6/index.m3u8
 8号[768*576],http://113.64.147.95:808/hls/8/index.m3u8
@@ -125,6 +127,7 @@ X直播电视台 youtube油管频道
 633号[768*576],http://113.64.147.95:808/hls/633/index.m3u8
 631号[0*0],http://113.64.147.95:808/hls/631/index.m3u8
 702号[785*576],http://113.64.147.95:808/hls/702/index.m3u8
+
 
 TVBUS测试1,#genre#
 翡翠臺,tvbus://6TfjoohwSRMxGFboofPXSiezLKLkKxoKJM7mZ8eK7C5AZ3YaEttTM9UTsGJH7
