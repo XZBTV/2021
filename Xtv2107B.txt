@@ -1,11 +1,9 @@
 X直播电视台 youtube油管频道
 广东测试2,#genre#
 
-中天综合,p5p://0198.02686.cc:16871/5f2e5d8000072f111d966b23e859debb.ts
-中天娱乐,p5p://0198.02686.cc:16871/5f2e5e8d0000e5811d9a844fa7cb37a6.ts
-中天新闻,p5p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
-中天亚洲,p5p://0198.02686.cc:16871/5f37ff41000e4fa2433646de603aa487.ts
-
+卫视电影台,p5p://user3.shusongw.mobi:16871/5f2fa80600019b1b22a18525902e8b26.ts
+龙祥电影,p5p://user3.shusongw.mobi:16871/5f2faa42000d119a22aa4274ab45b649.ts
+好莱坞电影,p5p://user3.shusongw.mobi:16871/5f2fabea000ac62722b0ba1e30f6fc2a.ts
 
 广东测试1,#genre#
 
