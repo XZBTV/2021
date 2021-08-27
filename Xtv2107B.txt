@@ -49,10 +49,8 @@ FOX电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT0
 淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 淘萌宠,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-IPTV4K[3840*2160],http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-南国都市,http://ye23.win/iptv/gztv.php?id=shenghuo
 爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
@@ -68,11 +66,11 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 
 
 香港☒頻道,#genre#
-
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -102,7 +100,7 @@ Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now直播331台,https://api.leonardpark.dev/live/now/331
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
-香港开电视,http://livetv.dnsfor.me:80/channel.9.m3u8  
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 香港开电视,https://www.navchina.cf/IPTV/icable.php?id=77
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -136,7 +134,7 @@ TVBS新闻台,rtmp://161.202.204.248/sat/tv551
 纬来体育,rtmp://161.202.204.248:1935/sat/tv721
 eleven1,rtmp://161.202.204.248:1935/sat/tv731
 eleven2,rtmp://161.202.204.248:1935/sat/tv741
-MoMo综合台,rtmp://161.202.204.248/sat/tv761
+MoMo综合,rtmp://161.202.204.248/sat/tv761
 东森超视,rtmp://161.202.204.248/sat/tv771
 爱尔达体育1,rtmp://161.202.204.248/sat/md011
 eleven2,rtmp://161.202.204.248/sat/md021
@@ -152,9 +150,28 @@ Z频道,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02c
 FOX电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-ELTA综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-Astro欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+东风卫视,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
+中视新闻 HD,http://seb.sason.top/sc/zsxw_fhd.m3u8
+华视新闻资讯 HD,http://seb.sason.top/sc/hsxw_fhd.m3u8
+台视新闻 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
+民视第一 HD,http://seb.sason.top/ptv/ftv.php?id=dy
+民视新闻 HD,http://seb.sason.top/sc/msxw_fhd.m3u8
+民视台湾 HD,http://seb.sason.top/ptv/ftv.php?id=tw
+民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
+民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
+民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
+中天新闻 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
+东森新闻 HD,http://seb.sason.top/sc/dsxw_fhd.m3u8
+东森财经新闻 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+TVBS新闻台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 eleven1,http://125.227.210.37:10677/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
 年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
