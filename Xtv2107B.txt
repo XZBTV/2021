@@ -17,16 +17,16 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 天映电影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-纬来电影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
-华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
-龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 HBO台1,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO台2,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO台3,http://125.227.210.37:16027/VideoInput/play.ts
-HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-HBO2,https://gratismkctv.net/film/hbo.m3u8
+纬来电影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+FOX电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+
+
 
 
 4K©高清,#genre#
@@ -149,7 +149,7 @@ CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 台视综合,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 台视财经,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 Z频道,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-福克斯电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+FOX电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 ELTA综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
@@ -164,7 +164,7 @@ FOX频道,http://125.227.210.37:13498/VideoInput/play.ts
 三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
 三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
 中天娱乐,http://125.227.210.37:15796/VideoInput/play.ts
-HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 TVBS新闻台,http://125.227.210.37:16329/VideoInput/play.ts
