@@ -70,7 +70,7 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-明珠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
