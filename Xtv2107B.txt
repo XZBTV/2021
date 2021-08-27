@@ -1,14 +1,5 @@
 X直播电视台 youtube油管频道
 
-
-测试1,#genre#
-纬来综合HD,http://107.167.5.66:80/mylive/102/2026/index.m3u8
-年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
-非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
-卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-
-
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -272,6 +263,12 @@ Z頻道,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02c
 香港有線新聞,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 福克斯電影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
+台湾107,#genre#
+纬来综合HD,http://107.167.5.66:80/mylive/102/2026/index.m3u8
+年代新闻HD,http://107.167.5.66:80/mylive/102/2050/index.m3u8
+非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
+卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 
 台湾@59,#genre#
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
