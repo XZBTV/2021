@@ -153,38 +153,38 @@ eleven2,rtmp://161.202.204.248/sat/md021
 博斯魅力,rtmp://161.202.204.248/sat/md041
 爱尔达体育1,rtmp://161.202.204.248/sat/md051
 CBS2 720,rtmp://161.202.204.248:1935/sat/us011
-緯來電影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-台視綜合,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-台視財經,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-Z頻道,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-福克斯電影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+纬来电影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+龙祥时代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+台视综合,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c4a?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+台视财经,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c48?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+Z频道,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+福克斯电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+ELTA综合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜台,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 eleven1,http://125.227.210.37:10677/VideoInput/play.ts
 Discovery,http://125.227.210.37:10388/VideoInput/play.ts
-年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
-FOX頻道,http://125.227.210.37:13498/VideoInput/play.ts
+年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
+FOX频道,http://125.227.210.37:13498/VideoInput/play.ts
 迪斯尼,http://125.227.210.37:14250/VideoInput/play.ts
-非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
+非凡新闻,http://125.227.210.37:15078/VideoInput/play.ts
 三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
-三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
-中天娛樂,http://125.227.210.37:15796/VideoInput/play.ts
+三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
+中天娱乐,http://125.227.210.37:15796/VideoInput/play.ts
 HBO    ,http://125.227.210.37:16027/VideoInput/play.ts
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 TVBS新闻台,http://125.227.210.37:16329/VideoInput/play.ts
 CNBC,http://125.227.210.37:16415/VideoInput/play.ts
-國家地理,http://125.227.210.37:16408/VideoInput/play.ts
+国家地理,http://125.227.210.37:16408/VideoInput/play.ts
 CN卡通  ,http://125.227.210.37:16671/VideoInput/play.ts
-東森戲劇,http://125.227.210.37:17524/VideoInput/play.ts
+东森戏剧,http://125.227.210.37:17524/VideoInput/play.ts
 NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
-緯來體育,http://125.227.210.37:18358/VideoInput/play.ts
-東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+纬来体育,http://125.227.210.37:18358/VideoInput/play.ts
+东森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 TLC,http://125.227.210.37:19020/VideoInput/play.ts
 FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
 FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
