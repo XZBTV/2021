@@ -1,7 +1,21 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
-
+20号[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+70号[1920*1080],http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+77号[1920*1080],http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+75号[1920*1080],http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+108号[1920*1080],http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+122号[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+156号[853*480],http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+158号[720*540],http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+157号[720*540],http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+163号[853*480],http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+172号[853*480],http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+244号[1920*1080],http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+852号[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+853号[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+854号[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
