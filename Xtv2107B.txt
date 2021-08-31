@@ -1,6 +1,7 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
+东森电影,https://flv3948069e.live.126.net/live/0e4add6553e64815df6c2d47352143d9.flv
 J2,https://flv3948069e.live.126.net/live/7280fcf322c52440b35f57f9f705a37b.flv
 20号[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 70号[1920*1080],http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
