@@ -1,6 +1,16 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
+博斯网球台,http://live2-faintv.cdn.hinet.net/live_HLS/S093.stream/playlist.m3u8?token=6VUmVFpjoLd2XGFqA8Wbmg&expires=1630404731
+寰宇财经,http://live1-faintv.cdn.hinet.net/live_HLS/N010.stream/playlist.m3u8?token=0g19d9usU3-s8KNhGlNVTA&expires=1630404607
+寰宇新闻HD,http://live1-faintv.cdn.hinet.net/live_HLS/N010.stream/playlist.m3u8?token=rnkTiqvCIu8MzCsCGje8-A&expires=1630404539
+寰宇台湾新闻,http://live1-faintv.cdn.hinet.net/live_HLS/N030.stream/chunklist.m3u8?token=pfMOT1yjyztIj-YBq-OaGg&expires=1630404359
+东森新闻,https://flv3948069e.live.126.net/live/9e8f408b664280af7d58d558a02bbc1e.flv
+美亚电影台,https://flv3948069e.live.126.net/live/28aa8950017f6bf66ec8e230152b2e02.flv
+纬来电影台,https://flv3948069e.live.126.net/live/b340a1212c1cb4040d1f3611e1d179f0.flv
+龙华电影台https://flv3948069e.live.126.net/live/99f1f42f5d4235a05805ada35aadf871.flv
+龙祥电影台,https://flv3948069e.live.126.net/live/d5131412d7d640f13db07a28813a2e4d.flv
+卫视电影台,https://flv3948069e.live.126.net/live/f49722f806197a545db4c8e2b7e41ca4.flv
 东森电影,https://flv3948069e.live.126.net/live/0e4add6553e64815df6c2d47352143d9.flv
 J2,https://flv3948069e.live.126.net/live/7280fcf322c52440b35f57f9f705a37b.flv
 20号[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
