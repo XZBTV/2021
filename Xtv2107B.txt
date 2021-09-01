@@ -1,33 +1,7 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
-博斯网球台,http://live2-faintv.cdn.hinet.net/live_HLS/S093.stream/playlist.m3u8?token=6VUmVFpjoLd2XGFqA8Wbmg&expires=1630404731
-寰宇财经,http://live1-faintv.cdn.hinet.net/live_HLS/N010.stream/playlist.m3u8?token=0g19d9usU3-s8KNhGlNVTA&expires=1630404607
-寰宇新闻HD,http://live1-faintv.cdn.hinet.net/live_HLS/N010.stream/playlist.m3u8?token=rnkTiqvCIu8MzCsCGje8-A&expires=1630404539
-寰宇台湾新闻,http://live1-faintv.cdn.hinet.net/live_HLS/N030.stream/chunklist.m3u8?token=pfMOT1yjyztIj-YBq-OaGg&expires=1630404359
-东森新闻,https://flv3948069e.live.126.net/live/9e8f408b664280af7d58d558a02bbc1e.flv
-美亚电影台,https://flv3948069e.live.126.net/live/28aa8950017f6bf66ec8e230152b2e02.flv
-纬来电影台,https://flv3948069e.live.126.net/live/b340a1212c1cb4040d1f3611e1d179f0.flv
-龙华电影台https://flv3948069e.live.126.net/live/99f1f42f5d4235a05805ada35aadf871.flv
-龙祥电影台,https://flv3948069e.live.126.net/live/d5131412d7d640f13db07a28813a2e4d.flv
-卫视电影台,https://flv3948069e.live.126.net/live/f49722f806197a545db4c8e2b7e41ca4.flv
-东森电影,https://flv3948069e.live.126.net/live/0e4add6553e64815df6c2d47352143d9.flv
-J2,https://flv3948069e.live.126.net/live/7280fcf322c52440b35f57f9f705a37b.flv
-20号[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-70号[1920*1080],http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-77号[1920*1080],http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-75号[1920*1080],http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-108号[1920*1080],http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-122号[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-156号[853*480],http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-158号[720*540],http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
-157号[720*540],http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
-163号[853*480],http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-172号[853*480],http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-244号[1920*1080],http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-852号[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-853号[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-854号[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+
 
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -182,6 +156,7 @@ BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playli
 ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 东风卫视,http://60.251.59.179:8527/http/192.168.77.7:8088/hls/104/startwest89.m3u8
@@ -315,6 +290,23 @@ Z頻道,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910d64?sign=mcnHvuVPiT02c
 非凡新闻HD,http://107.167.5.66:80/mylive/102/2058/index.m3u8
 卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
 HBO HD,http://107.167.5.66:80/mylive/102/2065/index.m3u8
+
+台湾58,#genre#
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+MAVlife,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+momo综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+108号[1920*1080],http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+FRANCE,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+Arirang,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
 台湾@59,#genre#
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
