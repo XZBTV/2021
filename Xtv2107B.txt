@@ -1,7 +1,38 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
-
+无线新闻台,p2p://ns2.hellotvvod.com:9906/b0ab5834fb1c419ba29ee853a33f8d7e.ts
+无线财经·资讯台,p2p://ns2.hellotvvod.com:9906/ab6035d5d7e24864a29eb7a5ac1555bd.ts
+ViuTVsix,p2p://ns2.hellotvvod.com:9906/d817605f636748309d0f28d872f8a1d3.ts
+ViuTV,p2p://ns2.hellotvvod.com:9906/fb90dd620fd14044ad15118bbc0b3e58.ts
+凤凰中文台,p2p://ns2.hellotvvod.com:9906/e9e6bc64a3fa46aab067137fb4b4d2e7.ts
+凤凰资讯台,p2p://ns2.hellotvvod.com:9906/7cba1736deb3429e830998dee0be509c.ts
+凤凰香港台,p2p://ns2.hellotvvod.com:9906/fb38ff0bdbd040eb9257d31cb1a5a47d.ts
+TVB 星河,p2p://ns2.hellotvvod.com:9906/16f1ef51441d40d8ae4f6a55e651cd0c.ts
+阳光卫视,p2p://ns2.hellotvvod.com:9906/927ef69466784ccd87b9aaf2225732d4.ts
+澳门-MACAU,p2p://ns2.hellotvvod.com:9906/b6c435139f4146faae9d2e790543ec90.ts
+澳门莲花,p2p://ns2.hellotvvod.com:9906/05a20adb7cff4ae38c3bb5eaae5c092d.ts
+now新闻台,p2p://ns2.hellotvvod.com:9906/e00580b5247e47ac9402475e9b0d776d.ts
+now直播台,p2p://ns2.hellotvvod.com:9906/50edcd8b030849029d6cc8449059c107.ts
+HKC电影台,p2p://ns2.hellotvvod.com:9906/f7ef013ba3a64f039e80cdbdfac7c5a1.ts
+凤凰电影台,p2p://ns2.hellotvvod.com:9906/d122d4e685274dadbd1edba77e0c3712.ts
+卫视卡式台,p2p://ns2.hellotvvod.com:9906/6290106aabf84f48ae21fe8c2de0368e.ts
+HKC beIN Sports 1,p2p://ns2.hellotvvod.com:9906/a4e15610309f4f5c91dbca42a0f2c56a.ts
+HKC beIN Sports 2,p2p://ns2.hellotvvod.com:9906/8fad928ea037406ca06bfcfc1989f0dc.ts
+HKC新闻台,p2p://ns2.hellotvvod.com:9906/f9da396197294117ba5fb55216597d77.ts
+HKC直播新闻台,p2p://ns2.hellotvvod.com:9906/13e9739533564ac3992982d41fe8b3f8.ts
+HKC财经资讯台,p2p://ns2.hellotvvod.com:9906/2966c63f0d664e3bbea70120f994b3e2.ts
+HKC 18,p2p://ns2.hellotvvod.com:9906/f87e4fd0e95b4fd1940ed520a6c35bb8.ts
+HKC 603,p2p://ns2.hellotvvod.com:9906/32efd3f4f0614fbd873ac0a7a4c0a8c4.ts
+HKC体育,p2p://ns2.hellotvvod.com:9906/ea0086439d424c99a8f639b9c258de6b.ts
+HKC Sports Plus 1,p2p://ns2.hellotvvod.com:9906/3f40e25fa3d644a0aa7e607a6b479282.ts
+HKC Sports Plus 2,p2p://ns2.hellotvvod.com:9906/d6f059dcde824e37a96f9a5fcc5e905c.ts
+HKC综合娱乐台,p2p://ns2.hellotvvod.com:9906/ce3622386b334a9591e39834af3a7e55.ts
+翡翠台,p2p://ns2.hellotvvod.com:9906/1fd8aa43e6e44bc58cccf01b1527c0a2.ts
+福斯动作电影,p2p://ns2.hellotvvod.com:9906/978b82e040f449d68e6837592581c06c.ts
+Thrill,p2p://ns2.hellotvvod.com:9906/c5902e42d3714487ba975108c12fcde1.ts
+明珠台,p2p://ns2.hellotvvod.com:9906/643917ecd05a4e0fb7132d0a65ab5018.ts
+HKC新闻台(备),p2p://ns2.hellotvvod.com:9906/c7f0160a8bbc43c3b9ea133e32469b31.ts
 
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
