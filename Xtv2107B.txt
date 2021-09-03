@@ -115,7 +115,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 星空卫视,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-爆谷台,rtmp://v3948069e.live.126.net/live/ddpmraud42391285/1
 
 台湾☒頻道,#genre#
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
