@@ -2,6 +2,21 @@ X直播电视台 youtube油管频道
 
 测试,#genre#
 
+BBS_TV(불교)[1920*1080],http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+ASTV News 1 (1080p)[1920*1080],http://news1.live14.com/stream/news1_hi.m3u8
+Thai PBS 3[1920*1080],https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+Bein sport 1 premium[1600*900],http://yny.bourhasar.xyz/live/61011544/index.m3u8
+Bein sport 3 premium[1280*720],http://1.yaciaptk.xyz/live/6151278887/index.m3u8
+BEIN 1 [1280*720],http://7.yaciaptk.xyz/live/33523510/index.m3u8
+BeIN 3[1280*720],http://55.abdakaroukhai.xyz/live/6151278887/index.m3u8
+BeIN 5[1600*900],http://55.abdakaroukhai.xyz/live/115451004/index.m3u8
+BeIN 7[1280*720],http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
+
+BBC World News[1280*720],http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+BBC 2[1280*720],http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+BBC World News[1280*720],http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+CNA[1280*720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -24,6 +39,14 @@ HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+电影14_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+电影16_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+电影18_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 
 4K©高清,#genre#
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -566,8 +589,10 @@ FOX,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 DWNews,https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 FOXHD,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+FOXLife,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
 
 CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
@@ -592,74 +617,6 @@ NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 
-Skynetsport 1[1920*1080],http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
-Skynetsport 2[1920*1080],http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
-Skynetsport 3[1920*1080],http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
-Sky Sport 2 HD[1920*1080],http://stream.tvtap.live:8081/live/de-skysport20.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6MzA6MzMgQU0maGFzaF92YWx1ZT1Ia29XQmpZZEJsTENuU2VWbkFZTnd3PT0mdmFsaWRtaW51dGVzPTIw
-AL-IMAN TV[1920*1080],http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-Natural TV[1920*1080],http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-Spacetoon (1080p)[1920*1080],https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-??????? ??[1920*800],https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
-????[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-Animal Planet[1920*1080],http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
-CNBC INDONESIA[1280*720],https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-CNN INDONESIA[1280*720],https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-TVRI Yogyakarta[1280*720],http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-TV1[1280*720],http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-TV2[1280*720],http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-TV3[1280*720],http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-Awani (Backup)[1280*720],http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-NTV7 (Backup)[1280*720],http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-8TV (Backup)[1280*720],http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-TV9 (Backup)[1280*720],http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-Drama Sangat[1280*720],http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-TV IKIM[1280*720],http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-Astro Prima[1280*720],http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-Astro Oasis[1280*720],http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-Astro Citra[1280*720],http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-Naura HD[1280*720],http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-Astro Xiao Tai Yang HD[1280*720],http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-Astro Shuang Xing ???[1280*720],http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro Quan Jia ??[1280*720],http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-Astro Prima CH105[1280*720],http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-Astro Oasis CH106[1280*720],http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-Astro Citra CH108[1280*720],http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-Naura HD CH109[1280*720],http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-Astro Ceria[1280*720],http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-Suria CH110[1280*720],http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-Astro BOO[1280*720],http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-One[1280*720],http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-Astro Xuang Xing[1280*720],http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro Xiao Tai Yang[1280*720],http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-beIN Sport 1 Premium (backup 1)[1280*720],http://sos.moukrasa.xyz/live/6161655/index.m3u8
-beIN Sport 1 Premium (backup 2)[1280*720],http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
-beIN Sport 1 Premium (yaciapp)[1280*720],http://11.yaciaptk.xyz/live/6161655/index.m3u8
-beIN Sport Xtra[1280*720],https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-Surau TV[1280*720],http://119.235.249.58:1935/surautv/live/playlist.m3u8
-muadzTV[1280*720],http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
-AL-BAHJAH TV[1280*720],https://e1.siar.us/albahjahtv/live/playlist.m3u8
-MADANI TV[1280*720],https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
-Outdoor Channel[1280*720],https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-Asian Food Channel[1280*720],https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-National Geographic Channel[1280*720],https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-Cloudflare TV[1280*720],https://cloudflare.tv/hls/live.m3u8
-SAT-7 KIDS (720p)[1280*720],https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-Shemaroo Kids[1280*720],https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-Tankee[1280*720],https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/282d947f-8e33-4bcb-8d98-3c7d9254f6f5/3.m3u8
-Toonix[1280*720],http://51.210.227.134/hls/stream.m3u8
-Toy Zone (Bumblebee)[1280*720],https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
-TRT 莖cuk (720p)[1280*720],https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-??????? ?? (720p)[1280*720],http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-tvN[1280*720],http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-ASTRO ARENA[1280*720],http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-????! ?????? 2 HD[1047*576],https://chostv.mobie.in/choos/sports/matchqy2.m3u8
-????! ?????? 3 HD[1047*576],https://chostv.mobie.in/choos/sports/matchqy3.m3u8
-Tiji Russia (576p)[1047*576],http://188.40.68.167/russia/tiji/playlist.m3u8
-????? Disney (576p)[1047*576],http://188.40.68.167/russia/disney/playlist.m3u8
-??????? ??? (576p)[1047*576],http://188.40.68.167/russia/radost_moya/playlist.m3u8
-Football 1 Ukraine[1024*576],https://chostv.mobie.in/choos/sports/qyt1.m3u8
-Iqraa TV[1024*576],https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
-????? (576p)[1024*576],https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 
 體育©頻道,#genre#
 CCTV5[1280*720],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
@@ -675,40 +632,28 @@ CCTV5+[1920*1080],http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&
 CCTV5+[1920*1080],http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV5+[1920*1080],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV5+[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-超级体育ᴴᴰ[1920*1080],http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+
+ELEVEN+[1280*720],rtmp://59.124.75.153/sat/md021
+爱尔达体育1[1280*720],rtmp://59.124.75.153/sat/md011
+博斯运动2[1280*720],rtmp://59.124.75.153/sat/md051
+精品体育[1920*1080][1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
+超级体育[1920*1080][1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+超级体育[1920*1080],http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
 超级体育[1920*1080],http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
 咪咕视频·PP体育1[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-博斯网球,http://114.25.108.216:8168/unknown/L09.php
-博斯魅力[1280*720],rtmp://59.124.75.153/sat/md021
-博斯运动[1280*720],rtmp://59.124.75.153/sat/md011
-博斯网球[1280*720],rtmp://59.124.75.153/sat/md051
 劲爆体育[1920*1080],http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 魅力足球[1920*1080],http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育[1920*1080],http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 新视觉[1920*1080],http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-超级体育ᴴᴰ[1920*1080],http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-超级体育[1920*1080],http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-咪咕视频·PP体育1[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
 NBA HD[1280*720],https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 极速汽车[1920*1080][1920*1080],http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 山东体育[1920*1080][1920*1080],http://livealone302.iqilu.com/iqilu/typd.m3u8
-精品体育[1920*1080][1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
-超级体育[1920*1080][1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 弈坛春秋[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
 吉林篮球[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
-PremierHD1[1280*720][1280*720],https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-PremierHD2[1280*720][1280*720],https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-PremierHD3[1280*720][1280*720],https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-ufc 2[512*288][512*288],https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+Bein sprort3,http://1.yaciaptk.xyz/live/6151278887/index.m3u8
 ufc 3[1280*720][1280*720],https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 sports[1280*720][1280*720],https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-BA HD[1280*720][1280*720],https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-GOLF HD[1280*720][1280*720],https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-True Sport HD1[1280*720][1280*720],https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-True Sport HD2[1280*720][1280*720],https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-True Sport HD3[1280*720][1280*720],https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-FOXMovie[1280*720][1280*720],https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-FOXLife[1280*720][1280*720],https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+
 NBA HD[1280*720],https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 ELEVEN SPORTS 1 HD[1280*720],http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
@@ -718,18 +663,6 @@ TNT SPORTS 2[1280*720],https://glxlmn026c.singularcdn.net.br/playout_02/playlist
 TNT SPORTS 3[1280*720],https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNT SPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNT SPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-
-
-斗鱼频道,#genre#
-电影5_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-电影6_斗鱼,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-电影8_斗鱼,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-电影14_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-电影16_斗鱼,http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-电影18_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 
 
 埋堆堆频道,#genre#
