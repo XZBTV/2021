@@ -2,21 +2,7 @@ X直播电视台 youtube油管频道
 
 测试,#genre#
 
-BBS_TV(불교)[1920*1080],http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-ASTV News 1 (1080p)[1920*1080],http://news1.live14.com/stream/news1_hi.m3u8
-Thai PBS 3[1920*1080],https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-Bein sport 1 premium[1600*900],http://yny.bourhasar.xyz/live/61011544/index.m3u8
-Bein sport 3 premium[1280*720],http://1.yaciaptk.xyz/live/6151278887/index.m3u8
-BEIN 1 [1280*720],http://7.yaciaptk.xyz/live/33523510/index.m3u8
-BeIN 3[1280*720],http://55.abdakaroukhai.xyz/live/6151278887/index.m3u8
-BeIN 5[1600*900],http://55.abdakaroukhai.xyz/live/115451004/index.m3u8
-BeIN 7[1280*720],http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
-
-BBC World News[1280*720],http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-BBC 2[1280*720],http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-BBC World News[1280*720],http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
-CNA[1280*720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -26,6 +12,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+BBC World News[1280*720],http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
 
 电影@频道,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
@@ -578,7 +565,6 @@ KBS World[1024*576][1024*576],https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunk
 
 
 海外©頻道,#genre#
-
 HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 Channel V[1280*720],http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 Outdoor ,http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -592,7 +578,7 @@ FOXMovie,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b250
 FOXLife,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 AnimaxHD,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 Outdoor,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 CNN International,http://93.190.139.35:8278/streams/d/cnn_antik/playlist.m3u8
 BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
@@ -650,6 +636,11 @@ NBA HD[1280*720],https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 山东体育[1920*1080][1920*1080],http://livealone302.iqilu.com/iqilu/typd.m3u8
 弈坛春秋[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
 吉林篮球[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
+
+Bein sport 3 premium[1280*720],http://1.yaciaptk.xyz/live/6151278887/index.m3u8
+BEIN 1 [1280*720],http://7.yaciaptk.xyz/live/33523510/index.m3u8
+BeIN 3[1280*720],http://55.abdakaroukhai.xyz/live/6151278887/index.m3u8
+BeIN 7[1280*720],http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
 Bein sprort3,http://1.yaciaptk.xyz/live/6151278887/index.m3u8
 ufc 3[1280*720][1280*720],https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 sports[1280*720][1280*720],https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
