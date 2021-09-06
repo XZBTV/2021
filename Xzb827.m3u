@@ -15,27 +15,27 @@ http://cdn.hkdtmb.com/hls/83/index.m3u8
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 group-title="台湾",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="4K电影",淘电影[高清]
+#EXTINF:-1 group-title="电影",淘电影[高清]
 http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 group-title="4K电影",北京IPTV+4K
+#EXTINF:-1 group-title="电影",北京IPTV+4K
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影HD
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影HD
 http://107.167.5.66:80/mylive/102/2061/index.m3u8
-#EXTINF:-1 group-title="香港",天映电影
+#EXTINF:-1 group-title="电影",天映电影
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 group-title="香港",天映经典HD
+#EXTINF:-1 group-title="电影",天映经典HD
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="香港",天映电影HD
+#EXTINF:-1 group-title="电影",天映电影HD
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="台湾",HBO台1
+#EXTINF:-1 group-title="电影",HBO台1
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
-#EXTINF:-1 group-title="台湾",HBO台2
+#EXTINF:-1 group-title="电影",HBO台2
 http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-#EXTINF:-1 group-title="台湾",HBO台3
+#EXTINF:-1 group-title="电影",HBO台3
 http://125.227.210.37:16027/VideoInput/play.ts
-#EXTINF:-1 group-title="台湾",卫视洋片
+#EXTINF:-1 group-title="电影",卫视洋片
 http://125.227.210.37:18789/VideoInput/play.ts
-#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片
 http://125.227.210.37:18685/VideoInput/play.ts
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文 10M1080
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -101,13 +101,13 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有线财经资讯台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 group-title="香港",有线直播新闻台
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png",有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
 https://www.navchina.cf/IPTV/icable.php?id=37
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有线财经资讯台
 https://www.navchina.cf/IPTV/icable.php?id=38
-#EXTINF:-1 group-title="香港",有线直播新闻台
+#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png",有线直播新闻台
 https://www.navchina.cf/IPTV/icable.php?id=39
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",无线财经
 http://cdn.hkdtmb.com/hls/85/index.m3u8
