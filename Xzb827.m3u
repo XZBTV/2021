@@ -27,7 +27,7 @@ http://107.167.5.66:80/mylive/102/2065/index.m3u8
 http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
 http://125.227.210.37:16027/VideoInput/play.ts
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",淘电影
+#EXTINF:-1 group-title="电影" tvg-logo="https://github.com/XZBTV/2021/blob/main/TAODIANYING.png",淘电影
 http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 group-title="电影",北京IPTV+4K
 #EXTINF:-1 group-title="电影" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg”,天映电影HD
