@@ -169,12 +169,12 @@ http://125.227.210.37:16671/VideoInput/play.ts
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png",BBC Earth Lifestyle
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png",ELTA综合
+#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png",ELTA综合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
 
-#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾
+#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都会
+#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png",三立都会台
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png",华视新闻资讯
