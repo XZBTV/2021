@@ -167,7 +167,7 @@ http://125.227.210.37:16671/VideoInput/play.ts
 
 #EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png",亚洲美食
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png",BBC Earth Lifestyle
+#EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png",BBCLifestyle
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png",ELTA综合台
 http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
