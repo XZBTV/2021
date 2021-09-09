@@ -15,7 +15,7 @@ http://cdn.hkdtmb.com/hls/83/index.m3u8
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 group-title="台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/48/CTI_News_Logo.jpg",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="电影",淘电影[高清]
+#EXTINF:-1 group-title="电影",淘电影
 http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 group-title="电影",北京IPTV+4K
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
@@ -35,7 +35,7 @@ http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 http://125.227.210.37:16027/VideoInput/play.ts
 #EXTINF:-1 group-title="电影" tvg-logo="http://www.qiuyuanwang.com/pic/uploadimg/2016-10/20140105124735474.jpg",卫视洋片
 http://125.227.210.37:18789/VideoInput/play.ts
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://125.227.210.37:18685/VideoInput/play.ts
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文 10M1080
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
