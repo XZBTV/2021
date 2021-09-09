@@ -873,9 +873,9 @@ http://183.207.248.139/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227638/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视 Max16M1080
 http://183.207.249.165/ott.js.chinamobile.com/PLTV/3/224/3221227514/index.m3u8
-#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",SiTV全纪实 4M1080
+#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png",全纪实 4M1080
 http://183.207.248.198/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
-#EXTINF:-1 group-title="未分类",SiTV动漫秀场 4M1080
+#EXTINF:-1 group-title="上海",SiTV动漫秀场 4M1080
 http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png",SiTV游戏风云 4M1080
 http://183.207.248.112/ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8
