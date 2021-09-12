@@ -135,12 +135,11 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映频道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-星空卫视,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+
 
 台湾☒頻道,#genre#
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+
 民视新闻台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
@@ -163,14 +162,34 @@ eleven2,rtmp://161.202.204.248/sat/md021
 博斯网球,rtmp://161.202.204.248/sat/md031
 博斯魅力,rtmp://161.202.204.248/sat/md041
 爱尔达体育1,rtmp://161.202.204.248/sat/md051
-CBS2 720,rtmp://161.202.204.248:1935/sat/us011
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-Astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+
+FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
+FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
+FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
+
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+MAVlife,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+momo综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+108号[1920*1080],http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+FRANCE,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
+寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
 台视新闻 HD,http://seb.sason.top/sc/tsxw_fhd.m3u8
 民视,http://seb.sason.top/ptv/ftv.php?id=ms
@@ -183,7 +202,6 @@ Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 中天新闻 HD,http://seb.sason.top/sc/ztxw_fhd.m3u8
 东森新闻 HD,http://seb.sason.top/sc/dsxw_fhd.m3u8
 东森财经新闻 HD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-TVBS新闻台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
 
@@ -209,24 +227,9 @@ NEWS,http://125.227.210.37:18184/VideoInput/play.ts
 纬来体育,http://125.227.210.37:18358/VideoInput/play.ts
 东森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 TLC,http://125.227.210.37:19020/VideoInput/play.ts
-FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
-FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
-FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
 
-博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-MAVlife,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-momo综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-108号[1920*1080],http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-FRANCE,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
-寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
+
+
 
 港台V@185,#genre#
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
@@ -664,6 +667,7 @@ CCTV5+[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.
 GOLF,http://194.233.73.66:2082/freehitv/freehitv/34
 STAR SPORTS,http://194.233.73.66:2082/freehitv/freehitv/35
 WWE摔角,http://194.233.73.66:2082/freehitv/freehitv/38
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 ELEVEN+[1280*720],rtmp://59.124.75.153/sat/md021
 爱尔达体育1[1280*720],rtmp://59.124.75.153/sat/md011
 博斯运动2[1280*720],rtmp://59.124.75.153/sat/md051
