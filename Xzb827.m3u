@@ -163,27 +163,27 @@ rtmp://161.202.204.248:1935/sat/tv571
 rtmp://161.202.204.248/sat/tv701
 #EXTINF:-1 group-title="台湾" tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png"纬来育乐
 rtmp://161.202.204.248:1935/sat/tv701
-#EXTINF:-1 group-title="台湾" tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png"纬来体育
+#EXTINF:-1 group-title="体育" tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png"纬来体育
 rtmp://161.202.204.248/sat/tv721
-#EXTINF:-1 group-title="台湾" tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png"纬来体育
+#EXTINF:-1 group-title="体育" tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png"纬来体育
 rtmp://161.202.204.248:1935/sat/tv721
-#EXTINF:-1 group-title="台湾" tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",Eleven体育1台
+#EXTINF:-1 group-title="体育" tvg-id="" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports1.png",Eleven体育1台
 rtmp://161.202.204.248:1935/sat/tv731
-#EXTINF:-1 group-title="台湾" tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png",Eleven体育2台
+#EXTINF:-1 group-title="体育" tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png",ELEVEN体育二台
 rtmp://161.202.204.248:1935/sat/tv741
 #EXTINF:-1 group-title="台湾" tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png"MoMo综合台
 rtmp://161.202.204.248/sat/tv761
 #EXTINF:-1 group-title="台湾" tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png"东森超视
 rtmp://161.202.204.248/sat/tv771
-#EXTINF:-1 group-title="台湾" tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png"爱尔达体育1
+#EXTINF:-1 group-title="体育" tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png"爱尔达体育1
 rtmp://161.202.204.248/sat/md011
-#EXTINF:-1 group-title="台湾" tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png"ELEVEN体育二台
+#EXTINF:-1 group-title="体育" tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png"ELEVEN体育二台
 rtmp://161.202.204.248/sat/md021
-#EXTINF:-1 group-title="台湾" tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png"博斯网球
+#EXTINF:-1 group-title="体育" tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png"博斯网球
 rtmp://161.202.204.248/sat/md031
-#EXTINF:-1 group-title="台湾" tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png"博斯魅力
+#EXTINF:-1 group-title="体育" tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png"博斯魅力
 rtmp://161.202.204.248/sat/md041
-#EXTINF:-1 group-title="台湾" tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png"爱尔达体育1
+#EXTINF:-1 group-title="体育" tvg-id="7212" tvg-name="爱尔达体育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png"爱尔达体育1
 rtmp://161.202.204.248/sat/md051
 #EXTINF:-1 group-title="体育" tvg-id="https://upload.wikimedia.org/wikipedia/zh/1/1e/Sports_Plus.png",有线 SPORTS 1
 rtmp://161.202.204.248:1935/sat/hk021
