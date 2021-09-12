@@ -1,7 +1,7 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
-民视新闻台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
+
 
 
 新闻@频道,#genre#
@@ -12,7 +12,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+民视新闻台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 
 电影@频道,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
@@ -141,6 +141,7 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+民视新闻台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071
 中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091
