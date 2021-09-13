@@ -5,7 +5,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://125.227.210.37:18685/VideoInput/play.ts
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影HD
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
 http://107.167.5.66:80/mylive/102/2061/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
