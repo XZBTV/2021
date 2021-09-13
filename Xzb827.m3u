@@ -163,9 +163,9 @@ rtmp://161.202.204.248:1935/sat/tv521
 rtmp://161.202.204.248/sat/tv701
 #EXTINF:-1 group-title="台湾" tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png",纬来育乐
 rtmp://161.202.204.248:1935/sat/tv701
-#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",纬来体育
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",纬来体育台
 rtmp://161.202.204.248/sat/tv721
-#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",纬来体育
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",纬来体育台
 rtmp://161.202.204.248:1935/sat/tv721
 #EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg",Eleven体育一台
 rtmp://161.202.204.248:1935/sat/tv731
@@ -208,7 +208,6 @@ https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&
 https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png",三立财经新闻台
 http://seb.sason.top/sc/slinews_fhd.m3u8
-
 
 #EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png",亚洲美食频道
 http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
