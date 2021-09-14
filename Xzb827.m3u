@@ -3,10 +3,15 @@
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://125.227.210.37:18685/VideoInput/play.ts
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
 http://107.167.5.66:80/mylive/102/2061/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Star_chinese_movies_legend.png",卫视卡式台
+卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",电影一台
+HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
@@ -27,6 +32,8 @@ http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://www.qiuyuanwang.com/pic/uploadimg/2016-10/20140105124735474.jpg",卫视洋片
 http://125.227.210.37:18789/VideoInput/play.ts
+
+
 
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -231,6 +238,8 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 group-title="台湾" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png",民视影剧台
 http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 group-title="台湾" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/912_82ddd9d5cd3dd837db5405e8e9c14ab3.png",韩国娱乐台KMTV
+http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
 http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
