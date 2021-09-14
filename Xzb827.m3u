@@ -28,6 +28,8 @@ http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqxGR.jpg”,天映电影
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqxGR.jpg”,天映电影
+http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2529/5c8866f4b8aa3_1552443124.jpeg",Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
