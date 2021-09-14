@@ -1,13 +1,13 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
-http://rv.flysat.live:80/get.php?username=477817160007643&password=477817160007643&type=m3u
+888,http://rv.flysat.live:80/get.php?username=477817160007643&password=477817160007643&type=m3u
 
-http://rv.flysat.live:80/get.php?username=477811704111574&password=477811704111574&type=m3u
+999,://rv.flysat.live:80/get.php?username=477811704111574&password=477811704111574&type=m3u
 
-http://rv.flysat.live:80/get.php?username=477817116514144&password=477817116514144&type=m3u
+444,http://rv.flysat.live:80/get.php?username=477817116514144&password=477817116514144&type=m3u
 
-http://rv.flysat.live:80/get.php?username=477825111170571&password=477825111170571&type=m3u_plus
+555,http://rv.flysat.live:80/get.php?username=477825111170571&password=477825111170571&type=m3u_plus
 
 
 新闻@频道,#genre#
