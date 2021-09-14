@@ -6,12 +6,14 @@ http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf
 
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://125.227.210.37:18685/VideoInput/play.ts
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
-http://107.167.5.66:80/mylive/102/2061/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-logo="http://www.qiuyuanwang.com/pic/uploadimg/2016-10/20140105124735474.jpg",卫视洋片
+http://125.227.210.37:18789/VideoInput/play.ts
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Star_chinese_movies_legend.png",卫视卡式台
 http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",有线电影台
 http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
+http://107.167.5.66:80/mylive/102/2061/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
@@ -30,8 +32,7 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2529/5c8866f4b8aa3_1552443124.jpeg",Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="电影" tvg-logo="http://www.qiuyuanwang.com/pic/uploadimg/2016-10/20140105124735474.jpg",卫视洋片
-http://125.227.210.37:18789/VideoInput/play.ts
+
 
 
 
