@@ -10,10 +10,10 @@ http://125.227.210.37:18685/VideoInput/play.ts
 http://125.227.210.37:18789/VideoInput/play.ts
 #EXTINF:-1 group-title="电影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Star_chinese_movies_legend.png",卫视卡式台
 http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",有线电影台
-http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
 http://107.167.5.66:80/mylive/102/2061/index.m3u8
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQNMt.png",有线电影台
+http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
 http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png",FOXMOVIES
@@ -184,7 +184,7 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 rtmp://161.202.204.248:1935/sat/tv571
 #EXTINF:-1 group-title="台湾" tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png",东森超视
 rtmp://161.202.204.248/sat/tv771
-#EXTINF:-1 group-title="台湾" tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png",MoMo综合台
+#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/14/Is7vxw.png" group-title="台湾",momo综合台
 rtmp://161.202.204.248/sat/tv761
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png",爱尔达体育1
 rtmp://161.202.204.248/sat/md011
@@ -233,7 +233,7 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 group-title="台湾" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png",民视影剧台
 http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 group-title="台湾" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/912_82ddd9d5cd3dd837db5405e8e9c14ab3.png",韩国娱乐台KMTV
+#EXTINF:-1 group-title="台湾" tvg-logo="https://s3.jpg.cm/2021/09/14/Isqagt.png",韩国娱乐台KMTV
 http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
@@ -246,10 +246,6 @@ http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.jpg.cm/2021/09/14/Is7kIf.png" group-title="台湾",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾",MAVlife
-http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/14/Is7vxw.png" group-title="台湾",momo综合台
-http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="日本",NHK
 http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",FRANCE
