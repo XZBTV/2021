@@ -15,7 +15,7 @@ http://107.167.5.66:80/mylive/102/2061/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQNMt.png",有线电影台
 http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
-http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+http://107.167.5.66:80/mylive/102/2065/index.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png",FOXMOVIES
 http://60.251.59.179:8504/xoxo.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqbT4.png",淘电影
