@@ -66,6 +66,8 @@ http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="4K高清" tvg-logo="http://https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
+http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",欢笑剧场4K
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 group-title="4K高清",LOVE4K
@@ -490,21 +492,21 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png",ELEVEN SPORTS 2 HD
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="电影",电影5_斗鱼
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影5_斗鱼
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 group-title="电影",电影6_斗鱼
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影6_斗鱼
 http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 group-title="电影",电影8_斗鱼
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影8_斗鱼
 http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 group-title="电影",电影14_斗鱼
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影14_斗鱼
 http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-#EXTINF:-1 group-title="电影",电影16_斗鱼
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影16_斗鱼
 http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1 group-title="电影",电影18_斗鱼
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影18_斗鱼
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-#EXTINF:-1 group-title="电影",电影21_斗鱼
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影21_斗鱼
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-#EXTINF:-1 group-title="电影",电影44_斗鱼
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQrkz.png",电影44_斗鱼
 http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 #EXTINF:-1 group-title="4K高清",4K花园生活 24M2160
 http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
@@ -804,17 +806,7 @@ http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227547/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV金牌综艺 4M1080
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV明星大片 4M1080
-http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓动画 4M1080
-http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓动画 4M1080
-http://183.207.248.237/ott.js.chinamobile.com/PLTV/3/224/3221227523/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓电影 4M1080
-http://183.207.249.169/ott.js.chinamobile.com/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓电影 4M1080
-http://183.207.248.208/ott.js.chinamobile.com/PLTV/3/224/3221227520/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓电影 4M1080
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+http://223.110.243.152/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8   
 #EXTINF:-1 group-title="地方",江西陶瓷 7M1080
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227768/index.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实人文 5.5M1080HEVC
@@ -1073,8 +1065,7 @@ http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
 http://pull.dayuntongzhou.com/live/tztv.m3u8
 #EXTINF:-1 group-title="北京",石景山有线
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 group-title="4K高清",纯享4K 20M2160
-http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
+
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV1 4M1080
 http://39.134.155.133/PLTV/88888888/224/3221225591/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1 8M1080
@@ -1221,16 +1212,7 @@ http://39.134.155.145/PLTV/88888888/224/3221225595/index.m3u8
 http://39.134.155.203/PLTV/88888888/224/3221225495/index.m3u8
 #EXTINF:-1 group-title="NewTV",NewTV超级综艺 4M1080
 http://39.134.155.139/PLTV/88888888/224/3221225593/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓动画 4M1080
-http://39.134.155.147/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓动画 4M1080
-http://39.134.155.151/PLTV/88888888/224/3221225554/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓电影 4M1080
-http://39.134.155.155/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓电竞 4M1080
-http://39.134.155.145/PLTV/88888888/224/3221225569/index.m3u8
-#EXTINF:-1 group-title="电影",黑莓电竞 4M1080
-http://39.134.155.159/PLTV/88888888/224/3221225643/index.m3u8
+
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV1 720
 http://39.134.155.133/PLTV/88888888/224/3221225553/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV1 720
