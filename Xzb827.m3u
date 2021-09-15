@@ -95,10 +95,6 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",RHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",RHK31
-http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",RHK32
-http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png",RHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/320px-Now_Live_News_logo.svg.png",Now直播331台
@@ -113,7 +109,7 @@ http://livetv.dnsfor.me/channel.12.m3u8
 https://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQimw.pngg",经典功夫台
+#EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQimw.png",经典功夫台
 http://103.140.229.13/BOBO/bibi.php?id=21715386
 
 #EXTINF:-1 group-title="台湾" tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
@@ -481,12 +477,6 @@ http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
 http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 #EXTINF:-1 group-title="4K高清",4K花园影视 24M2160
 http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
-http://183.207.248.170/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://183.207.249.144/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1 
 http://223.110.243.159/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
