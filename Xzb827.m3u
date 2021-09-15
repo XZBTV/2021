@@ -25,18 +25,7 @@ http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
 
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
+
 
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqbT4.png",淘娱乐
 http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
@@ -92,6 +81,18 @@ https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",ViuTV6
 http://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",RHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png",RHK31
@@ -822,17 +823,10 @@ http://183.207.249.207/ott.js.chinamobile.com/PLTV/3/224/3221227699/index.m3u8
 
 #EXTINF:-1 group-title="地方",仪化有线 3M1080
 http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227702/index.m3u8
-#EXTINF:-1 group-title="地方",常州公共 4M1080
-http://183.207.249.176/ott.js.chinamobile.com/PLTV/3/224/3221227905/index.m3u8
-、、、
-#EXTINF:-1 group-title="地方",常州生活 4M1080
-http://183.207.249.237/ott.js.chinamobile.com/PLTV/3/224/3221227902/index.m3u8
-
 #EXTINF:-1 group-title="地方",沛县新闻综合 2.5M1080
 http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227678/index.m3u8
 #EXTINF:-1 group-title="地方",沛县生活 2.5M1080
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227611/index.m3u8
-、
 #EXTINF:-1 group-title="地方",睢宁三农 2.5M1080
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227709/index.m3u8
 #EXTINF:-1 group-title="地方",睢宁生活教育 2.5M1080
@@ -841,15 +835,12 @@ http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227701/index.m3u8
 http://223.110.245.150/ott.js.chinamobile.com/PLTV/3/224/3221227706/index.m3u8
 #EXTINF:-1 group-title="地方",睢宁资讯 2.5M1080
 http://223.110.243.154/ott.js.chinamobile.com/PLTV/3/224/3221227712/index.m3u8
-
-
 #EXTINF:-1 group-title="地方",邳州综合 2.5M1080
 http://183.207.248.104/ott.js.chinamobile.com/PLTV/3/224/3221227573/index.m3u8
 #EXTINF:-1 group-title="地方",央广购物 2.5M1080
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227532/index.m3u8
 #EXTINF:-1 group-title="地方",江西风尚购物 4M1080
 http://223.110.243.151/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
-
 #EXTINF:-1 group-title="地方",江苏好享购物 4M1080
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227570/index.m3u8
 #EXTINF:-1 group-title="地方",5G购 2M1080
