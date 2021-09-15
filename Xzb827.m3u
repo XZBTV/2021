@@ -150,11 +150,12 @@ rtmp://161.202.204.248/sat/tv771
 #EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/14/Is7vxw.png" group-title="台湾",momo综合台
 rtmp://161.202.204.248/sat/tv761
 
-
-
-
-
-
+#EXTINF:-1 group-title="台湾" tvg-logo="https://s3.jpg.cm/2021/09/14/Isqagt.png",韩国娱乐台KMTV
+http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
+http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾",亚洲旅游台
+http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="台湾" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png",三立台湾台
@@ -186,13 +187,7 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 group-title="台湾" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png",民视影剧台
 http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 group-title="台湾" tvg-logo="https://s3.jpg.cm/2021/09/14/Isqagt.png",韩国娱乐台KMTV
-http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾",寰宇新闻台
-http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾",亚洲旅游台
-http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.jpg.cm/2021/09/14/Is7kIf.png" group-title="台湾",中台湾生活网
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
@@ -281,8 +276,10 @@ rtmp://161.202.204.248/sat/md041
 rtmp://161.202.204.248:1935/sat/hk021
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png",有线603
 rtmp://161.202.204.248:1935/sat/hk011
-#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png",有线18台
+#EXTINF:-1 group-title="体育" tvg-logo="https://s3.jpg.cm/2021/09/15/Islqyz.png",有线18台
 rtmp://161.202.204.248/sat/hk041
+#EXTINF:-1 group-title="体育" tvg-logo="https://s3.jpg.cm/2021/09/15/IslRkR.png",日本MLB
+rtmp://161.202.204.248:1935/sat/jp071
 
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 352
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
