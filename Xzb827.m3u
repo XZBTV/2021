@@ -33,21 +33,21 @@ http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.
 http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 group-title="4K高清" tvg-logo="http://https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
+#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K高清" tvg-logo="http://https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
+#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
 http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",欢笑剧场4K
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 group-title="4K高清",LOVE4K
+#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/15/Isl4O5.png",LOVE4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",冬奥纪实HDR4K
 http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
-#EXTINF:-1 group-title="4K高清",4K花园
+#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/15/Islgmt.png",4K花园
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-#EXTINF:-1 group-title="4K高清",4K花园
+#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/15/Islgmt.png",4K花园
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-#EXTINF:-1 group-title="4K高清",4KCESHI
+#EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/15/Isl2Qz.png",4KCESHI
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png",广东珠江4K
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
