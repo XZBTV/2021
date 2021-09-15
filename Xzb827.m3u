@@ -193,7 +193,7 @@ http://seb.sason.top/ptv/ftv.php?id=yj
 http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="日本",NHK
 http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",FRANCE
+#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/15/Isln7u.png" group-title="海外",FRANCE24
 http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" group-title="海外",TV5monde
 http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
@@ -226,6 +226,22 @@ http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
 http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png",爱尔达体育1
+rtmp://161.202.204.248/sat/md011
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png",爱尔达体育1
+rtmp://161.202.204.248/sat/md051
+#EXTINF:-1 group-title="体育" tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png",博斯网球
+rtmp://161.202.204.248/sat/md031
+#EXTINF:-1 group-title="体育" tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png",博斯魅力
+rtmp://161.202.204.248/sat/md041
+#EXTINF:-1 group-title="体育" tvg-logo="https://s3.jpg.cm/2021/09/15/IslRkR.png",日本MLB
+rtmp://161.202.204.248:1935/sat/jp071
+#EXTINF:-1 group-title="体育" tvg-logo="https://s3.jpg.cm/2021/09/15/Islqyz.png",有线18台
+rtmp://161.202.204.248/sat/hk041
+#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1e/Sports_Plus.png",有线 SPORTS 1
+rtmp://161.202.204.248:1935/sat/hk021
+#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png",有线603
+rtmp://161.202.204.248:1935/sat/hk011
 #EXTINF:-1 tvg-id="6174" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="体育",博斯运动2
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="体育",智林体育台
@@ -264,38 +280,23 @@ http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png",ELEVEN SPORTS 2 HD
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png",爱尔达体育1
-rtmp://161.202.204.248/sat/md011
-#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png",爱尔达体育1
-rtmp://161.202.204.248/sat/md051
-#EXTINF:-1 group-title="体育" tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png",博斯网球
-rtmp://161.202.204.248/sat/md031
-#EXTINF:-1 group-title="体育" tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png",博斯魅力
-rtmp://161.202.204.248/sat/md041
-#EXTINF:-1 group-title="体育" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1e/Sports_Plus.png",有线 SPORTS 1
-rtmp://161.202.204.248:1935/sat/hk021
-#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png",有线603
-rtmp://161.202.204.248:1935/sat/hk011
-#EXTINF:-1 group-title="体育" tvg-logo="https://s3.jpg.cm/2021/09/15/Islqyz.png",有线18台
-rtmp://161.202.204.248/sat/hk041
-#EXTINF:-1 group-title="体育" tvg-logo="https://s3.jpg.cm/2021/09/15/IslRkR.png",日本MLB
-rtmp://161.202.204.248:1935/sat/jp071
 
+
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://s3.jpg.cm/2021/09/15/IslAkE.png",Astro AEC
+http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://d3avoj45mekucs.cloudfront.net/xuan/files/38/38409a6a-44f0-437c-8f20-84ae8367bd65.jpg",Astro 爱奇艺
+http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://s3.jpg.cm/2021/09/15/IslX9Q.png",Astro 双星
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 352
 http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",Astro Hua Hee Dai
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg",Astro AEC
-http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg",Astro AOD 353
 http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://d3avoj45mekucs.cloudfront.net/xuan/files/38/38409a6a-44f0-437c-8f20-84ae8367bd65.jpg",Astro IQIYI
-http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Astro_SHX_HD.jpeg",Astro Shuang Xing
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro Quan Jia
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Astro_HHD.png",Astro 欢喜
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png",Astro 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",Astro Xiao Tai Yang
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Astro_XTY.png",Astro 小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
