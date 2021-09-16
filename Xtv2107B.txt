@@ -1,7 +1,32 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
-
+TVB1,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
+TVB J 2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
+TVB翡翠,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282.ts
+TVB明珠,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
+now新聞,p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b.ts
+now TV,p5p://0198.02686.cc:16871/5d1a69e80008b03211bea99a766f4b8a.ts
+有线18台,p5p://0198.02686.cc:16871/5f2cc1110005f3a7174b593a4c9a9daf.ts
+港台电31,p5p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
+TVBS高清,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
+TVBS新闻,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+TVBS欢乐,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
+台视高清,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
+民视高清,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
+中视高清,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts
+八大综合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac.ts
+纬来综合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418.ts
+国家悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
+纬来体育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
+罪案侦探,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
+韩国娱乐,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
+NBA体育,p5p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7.ts
+华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts
+东森戏剧,p5p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576.ts
+纬来戏剧,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
+纬来电影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
+影迷數位電影台,p8p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec
 武林外传,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
