@@ -1,6 +1,36 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
+HBO原创,p8p://fccs.ggboxtv.tw:9806/604339520007991f068ab7ad0427275f.ts
+HBO强档 HD,p8p://fccs.ggboxtv.tw:9806/60442428000dc9020040224339113352.ts	
+HBO 家庭,p8p://fccs.ggboxtv.tw:9806/604339d800036fb3068cc20c2898df9c.ts		
+HBO-HD,p8p://fccs.ggboxtv.tw:9806/604338a40001163206880e5297cc95ab.ts#p8p://fccs.ggboxtv.tw:9806/604340b2000af04c06a787875d674b81.ts
+CatchPlay電影台,p8p://fccs.ggboxtv.tw:9806/6044191d000d8b620014ff3bef2f4594%20.ts
+CinemaWorld,p8p://fccs.ggboxtv.tw:9806/604415aa00054259000783e434297e54.ts
+Cinemax,p8p://fccs.ggboxtv.tw:9806/60463f7d000802da087ae4d0305dfcaf.ts
+FOX CRIME福斯警匪,p8p://fccs.ggboxtv.tw:9806/60440e1600029d1f09c9d406f98d5158.ts
+FOX 頻道,p8p://fccs.ggboxtv.tw:9806/60440eb10006690c09cc32777254e90a.ts
+FOX動作台,p8p://fccs.ggboxtv.tw:9806/60440fd1000e6f3b09d0998515d1967d.ts
+Fox福斯家庭,p8p://fccs.ggboxtv.tw:9806/6044114c0004d19e09d65f86a75bad6b.ts
+FOX優質電影台,p8p://fccs.ggboxtv.tw:9806/60441060000dae1309d2c7eb236de319.ts
+FX-HD,p8p://fccs.ggboxtv.tw:98906/60440f3c000c153709ce52e28565fc29.ts
+AXN,p8p://fccs.ggboxtv.tw:9806/60463ee9000522e20878a1f4688ea89f.ts
+KIX電影台,p8p://fccs.ggboxtv.tw:9806/6044145c000e8fb900026d95dbb7683a.ts
+WakuWakuJapan,p8p://fccs.ggboxtv.tw:9806/604419f4000340840018447096a9f004.ts
+EYETV戲劇,p8p://fccs.ggboxtv.tw:9806/60442b6d000654ae005c85e289945252.ts
+thrill電影台,p8p://fccs.ggboxtv.tw:9806/604413240002c04b09dd92bffd4adc1b.ts
+壹電影HD,p8p://fccs.ggboxtv.tw:9806/60434a87000b209606cdef9cee9a8dfe.ts
+影迷數位電影台,p8p://fccs.ggboxtv.tw:9806/6068a2650003dd4d135a407336ec164f.ts
+衛視電影台,p8p://fccs.ggboxtv.tw:9806/6044d33b0006a70302ec02a7d10a2600.ts
+衛視西片,p8p://fccs.ggboxtv.tw:9806/604416620003377d000a521e160e3141.ts
+罪案偵緝頻道,p8p://fccs.ggboxtv.tw:9806/604947cc00047a751453588132b90a12.ts
+星衛電影 HD,p8p://fccs.ggboxtv.tw:9806/60494c90000347391465f5d2b8473dbe.ts
+天映電影,p8p://fccs.ggboxtv.tw:9806/60441c660009af940021d366383a86ea.ts
+緯來電影,p8p://fccs.ggboxtv.tw:9806/.6045bc330008915e067a0be52c863eff.ts
+美亞電影台,p8p://fccs.ggboxtv.tw:9806/60494bf1000472fc14638907b18fe55b.ts
+好萊塢電影,p8p://fccs.ggboxtv.tw:9806/6044d78800021f9602fcce46b541cf65.ts
+華納Warner TV,p8p://fccs.ggboxtv.tw:9806/604414f400055b780004bcfa6ee82d22.ts
+
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
