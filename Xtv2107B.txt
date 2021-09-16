@@ -1,6 +1,16 @@
 X直播电视台 youtube油管频道
 
 测试,#genre#
+FashionTV Paris L'Original,https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
+FashionTV New York,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+FashionTV Singapore,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+FashionTV Singapore,https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+FashionTV Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_secrets_sams_170_hls.smil/playlist.m3u8
+FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
+FashionTV Johannesburg,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+
+
 HBO原创,p8p://fccs.ggboxtv.tw:9806/604339520007991f068ab7ad0427275f.ts
 HBO强档 HD,p8p://fccs.ggboxtv.tw:9806/60442428000dc9020040224339113352.ts	
 HBO 家庭,p8p://fccs.ggboxtv.tw:9806/604339d800036fb3068cc20c2898df9c.ts		
