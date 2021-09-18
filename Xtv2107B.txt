@@ -1,7 +1,12 @@
 X直播电视台 youtube油管频道
 2测试,#genre#
-国家悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
+博斯網球8,p8p://0198.02686.cc:16871/5d4c07370004e10e9fd599bbf1aae42b.ts
+博斯無限8,p8p://0198.02686.cc:16871/5d4c081b000532c99fd9146f1abdcff3.ts
+博斯網球5,p5p://0198.02686.cc:16871/5d4c07370004e10e9fd599bbf1aae42b.ts
+博斯無限5,p5p://0198.02686.cc:16871/5d4c081b000532c99fd9146f1abdcff3.ts
 
+
+国家悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
 罪案侦探,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
 韩国娱乐,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
 TVB1（備）,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
@@ -17,19 +22,9 @@ BBC News（備）,p5p://0198.02686.cc:16871/5f3a000a000983a84b0956cc3de14973.ts
 CNN-HD（備）,p5p://0198.02686.cc:16871/5d1a69730008fd4d11bce0a61466a553.ts
 
 测试,#genre#
-HBO原创,p8p://fccs.ggboxtv.tw:9806/604339520007991f068ab7ad0427275f.ts
-HBO强档 HD,p8p://fccs.ggboxtv.tw:9806/60442428000dc9020040224339113352.ts	
-HBO 家庭,p8p://fccs.ggboxtv.tw:9806/604339d800036fb3068cc20c2898df9c.ts		
-HBO-HD,p8p://fccs.ggboxtv.tw:9806/604338a40001163206880e5297cc95ab.ts#p8p://fccs.ggboxtv.tw:9806/604340b2000af04c06a787875d674b81.ts
-CatchPlay電影台,p8p://fccs.ggboxtv.tw:9806/6044191d000d8b620014ff3bef2f4594%20.ts
-CinemaWorld,p8p://fccs.ggboxtv.tw:9806/604415aa00054259000783e434297e54.ts
-Cinemax,p8p://fccs.ggboxtv.tw:9806/60463f7d000802da087ae4d0305dfcaf.ts
-FOX CRIME福斯警匪,p8p://fccs.ggboxtv.tw:9806/60440e1600029d1f09c9d406f98d5158.ts
-FOX 頻道,p8p://fccs.ggboxtv.tw:9806/60440eb10006690c09cc32777254e90a.ts
-FOX動作台,p8p://fccs.ggboxtv.tw:9806/60440fd1000e6f3b09d0998515d1967d.ts
+
 Fox福斯家庭,p8p://fccs.ggboxtv.tw:9806/6044114c0004d19e09d65f86a75bad6b.ts
 FOX優質電影台,p8p://fccs.ggboxtv.tw:9806/60441060000dae1309d2c7eb236de319.ts
-FX-HD,p8p://fccs.ggboxtv.tw:98906/60440f3c000c153709ce52e28565fc29.ts
 AXN,p8p://fccs.ggboxtv.tw:9806/60463ee9000522e20878a1f4688ea89f.ts
 KIX電影台,p8p://fccs.ggboxtv.tw:9806/6044145c000e8fb900026d95dbb7683a.ts
 WakuWakuJapan,p8p://fccs.ggboxtv.tw:9806/604419f4000340840018447096a9f004.ts
