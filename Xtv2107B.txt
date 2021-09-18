@@ -1,4 +1,18 @@
 X直播电视台 youtube油管频道
+1测试,#genre#
+迪士尼(粤),mitv://147.135.39.171:9906/60578860000a3515a353117c0c5b1b93
+卫视卡式台,mitv://ns2.hellotvvod.com:9906/b16cd214776849b093bab44e60f9cb7c
+HKC beIN Sports 1,mitv://ns2.hellotvvod.com:9906/a4e15610309f4f5c91dbca42a0f2c56a
+HKC beIN Sports 2,mitv://ns2.hellotvvod.com:9906/8fad928ea037406ca06bfcfc1989f0dc
+HKC新闻台,mitv://ns2.hellotvvod.com:9906/b07dede3452742829c2d954b6545e393
+HKC直播新闻台,mitv://ns2.hellotvvod.com:9906/4fd39ad7970743ff8fcda224951c2d34
+HKC财经资讯台,mitv://ns2.hellotvvod.com:9906/bb5ab44751dc4e0dbadb31b0d2c43f43
+HKC 18,mitv://ns2.hellotvvod.com:9906/c5385221bcc14e47b30890d651b266f4
+HKC 603,mitv://ns2.hellotvvod.com:9906/6389cdb3b65e4b4db3b5ac220f25e370
+HKC体育,mitv://ns2.hellotvvod.com:9906/2734c2ac0fa2495f9c56391097036f0a
+HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/0c9f9ddf31304ae28fb1634e3eccead1
+HKC Sports Plus 2,mitv://ns2.hellotvvod.com:9906/d6f059dcde824e37a96f9a5fcc5e905c
+HKC综合娱乐台,mitv://ns2.hellotvvod.com:9906/5ff00d6d6de64193a42ed3d5177021b1
 
 测试,#genre#
 FashionTV Paris L'Original,https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
@@ -706,18 +720,6 @@ BBC LIFESTYLE 生活频道 HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5
 BBC EARTH 地球频道 HD,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
 TV5,mitv://fccsovh.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d
 今日俄罗斯,mitv://fccsovh.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025
-新闻,#genre#
-CCTV-13,mitv://fccseuro.pvbox.live:18912/5b1409f30006df25643776d8e0b24224#http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
-BBC HD,mitv://fccseuro.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
-BBC LIFESTYLE 生活频道 HD,mitv://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
-BBC EARTH 地球频道 HD,mitv://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
-TV5,mitv://fccseuro.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d
-今日俄罗斯,mitv://fccseuro.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025
-TVBS,mitv://fccseuro.pvbox.live:18912/5b140960000c982bf20a21204526e2d1
-中视新闻台,mitv://fccseuro.pvbox.live:18912/5b14095e000f377429ff3179bb3ebfec
-互动新闻,mitv://fccseuro.pvbox.live:18912/5b1409fc000a355e9df67236d78afef0
-台视新闻台,mitv://fccseuro.pvbox.live:18912/5b14090b0004b9da605c2752771f0c91
-寰宇新闻频道,mitv://fccseuro.pvbox.live:18912/5b1408f30005adec057583980131e1ee
 
 
 新闻@频道,#genre#
