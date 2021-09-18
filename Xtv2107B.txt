@@ -1103,7 +1103,7 @@ UNIVERSE TV,http://livetv.dnsfor.me:80/channel.23.m3u8
 亚旅卫视,http://livetv.dnsfor.me:80/channel.24.m3u8
 
 港台@P5P,#genre#
-
+TVB2,p2p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
 TVB1,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
 HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 FOX優質電影台,p5p://fccs.123178.top:9906/60441060000dae1309d2c7eb236de319.ts
