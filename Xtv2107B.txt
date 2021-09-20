@@ -34,7 +34,7 @@ ESPN（備）,p5p://0198.02686.cc:16871/5f37ecd5000cc93142ee509a1520c75e.ts
 BBC News（備）,p5p://0198.02686.cc:16871/5f3a000a000983a84b0956cc3de14973.ts
 CNN-HD（備）,p5p://0198.02686.cc:16871/5d1a69730008fd4d11bce0a61466a553.ts
 
-测试,#genre#
+台湾@p5p,#genre#
 
 Fox福斯家庭,p8p://fccs.ggboxtv.tw:9806/6044114c0004d19e09d65f86a75bad6b.ts
 FOX優質電影台,p8p://fccs.ggboxtv.tw:9806/60441060000dae1309d2c7eb236de319.ts
@@ -713,15 +713,6 @@ FIGHTING TV サムライ,p5p://fccs.123178.top:9906/61302321000a162312bceb3f5534
 フジテレビＮＥＸＴ,p5p://fccs.123178.top:9906/613056720008f74d13855f5e8d806907
 フジテレビＯＮＥ,p5p://fccs.123178.top:9906/613057db000b71fa138ae22888301964
 フジテレビＴＷＯ,p5p://fccs.123178.top:9906/613058a5000034b0138df45883905c5e
-銀河,p5p://fccs.123178.top:9906/613055f1000c34b11383684a54fba864
-中华美食频道,mitv://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45
-HK 06,mitv://fccsovh.pvbox.live:18912/5b14092a000dc9218764286074e1c13e
-香港开电视,mitv://54.39.118.88:18912/5b140a990002d1a89cac9e13b5b361a2
-BBC HD,mitv://fccsovh.pvbox.live:18912/5b140953000257fb79f66a001c8dc5b4
-BBC LIFESTYLE 生活频道 HD,mitv://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c
-BBC EARTH 地球频道 HD,mitv://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb
-TV5,mitv://fccsovh.pvbox.live:18912/5b1409220005714cfe68dd0059d4ad7d
-今日俄罗斯,mitv://fccsovh.pvbox.live:18912/5b1409fc00006f1f53515ee06d855025
 
 
 新闻@频道,#genre#
