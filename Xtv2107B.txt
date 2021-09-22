@@ -1,5 +1,5 @@
 X直播电视台 youtube油管 频道
-2测试,#genre#
+
 港台备用@p5p,#genre#
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
@@ -193,7 +193,7 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-民视新闻台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
+
 
 电影@频道,#genre#
 HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
@@ -204,6 +204,12 @@ HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 天映电影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
+天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
+天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
+星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
+星衛HD電影,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
