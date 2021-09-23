@@ -675,26 +675,20 @@ SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05
 
 
 體育©頻道,#genre#
-CCTV5[1280*720],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
-CCTV5[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-CCTV5[1920*1080],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5[1920*1080],http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5[1920*1080],http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-CCTV5[1920*1080],http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
-CCTV5+[1920*1080],http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5+[1920*1080],http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
-CCTV5+[1920*1080],http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
-CCTV5+[1920*1080],http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV5+[1920*1080],http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV5+[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-GOLF,http://194.233.73.66:2082/freehitv/freehitv/34
-STAR SPORTS,http://194.233.73.66:2082/freehitv/freehitv/35
-WWE摔角,http://194.233.73.66:2082/freehitv/freehitv/38
-博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-ELEVEN+[1280*720],rtmp://59.124.75.153/sat/md021
-爱尔达体育1[1280*720],rtmp://59.124.75.153/sat/md011
-博斯运动2[1280*720],rtmp://59.124.75.153/sat/md051
+CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+CCTV5,http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064
+CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5+,http://39.134.39.39/PLTV/88888888/224/3221226253/index.m3u8
+CCTV5+,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
+
 精品体育,http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 超级体育,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
@@ -708,7 +702,15 @@ ELEVEN+[1280*720],rtmp://59.124.75.153/sat/md021
 山东体育[1920*1080][1920*1080],http://livealone302.iqilu.com/iqilu/typd.m3u8
 弈坛春秋[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/1.m3u8
 吉林篮球[1047*576][1047*576],http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/1.m3u8
-
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+爱尔达体育1,rtmp://161.202.204.248/sat/md011
+eleven2,rtmp://161.202.204.248/sat/md021
+博斯网球,rtmp://161.202.204.248/sat/md031
+博斯魅力,rtmp://161.202.204.248/sat/md041
+爱尔达体育1,rtmp://161.202.204.248/sat/md051
+有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk021
+有线603HD,rtmp://161.202.204.248:1935/sat/hk011
+有线18台,rtmp://161.202.204.248/sat/hk041
 BeIN3 Premium,http://1.yaciaptk.xyz/live/6151278887/index.m3u8
 BEIN1,http://7.yaciaptk.xyz/live/33523510/index.m3u8
 BeIN3,http://55.abdakaroukhai.xyz/live/6151278887/index.m3u8
