@@ -91,14 +91,17 @@ J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 明珠台,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
-有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
-有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
-有线18台,rtmp://161.202.204.248/sat/hk041
+TVB娱乐,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d#p2p://fccsovh.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d
+TVB剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1#http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=2
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+HKC有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
+HKC有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
+HKC有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
+HKC有线18台,rtmp://161.202.204.248/sat/hk041
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
@@ -708,14 +711,9 @@ eleven2,rtmp://161.202.204.248/sat/md021
 博斯网球,rtmp://161.202.204.248/sat/md031
 博斯魅力,rtmp://161.202.204.248/sat/md041
 爱尔达体育1,rtmp://161.202.204.248/sat/md051
-有线 SPORTS 1,rtmp://161.202.204.248:1935/sat/hk021
-有线603HD,rtmp://161.202.204.248:1935/sat/hk011
 有线18台,rtmp://161.202.204.248/sat/hk041
-BeIN3 Premium,http://1.yaciaptk.xyz/live/6151278887/index.m3u8
-BEIN1,http://7.yaciaptk.xyz/live/33523510/index.m3u8
-BeIN3,http://55.abdakaroukhai.xyz/live/6151278887/index.m3u8
-BeIN3,http://1.yaciaptk.xyz/live/6151278887/index.m3u8
-BeIN7,http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
+
+
 ELEVEN SPORTS 1 HD[1280*720],http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 ELEVEN SPORTS 2 HD[960*540],http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 TNTSPORTS 1[1280*720],https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
@@ -724,9 +722,6 @@ TNTSPORTS 3[1280*720],https://glxlmn026c.singularcdn.net.br/playout_03/playlist-
 TNTSPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-NBA HD[1280*720],https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-UFC 3[1280*720][1280*720],https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-Sports[1280*720][1280*720],https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
