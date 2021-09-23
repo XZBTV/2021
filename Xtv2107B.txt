@@ -766,9 +766,32 @@ FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
 电影18_斗鱼,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 电影21_斗鱼,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 电影44_斗鱼,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
-HBO FAMILY,https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-HBO HITS,https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-HBO SIG,https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+斗鱼1,http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=
+斗鱼31,http://dyscdnali1.douyucdn.cn/live/315457rKVDx61O3D.flv?uuid=
+斗鱼2,http://dyscdnali1.douyucdn.cn/live/218859r7wrRDulDC.flv?uuid=
+��斗鱼3,http://dyscdnali1.douyucdn.cn/live/263824rRfZVWVD72.flv?uuid=
+��斗鱼61,http://dyscdnali1.douyucdn.cn/live/8168353rQlNMuNrh.flv?uuid=
+��斗鱼17,http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+��斗鱼18,http://dyscdnali1.douyucdn.cn/live/1504768rqUxkJB66.flv?uuid=
+��斗鱼33,http://dyscdnali1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
+��斗鱼21,http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+��斗鱼22,http://dyscdnali1.douyucdn.cn/live/323876reFBNcAGH9.flv?uuid=
+��斗鱼23,http://dyscdnali1.douyucdn.cn/live/5427842rS83prDJz.flv?uuid=
+��斗鱼25,http://dyscdnali1.douyucdn.cn/live/96577rINpsk2dHRn.flv?uuid=
+��斗鱼26,http://dyscdnali1.douyucdn.cn/live/9734042rP0nBsSLQ.flv?uuid=
+��斗鱼27,http://dyscdnali1.douyucdn.cn/live/310926rNTQw8E7Yz.flv?uuid=
+��斗鱼37,http://dyscdnali1.douyucdn.cn/live/206858rtesHKjl.flv?uuid=
+��斗鱼11,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+��斗鱼12,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+��斗鱼29,http://dyscdnali1.douyucdn.cn/live/7537296rTdKDixQ0.flv?uuid=
+��斗鱼67,http://dyscdnali1.douyucdn.cn/live/6655271rvrNp14Nn.flv?uuid=
+��斗鱼40,http://dyscdnali1.douyucdn.cn/live/7459925rLzyH2qb0.flv?uuid=
+��斗鱼68,http://dyscdnali1.douyucdn.cn/live/4282654rqJ3gI94v.flv?uuid=
+��斗鱼15,http://dyscdnali1.douyucdn.cn/live/9650887rIeFUjYia.flv?uuid=
+��斗鱼54,http://dyscdnali1.douyucdn.cn/live/6763930rQ0VfA1mV.flv?uuid=
+��斗鱼42,http://dyscdnali1.douyucdn.cn/live/3980787rVI3fG6Tv.flv?uuid=
+��斗鱼43,http://dyscdnali1.douyucdn.cn/live/5429211rebsvqwH0.flv?uuid=
+��斗鱼87,http://dyscdnali1.douyucdn.cn/live/3627728rlgLfEWR4.flv?uuid=
 武林外传,http://121.51.249.53/tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8
 
 4K频道,#genre#
