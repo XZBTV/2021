@@ -91,7 +91,7 @@ J2,p5p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 明珠台,p5p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-TVB娱乐,p2p://fccseuro.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d#p2p://fccsovh.pvbox.live:18912/5b140a99000c97f5e048bfdfbba41d0d
+
 TVB剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=1#http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?&encrypt=2
 HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
 HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
@@ -108,6 +108,7 @@ HKC有线18台,rtmp://161.202.204.248/sat/hk041
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
 TVB星河粤语,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVB星河国语,http://93.190.139.36:8278/streams/d/tvbxinhe_twn/playlist.m3u8
+TVB剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/index.m3u8?
 TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV6,http://cdn.hkdtmb.com/hls/96/index.m3u8
@@ -134,11 +135,11 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
+卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+香港有线电影,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 天映频道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-香港有线电影,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 
 台湾☒頻道,#genre#
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
@@ -855,7 +856,7 @@ TVB经典港剧@埋堆,#genre#
 
 
 
-TVB161,#genre#
+TVB161大陆,#genre#
 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
