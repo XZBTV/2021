@@ -137,8 +137,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 香港有线电影,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
-天映频道,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 台湾☒頻道,#genre#
@@ -751,6 +749,9 @@ HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+
+
+影视轮播,#genre#
 吴京,http://121.51.249.53/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
 吴京,http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv
 刘德华,http://121.51.249.53/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
