@@ -1,5 +1,8 @@
 X直播电视台 youtube油管 频道
 ceshi,#genre#
+tvn3,mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7.ts
+tvn4,mitv://fccseuro.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7.ts
+TVN2,mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 央视高清,#genre#
