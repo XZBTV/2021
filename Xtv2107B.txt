@@ -534,20 +534,6 @@ NBA,mitv://ns2.hellotvvod.com:9906/2ab2bbcda1f04c2f879c04f59df0278e.ts
 CBSN,mitv://ns2.hellotvvod.com:9906/31aad6cf830141b5ae85919588458e52.ts
 Fox News,mitv://ns2.hellotvvod.com:9906/1fe86d122c394177aabdfa957dd46826.ts
 Food Network,mitv://ns2.hellotvvod.com:9906/06a72ddf22d6476ca2f82aeccddc51e7.ts
-SP,#genre#
-彩虹e台,mitv://ns2.hellotvvod.com:9906/fed322c5eb0945329712e63e0d847f01.ts
-彩虹电影台,mitv://ns2.hellotvvod.com:9906/e3d5df65243742619c476bb987365953.ts
-LOOK TV,mitv://ns2.hellotvvod.com:9906/30a33ba72b7f4739860160cc1af743e3.ts
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/a73286484e4c4e868375ef7b63046bfa.ts
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/b907103cfa6d4db5871b36a0ae5701a4.ts
-松视1台,mitv://ns2.hellotvvod.com:9906/a2a4d40fdf314707a917d9b1d2abc9e7.ts
-松视2台,mitv://ns2.hellotvvod.com:9906/0e1c64dbd14747cebb58a1227d663068.ts
-潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/0a370a68a2fc4e75828711cb3eb8a2e7.ts
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/550e328e938e4a7d87bcadd01e16dd26.ts
-香蕉台,mitv://ns2.hellotvvod.com:9906/5e3d4a555b994b2c876bc2a171a66e5d.ts
-HOT,mitv://ns2.hellotvvod.com:9906/8193dc7f48d34546b321b059d12d6893.ts
-松视3台,mitv://ns2.hellotvvod.com:9906/257a8efc9b904d58a86cf1faa144664d.ts
-JStar极限台,mitv://ns2.hellotvvod.com:9906/e2ac2270a4e34409b4395f8e126c3f2d.ts
 
 央视高清,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
