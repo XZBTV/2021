@@ -1,20 +1,33 @@
 X直播电视台 youtube油管 频道
 
 tvbus電影台,#genre#
-爆谷台,tvbus://5TyTrVuP5Ux1Wnngj1vBqZvtBEk6EdWymRxHcXa3ppqn4yZK1gk12R9rwnifG
-衛視洋片,tvbus://6uXf7tLjQEi9x8FRTh3eFMLDxvrUV643QLBPAxsyPR5NTBB545
-衛視卡式,tvbus://6H9Sd3UuK8sb5xSWCM7xbRhGstVdLsTYEgpVSobHd4j1VkreoD5YMiQxxQtqT
-衛視卡式,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
-衛視卡式,tvbus://7n2hA4hJH7rqhSQ2LLs3iPh3FYu1bC7sEBjEf4fDLV4Gp5LpSJ
-有線電影,tvbus://6HHVQLYnbh2Bw8tfG3Nt97roei6GDcJgnXczuxZ4iGwmJcbh9EzGJgWviK6AW
-美亞電影台,tvbus://7j2FYQUmcYnQbj2ae2aSx1DooeYPvx1erYNYtU4Hmfe79JsHXo
-華納電影,tvbus://7d93BW3KV3TUSBm4exUzo7343ioUAULFKBkwU9TmrKBdZUKWXX
-好萊塢電影,tvbus://7JKKq4Ys9fQm4JfYuCneJkVBfXAtgGZUuBugdEvJC81fj7qGzA
-CINEMAX,tvbus://6qfbj5CfC7wqNJWkv2t5fnxHNk1Sx4eB8LfMWWhCPxvUqruCLP
-星衛電影台,tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy
-天映頻道,tvbus://7tCv2tmBsAT1E8aA3cDpr2RkXCeNh4QjGDh1NaWEGaykUToTHc
-天映經典,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
-天映經典,tvbus://8ejPr4HYposmMUYrDyRG1V4UYjufQczokjwi72KjtC2d3ToHob
+菲律宾  
+
+GMA,mitv://ns2.hellotvvod.com:9906/2aea844a9e82412f8dbd283792868493.ts
+TV5,mitv://ns2.hellotvvod.com:9906/f0b4ed189030431c9c39523bc9ea24e6.ts
+Cinema One,mitv://ns2.hellotvvod.com:9906/f5c791e8cc1b45b493c48e2aef26d485.ts
+Golf Channel,mitv://ns2.hellotvvod.com:9906/4f4de528c41d4824a538b9a14011dfb9.ts
+
+印度  
+
+CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/4f9ee4018ddb466fa435418a8f2b7453.ts
+India TV,mitv://ns2.hellotvvod.com:9906/96152140dc72413badc2731cc658d66c.ts
+Janam TV,mitv://ns2.hellotvvod.com:9906/efb5a3e01a8949628cfe843e20bb7a96.ts
+NDTV,mitv://ns2.hellotvvod.com:9906/e351120e4c5c4b66b6efe113a85e0a53.ts
+
+美国  
+
+ESPN,mitv://ns2.hellotvvod.com:9906/9a084b4aa280458ca64e606ef8f51118.ts
+NBA,mitv://ns2.hellotvvod.com:9906/5f8c56d805c24a3ea3fd45c3cf6329dc.ts
+CBSN,mitv://ns2.hellotvvod.com:9906/b5da08b1107b40ad9b7263a1fb4cee23.ts
+Food Network,mitv://ns2.hellotvvod.com:9906/30f932f6c58448e6928ed1411a9a037e.ts
+
+体育  
+
+Sky Sports HD,mitv://ns2.hellotvvod.com:9906/90d19134a574431781a39f2505f936f2.ts
+Sky Sports 2,mitv://ns2.hellotvvod.com:9906/1aac1a12f55541d1a75fbccdc976615d.ts
+Sky Sports 5,mitv://ns2.hellotvvod.com:9906/a732ae01389245479ce8359639c59433.ts
+Sky Sports 6,mitv://ns2.hellotvvod.com:9906/fff5111314f6469599843bb6da47444e.ts
 衛視中文,tvbus://8RszbvB7e8knMo7EUqEzXPdZuTFVUbj8ShxYwA7Nojjjv5dany
 衛視電影台,tvbus://85MdK74EnZqKsCcWwfHWKWqJDeGbsg4BMbVcXUGnbAwU2zZBNx
 
