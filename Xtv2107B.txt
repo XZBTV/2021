@@ -3,8 +3,8 @@ X直播电视台 youtube油管 频道
 tvbus電影台,#genre#
 菲律宾  
 
-GMA,mitv://ns2.hellotvvod.com:9906/2aea844a9e82412f8dbd283792868493.ts
-TV5,mitv://ns2.hellotvvod.com:9906/f0b4ed189030431c9c39523bc9ea24e6.ts
+GMA,P5P://ns2.hellotvvod.com:9906/2aea844a9e82412f8dbd283792868493.ts
+TV5,P5P://ns2.hellotvvod.com:9906/f0b4ed189030431c9c39523bc9ea24e6.ts
 Cinema One,mitv://ns2.hellotvvod.com:9906/f5c791e8cc1b45b493c48e2aef26d485.ts
 Golf Channel,mitv://ns2.hellotvvod.com:9906/4f4de528c41d4824a538b9a14011dfb9.ts
 
