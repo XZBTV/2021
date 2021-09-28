@@ -1,5 +1,21 @@
 X直播电视台 youtube油管 频道
-
+tvbus電影台,#genre#
+星衛電影台1,tvbus://5ixd4eARkmWRUdmjnAu17xUsC7ngBWDaxsmgk4LcxkFCkXELGn8CrfBYQijmA
+星衛電影台2,tvbus://8PYuWLSUxaWWmToyETBUGr32gQJRDg9K11ix8evcc7nB5dhELy
+星衛電影台3,tvbus://6HEgk6v2dcFEp48HohXkhC73Pdye4wZ1Mgws8KK833aq6rAzythmo9Z4ZDnP9
+衛視電影1,tvbus://5nrQfGeXF6VSqVjRZuXZmZWnMudS8QwB8zepgB92xeJe7d7x8JbH8QsffNb2q
+衛視電影2,tvbus://5au5QAR4QVNUXum4PLi7zF3TyoxTfWv6cWRboJuXkkZSaNcYAGdNHjccAxVUQ
+衛視電影3,tvbus://6TYstdwjGu5PCmLandzpyAdnYYbt4ZePzsdKn76svDQprAr7mQts2p1KikVqx
+衛視洋片1,tvbus://6XGv6YSjnqxvJN9TZdVEfCf2mRDL9Q3VofDWhpMHUsLopzJVJHPudZ7nUFbi2
+衛視洋片2,tvbus://6uXf7tLjQEi9x8FRTh3eFMLDxvrUV643QLBPAxsyPR5NTBB545
+衛視卡式台,tvbus://5XASRw3ac7CzLwLsAMqbESqBHmdXNWixfXTVw7BTiEs14NfUKD5metCuQNXZm
+東森電影1,tvbus://5KVKy5MZ69VvVapedT8GC56zKNGuoCD4eqyfgwppcwFPYdc4GK5ghmydBRehB
+東森電影2,tvbus://842MQ89LSM4MXqVbmtTY82FSVVHYDQ7MEFtu7NzeeDXY4dNGaw
+東森電影3,tvbus://5fnK4ncrmUBiAai25pDbktTiswjBfoz44V9pJ4aLJY54SFpjdWYMWQsB2wAgA
+東森洋片1,tvbus://6dTYTD7sdGGBDNnToo42Nig1KvfEw2nNfn1NuWRcYfUGudoiorjJFkHCXV9My
+東森洋片2,tvbus://8CL79ssarGCRssJC3vQMUwc8sPeRw2pwRyMoMpcKztSyjvREGQ
+東森洋片3,tvbus://6WvuhzptiyGW73YYbNYnCb1k1QQMTo3nMQiiYm85VdVrEAfWbqZcCqzHWRZMb
+東森洋片4,tvbus://5LwYnVdrhSkJ9fQcsi7z28yV3YpibF1dvjsRkhG4gaheZ1xjmjwyh1YMz5y8X
 央视高清,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
