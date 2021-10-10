@@ -147,8 +147,23 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 
 
 台湾☒頻道,#genre#
+东森新闻,http://50.7.61.147:30080/Entry/etnews
+HBO,http://50.7.61.148:30080/Entry/hbo
+纬来日本,http://50.7.61.147:30080/Entry/vljp
+台视 HD,http://50.7.61.148:30080/Entry/ttv
+TVBS HD,http://50.7.61.148:30080/Entry/tvbs
+民视新闻,http://50.7.61.148:30080/Entry/ftvnews
+中视 HD,http://50.7.61.148:30080/Entry/ctv
+TVBS新闻 HD,http://50.7.61.148:30080/Entry/tvbsnews
+非凡商业 HD,http://50.7.61.147:30080/Entry/ubnbus
+TLC,http://50.7.61.147:30080/Entry/tlc
+JET综合,http://50.7.61.147:30080/Entry/jet
+民视 HD,http://50.7.61.147:30080/Entry/ftv
+华视CTS HD,http://50.7.61.147:30080/Entry/cts
+壹新闻 HD,http://50.7.61.147:30080/Entry/etv
+SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
-TVBS综合,http://50.7.61.148:30080/Entry/tvbs
+AXN,http://50.7.61.148:30080/Entry/axn
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 民视新闻台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
 民视,rtmp://59.124.75.136/sat/tv051
@@ -182,34 +197,11 @@ SC,rtmp://59.124.75.136/sat/us271
 SC,rtmp://59.124.75.136/sat/us281
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-ELTA综合,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-Astro AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 
-国家悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
-罪案侦探,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-韩国娱乐,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
-TVB1,p5p://0198.02686.cc:16871/5f39f86b000c14564aeb925c1456a710.ts
-CNN-HD,p5p://0198.02686.cc:16871/5d1a69730008fd4d11bce0a61466a553.ts
-CnnNews,p5p://0198.02686.cc:16871/5f39fb9800041bef4af7f8195646fb88.ts
-HBOCA,p5p://0198.02686.cc:16871/5d1a6984000600f011bd224a806d5fcf.ts
-FoxWest,p5p://0198.02686.cc:16871/5d1a69810006a1bf11bd16bbbf0f1b86.ts
-CbcNews,p5p://0198.02686.cc:16871/5d1a696d000c9f8011bcca24b8fcdf0e.ts
-Eurosp2,p5p://0198.02686.cc:16871/5d1a697b0007aebe11bcff900f6934ca.ts
-ESPN,p5p://0198.02686.cc:16871/5f37ecd5000cc93142ee509a1520c75e.ts
-BBC News,p5p://0198.02686.cc:16871/5f3a000a000983a84b0956cc3de14973.ts
-NBA,p5p://0198.02686.cc:16871/5f39facc0006e0f04af4dbef79c0756f.ts
-cp24,p5p://0198.02686.cc:16871/5f39f90b0005c8064aee01bf8be4cbde.ts
 
-韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-
-FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
-FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
-FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
 
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
@@ -726,7 +718,7 @@ TNTSPORTS 4[1280*720],https://glxlmn026c.singularcdn.net.br/playout_04/playlist-
 TNTSPORTS 5[1280*720],https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 Canal+ Sport HD[1280*720],http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 
-新闻@频道,#genre#
+新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
@@ -736,40 +728,28 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 
 
-电影@频道,#genre#
-HK03_电影一台,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
-卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+电影©频道,#genre#
 淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-卫视电影HD,http://107.167.5.66:80/mylive/102/2061/index.m3u8
-天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
-天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
-天映電影,p5p://fccs.123178.top:9906/60441c660009af940021d366383a86ea.ts
-星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-星衛HD電影,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
-星衛HD電影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+淘萌宠,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+4K风光,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
+LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
+FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
+4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 
 影视轮播,#genre#
-吴京,http://121.51.249.53/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
-吴京,http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv
-刘德华,http://121.51.249.53/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-刘德华,http://ws.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv
-甄子丹,http://121.51.249.53/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
-甄子丹,http://ws.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.flv
-周润发,http://121.51.249.53/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
-周润发,http://ws.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv
-沈腾,http://121.51.249.53/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
-沈腾,http://ws.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
-洪金宝,http://121.51.249.53/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
-洪金宝,http://ws.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
-徐峥,http://121.51.249.53/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
-徐峥,http://ws.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv
-卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
 斗鱼5,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 斗鱼6,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 斗鱼8,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
@@ -812,26 +792,8 @@ HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 斗鱼4K,http://080880qazwsx.ve5.aihost10.top/dy.php?id=9249162
 斗鱼4K,http://zzy789.xyz/douyu1.php?id=9249162
 
-4K频道,#genre#
-淘电影,http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-淘娱乐,http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
-淘萌宠,http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
-北京IPTV+4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-北京IPTV+4K,http://39.134.135.81/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-4K风光,http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
-LOVE4K,http://177.20.208.58:8000/play/a03r/index.m3u8
-FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-冬奥纪实HDR4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
-4K花园,http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
-4K花园,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
-4KCESHI,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
-TVB经典港剧@埋堆,#genre#
+TVB@埋堆,#genre#
 埋堆堆01,http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8 
 埋堆堆02,http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8 
 埋堆堆03,http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8 
