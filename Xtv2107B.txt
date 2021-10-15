@@ -718,11 +718,44 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 国语动漫,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=6449849
 鬼吹灯,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
 
-
+老电影,http://epg.112114.xyz/bili/21759196
+香港鬼片,http://epg.112114.xyz/bili/193
+香港鬼片,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/bilibili.php?tvplay=193
+邵氏电影,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=4246519
+林正英,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=218859
+斗鱼电影1,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=925724
+斗鱼电影2,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=6763930
+斗鱼电影3,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=122402
+斗鱼电影4,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=85894
+斗鱼电影5,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=310926
+斗鱼电影6,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=263824
+斗鱼电影7,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=747764
+斗鱼电影8,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=323876
+斗鱼电影9,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=20415
 斗鱼4K,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=9249162
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 斗鱼4K,http://080880qazwsx.ve5.aihost10.top/dy.php?id=9249162
 斗鱼4K,http://zzy789.xyz/douyu1.php?id=9249162
+
+
+斗鱼动漫,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=206858
+国语动漫,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=6449849
+鬼吹灯,http://148.70.143.24/cms/yslb/yunshitv/wangyouzhibo/douyu.php?tvplay=7701735
+
+
+淘电影,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/2.m3u8
+北京4K电影,http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/2.m3u8
+北京4K电影,http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
+峨嵋4K,http://60.255.49.202/live/emdy4k_8000.m3u8
+IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CHC家庭影院,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/1.m3u8
+CHC动作电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/1.m3u8
+
+CHC高清电影,http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
+CHC家庭影院,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC高清电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
 
 
 TVB@埋堆,#genre#
