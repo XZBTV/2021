@@ -728,6 +728,21 @@ SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
 
+台湾126,#genre#
+
+NOW新闻,http://v3948069e.live.126.net/live/uadgdzil39460877/19.flv
+NOW直播,http://v3948069e.live.126.net/live/qojgxuet23496567/20.flv
+NOW财经,http://v3948069e.live.126.net/live/uwtdzdeh20858918/21.flv
+无线新闻,http://v3948069e.live.126.net/live/hod900.flv
+无线财经,http://v3948069e.live.126.net/live/scypfjyv66589621/7.flv
+Viutv,http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
+ViuTVsix,http://v3948069e.live.126.net/live/lgeuxndz47905359/10.flv
+东森新闻,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
+TVBS新闻,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
+三立inews,http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
+三立LIVE,http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
+中天新闻,http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
+AXN电影,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
 
 P5P港台fccs,#genre#
 HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
