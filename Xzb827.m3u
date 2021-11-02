@@ -56,15 +56,15 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 @@@#EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠华丽台
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+ttps://cdn-cn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",无线新闻
-http://cdn.hkdtmb.com/hls/83/index.m3u8
+https://cdn-cn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQhRH.png",无线财经
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 #EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",无线直播
