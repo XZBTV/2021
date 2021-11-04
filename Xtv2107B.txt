@@ -208,18 +208,9 @@ RHK31,https://cdn-cn.hkdtmb.com/hls/31/index.m3u8
 RHK32,https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
 香港开电视,https://cdn-cn.hkdtmb.com/hls/77/index.m3u8
 
+
+
 香港☒頻道,#genre#
-翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
-明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-无线新闻-备,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
-RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
-RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 翡翠台广东,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
 翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
@@ -230,29 +221,12 @@ RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 星空卫视,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#https://itv.ahcme.edu.cn/hls/startv.m3u8#rtmp://58.200.131.2:1935/livetv/startv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 
-
-
-HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
-HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-Now直播331台,https://api.leonardpark.dev/live/now/331
-
-HKC有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
-HKC有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
-HKC有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
-
-
-
-
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-
 TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 
-Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
-Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+
 
 凤凰中文超清,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯超清,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
@@ -269,8 +243,34 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 
+香港☒外网,#genre#
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+无线新闻-备,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+RHK31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
+RHK32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
+RHK33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 
-台湾☒頻道,#genre#
+HKC有线新闻台,https://api.leonardpark.dev/live/icable/109
+HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
+HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
+Now直播331台,https://api.leonardpark.dev/live/now/331
+
+HKC有线新闻台,https://www.navchina.cf/IPTV/icable.php?id=37
+HKC有线财经资讯台,https://www.navchina.cf/IPTV/icable.php?id=38
+HKC有线直播新闻台,https://www.navchina.cf/IPTV/icable.php?id=39
+
+Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
+Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
+香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+台湾☒外网,#genre#
 东森新闻,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
 纬来日本,http://50.7.61.147:30080/Entry/vljp
