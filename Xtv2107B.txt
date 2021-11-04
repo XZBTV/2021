@@ -5,8 +5,26 @@ BBCWORLDNEWS,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u
 新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221225986/index.m3u8
+CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226191/index.m3u8
+CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/index.m3u8
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
+北京卫视 FHD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226195/index.m3u8
+北京卫视 FHD,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226724/index.m3u8
+北京卫视 FHD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226666/index.m3u8
+北京影视[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
+http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
+北京文艺[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
+北京青年[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
+北京生活[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
+北京科教[1280*720],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
+北京财经[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
+北京东奥[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+卡酷少儿[1920*1080],http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=
+卡酷少儿[1047*576],http://183.207.248.71/gitv/live1/G_KAKU/G_KAKU
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 无线新闻,http://livetv.dnsfor.me:80/channel.10.m3u8
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
@@ -325,13 +343,14 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 
 
 马来©西亚,#genre#
-Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 Astro IQIYI,http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
 Astro 双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro 全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 Astro 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 Astro 欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+Astro AEC,http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 Astro Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
