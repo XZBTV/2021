@@ -1,124 +1,27 @@
 X直播电视台 youtube油管 频道
-测试2,#genre#
-3号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=2
-4号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=3
-5号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=4
-2号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=1
-6号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=5
-7号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=6
-9号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=8
-8号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=7
-11号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=10
-10号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=9
-13号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=12
-17号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=16
-20号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=19
-22号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=21
-24号[1024*576],http://host496323.us.ooqr.com/pltv/gz.php?id=23
-23号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=22
-25号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=24
-27号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=26
-29号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=28
-26号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=25
-28号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=27
-33号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=32
-32号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=31
-34号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=33
-35号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=34
-37号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=36
-39号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=38
-38号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=37
-36号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=35
-40号[1934*1088],http://host496323.us.ooqr.com/pltv/gz.php?id=39
-43号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=42
-45号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=44
-46号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=45
-44号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=43
-47号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=46
-48号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=47
-50号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=49
-49号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=48
-52号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=51
-53号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=52
-54号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=53
-55号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=54
-56号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=55
-57号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=56
-58号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=57
-59号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=58
-61号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=60
-62号[720*576],http://host496323.us.ooqr.com/pltv/gz.php?id=61
-63号[785*576],http://host496323.us.ooqr.com/pltv/gz.php?id=62
-65号[768*576],http://host496323.us.ooqr.com/pltv/gz.php?id=64
-64号[720*576],http://host496323.us.ooqr.com/pltv/gz.php?id=63
-66号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=65
-60号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=59
-67号[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=66
-
-
-
 
 测试1,#genre#
-翡翠台[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=67
-TVB18台[1280*720],http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
-港版美亚(粤)[1276*616],http://v3948069e.live.126.net/live/hod300.flv
-港版美亚(国)[1276*616],http://v3948069e.live.126.net/live/hodtv4003.flv
-美亚电影[1276*616],http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-凤凰香港[1280*720],http://124.238.99.44:808/hls/350/index.m3u8
-明珠台[853*480],http://124.238.99.44:808/hls/355/index.m3u8
-香港HKS[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文台[1920*1080],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰资讯台[1920*1080],http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰香港台[1920*1080],http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰电影台[785*576],http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-星影卫视[640*368],http://data.3g.yy.com/live/hls/29900720/29900720
-港版美亚[1276*616],http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-靖天電影台[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv061
-靖天映畫[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055
-龍華經典台[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
-龍華偶像台[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
-港版美亚[1276*616],http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-八大綜合[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
-靖洋戲劇[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045
-靖天日本[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
-民視第一[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
-豬哥亮歌廳秀[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
-中天新聞[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
-非凡新聞[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010
-影迷數位電影[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
-Cnex[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
-韓國娛樂[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
-達文西[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
-双星[1280*720],http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-BOO恐怖[1280*720],http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-寰宇新闻台[853*480],http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-好消息[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-好消息[854*480],http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-寰宇新闻台[853*480],http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-亚洲旅游台[853*480],http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-博斯运动2[1920*1080],http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-智林体育台[1920*1080],http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-中台湾生活网[1920*1080],http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-中台湾生活网[1920*1080],http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-中台湾生活网[1920*1080],http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-中台湾生活网[1920*1080],http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-MAVlife[1920*1080],http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-momo综合台[1920*1080],http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-NHK[1920*1080],http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-Astro AOD[1280*720],http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-Astro IQIYI[1280*720],http://50.7.161.82:8277/streams/d/iqiyi_pye/playlist.m3u8
-Astro 双星[1280*720],http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro 小太阳[1280*720],http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-Sony One50[1280*720],http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-HGTV[1280*720],http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-KBS WORLD[1280*720],http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
-HBO Malaysia[1280*720],http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-天映经典[960*540],http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映频道[1280*720],http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-NAT GEO wild[1280*720],http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-Arena[1280*720],http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-Sukan[1280*720],http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
-RTM Sports[1280*720],http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+
+6号[1920*1080],http://124.238.99.44:808/hls/305/index.m3u8
+17号[1920*1080],http://124.238.99.44:808/hls/316/index.m3u8
+25号[1920*1080],http://124.238.99.44:808/hls/324/index.m3u8
+26号[768*576],http://124.238.99.44:808/hls/325/index.m3u8
+28号[1920*1080],http://124.238.99.44:808/hls/327/index.m3u8
+27号[1920*1080],http://124.238.99.44:808/hls/326/index.m3u8
+30号[1920*1080],http://124.238.99.44:808/hls/329/index.m3u8
+51号[1280*720],http://124.238.99.44:808/hls/350/index.m3u8
+53号[1024*576],http://124.238.99.44:808/hls/352/index.m3u8
+57号[1280*720],http://124.238.99.44:808/hls/356/index.m3u8
+60号[1280*720],http://124.238.99.44:808/hls/359/index.m3u8
+59号[1280*720],http://124.238.99.44:808/hls/358/index.m3u8
+61号[1024*576],http://124.238.99.44:808/hls/360/index.m3u8
+62号[1280*720],http://124.238.99.44:808/hls/361/index.m3u8
+63号[1920*1080],http://124.238.99.44:808/hls/362/index.m3u8
+64号[854*480],http://124.238.99.44:808/hls/363/index.m3u8
+67号[1280*720],http://124.238.99.44:808/hls/366/index.m3u8
+71号[1920*1080],http://124.238.99.44:808/hls/370/index.m3u8
+72号[1047*576],http://124.238.99.44:808/hls/371/index.m3u8
+73号[720*576],http://124.238.99.44:808/hls/372/index.m3u8
 MIGU,#genre#
 
 MIGU古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
@@ -390,7 +293,7 @@ RHK32,https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
 
 
 
-HK頻道,#genre#
+港台頻道,#genre#
 翡翠台广东,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
 翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台广东,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
@@ -421,8 +324,22 @@ TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 经典功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-
+TVB18台[1280*720],http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
+港版美亚,http://v3948069e.live.126.net/live/hod300.flv
+港版美亚,http://v3948069e.live.126.net/live/hodtv4003.flv
+美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+凤凰香港,http://124.238.99.44:808/hls/350/index.m3u8
+明珠台,http://124.238.99.44:808/hls/355/index.m3u8
+香港HKS[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰中文台[1920*1080],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯台[1920*1080],http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港台[1920*1080],http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰电影台[785*576],http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+星影卫视[640*368],http://data.3g.yy.com/live/hls/29900720/29900720
+港版美亚[1276*616],http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
 HK外网,#genre#
+明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
+翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=25
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
@@ -449,7 +366,19 @@ Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-台湾外网,#genre#
+美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+龙翔时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
+TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+私人影院,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
+凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
+美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+
+
+港台外网,#genre#
 东森新闻,http://50.7.61.147:30080/Entry/etnews
 HBO,http://50.7.61.148:30080/Entry/hbo
 纬来日本,http://50.7.61.147:30080/Entry/vljp
@@ -500,16 +429,24 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 
-美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-龙翔时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
-东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
-东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
-TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
-私人影院,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
-凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
-凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
-美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+翡翠台[1920*1080],http://host496323.us.ooqr.com/pltv/gz.php?id=67
+靖天電影台[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv061
+靖天映畫[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055
+龍華經典台[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+龍華偶像台[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+港版美亚[1276*616],http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+八大綜合[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+靖洋戲劇[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045
+靖天日本[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
+民視第一[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
+豬哥亮歌廳秀[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
+中天新聞[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
+非凡新聞[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010
+影迷數位電影[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
+Cnex[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
+韓國娛樂[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
+達文西[640*360],http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
+
 🇲🇾马来西亚,#genre#
 
 Astro AOD,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
