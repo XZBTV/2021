@@ -364,7 +364,8 @@ HK頻道,#genre#
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
 凤凰资讯,http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-
+凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
@@ -418,8 +419,6 @@ SET三立台湾,http://50.7.61.148:30080/Entry/settw-
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
 AXN,http://50.7.61.148:30080/Entry/axn
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-民视新闻台,http://luyutv.com/hdtv.m3u8?token=56178326b1285b53&id=3
-
 寰宇新闻台,http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 亚洲旅游台,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
@@ -451,6 +450,12 @@ TV5monde,http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+
+美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+星影卫视,http://data.3g.yy.com/live/hls/29900720/29900720
+龙翔电影台[720*540],http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+东森电影台[720*540],http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+TVB星河粤台[768*576],http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 
 🇲🇾马来西亚,#genre#
 
