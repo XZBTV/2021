@@ -263,17 +263,25 @@ TVBL,https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 经典功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
 TVB18台[1280*720],http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
 港版美亚,http://v3948069e.live.126.net/live/hod300.flv
-港版美亚,http://v3948069e.live.126.net/live/hodtv4003.flv
+港版美亚2,http://v3948069e.live.126.net/live/hodtv4003.flv
 美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-凤凰香港,http://124.238.99.44:808/hls/350/index.m3u8
+
 明珠台,http://124.238.99.44:808/hls/355/index.m3u8
 香港HKS[1024*576],http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文台[1920*1080],http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
-凤凰资讯台[1920*1080],http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-凤凰香港台[1920*1080],http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+
 凤凰电影台[785*576],http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 星影卫视[640*368],http://data.3g.yy.com/live/hls/29900720/29900720
-港版美亚[1276*616],http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+龙翔时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
+东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
+东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
+TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
+天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+私人影院,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
+凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
+
+
 HK外网,#genre#
 明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
 翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=25
@@ -303,16 +311,7 @@ Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-龙翔时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
-东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
-东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
-TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
-私人影院,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
-凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
-凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
-美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+
 
 
 港台外网,#genre#
