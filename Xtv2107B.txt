@@ -3,7 +3,6 @@ X直播电视台 youtube油管 频道
 测试1,#genre#
 
 
-
 新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -15,8 +14,6 @@ CCTV13,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226729/i
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?
 北京新闻,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
-无线新闻,http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 东森新闻,http://50.7.61.147:30080/Entry/etnews
 
@@ -707,58 +704,6 @@ NewTV精品综合,http://117.148.179.40/PLTV/88888888/224/3221229005/index.m3u8
 NewTV精品综合,http://117.148.179.37/PLTV/88888888/224/3221229660/index.m3u8
 NewTV热播精选,http://117.148.179.15/PLTV/88888888/224/3221229062/index.m3u8
 NewTV热播精选,http://117.148.179.37/PLTV/88888888/224/3221229654/index.m3u8
-
-📺IHOT,#genre#
-IHOT爱猎奇,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-IHOT爱娱乐,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-IHOT爱幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
-IHOT爱电竞,http://117.148.179.31/PLTV/88888888/224/3221230029/index.m3u8
-IHOT爱电竞,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-IHOT爱动漫,http://117.148.179.36/PLTV/88888888/224/3221230136/index.m3u8
-IHOT爱动漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-IHOT爱都市,http://117.148.179.13/PLTV/88888888/224/3221230104/index.m3u8
-IHOT爱都市,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
-IHOT爱谍战,http://117.148.179.13/PLTV/88888888/224/3221230092/index.m3u8
-IHOT爱谍战,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-IHOT爱怀旧,http://117.148.179.41/PLTV/88888888/224/3221230049/index.m3u8
-IHOT爱怀旧,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-IHOT爱经典,http://117.148.179.34/PLTV/88888888/224/3221230101/index.m3u8
-IHOT爱经典,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-IHOT爱江湖,http://117.148.179.37/PLTV/88888888/224/3221230074/index.m3u8
-IHOT爱江湖,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-IHOT爱解密,http://117.148.179.37/PLTV/88888888/224/3221230080/index.m3u8
-IHOT爱解密,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
-IHOT爱家庭,http://117.148.179.34/PLTV/88888888/224/3221230118/index.m3u8
-IHOT爱家庭,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-IHOT爱军武,http://117.148.179.37/PLTV/88888888/224/3221230083/index.m3u8
-IHOT爱军武,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
-IHOT爱科学,http://117.148.179.27/PLTV/88888888/224/3221230106/index.m3u8
-IHOT爱科学,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-IHOT爱历史,http://117.148.179.28/PLTV/88888888/224/3221230100/index.m3u8
-IHOT爱历史,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-IHOT爱旅行,http://117.148.179.34/PLTV/88888888/224/3221230052/index.m3u8
-IHOT爱旅行,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-IHOT爱美食,http://117.148.179.39/PLTV/88888888/224/3221230115/index.m3u8
-IHOT爱美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-IHOT爱青春,http://117.148.179.35/PLTV/88888888/224/3221230130/index.m3u8
-IHOT爱青春,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-IHOT爱奇谈,http://117.148.179.31/PLTV/88888888/224/3221230023/index.m3u8
-IHOT爱奇谈,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-IHOT爱赛车,http://117.148.179.36/PLTV/88888888/224/3221230032/index.m3u8
-IHOT爱赛车,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-IHOT爱世界,http://117.148.179.34/PLTV/88888888/224/3221230046/index.m3u8
-IHOT爱世界,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-IHOT爱时尚,http://117.148.179.24/PLTV/88888888/224/3221230109/index.m3u8
-IHOT爱时尚,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
-IHOT爱探索,http://117.148.179.39/PLTV/88888888/224/3221230112/index.m3u8
-IHOT爱探索,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-IHOT爱体育,http://117.148.179.41/PLTV/88888888/224/3221230034/index.m3u8
-IHOT爱体育,http://117.148.179.27/PLTV/88888888/224/3221230103/index.m3u8
-IHOT爱体育,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-IHOT爱玩具,http://117.148.179.31/PLTV/88888888/224/3221230026/index.m3u8
-IHOT爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-IHOT爱悬疑,http://117.148.179.41/PLTV/88888888/224/3221230098/index.m3u8
-IHOT爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
 
 🎵音乐频道,#genre#
 
