@@ -14,11 +14,11 @@ http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 #EXTINF:-1 group-title="香港" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png",无线直播
 http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
-https://www.navchina.cf/IPTV/icable.php?id=37
+https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有线财经资讯台
-https://www.navchina.cf/IPTV/icable.php?id=38
+https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 group-title="香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png",有线直播新闻台
-https://www.navchina.cf/IPTV/icable.php?id=39
+https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 group-title="香港"  tvg-name="TVB Xing He HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png",TVB星河频道HD
 http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",TVBL
