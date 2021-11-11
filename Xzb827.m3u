@@ -1,32 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
+888#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 http://125.227.210.37:18685/VideoInput/play.ts
-#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/Is7Lhe.jpg",卫视洋片
+888#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/Is7Lhe.jpg",卫视洋片
 http://125.227.210.37:18789/VideoInput/play.ts
-#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQwup.png",卫视卡式台
+888#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQwup.png",卫视卡式台
 
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
+888#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
 
-#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQNMt.png",有线电影台
+888#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQNMt.png",有线电影台
 
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
-#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png",FOXMOVIES
 
-#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqbT4.png",淘电影
+888#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png",FOXMOVIES
 
-#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqffO.png",北京4K
+888#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqbT4.png",淘电影
+
+888#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqffO.png",北京4K
 
 #EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/Is7g5e.png",天映电影
 http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2529/5c8866f4b8aa3_1552443124.jpeg",Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",东森电影
+
+888#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",东森电影
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.jpg.cm/2021/10/08/Ivo3pz.png" group-title="电影",龙翔时代
+888#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/10/08/Ivo3pz.png" group-title="电影",龙翔时代
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.jpg.cm/2021/10/08/IvoCau.png" group-title="电影",玮来电影
+888#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/10/08/IvoCau.png" group-title="电影",玮来电影
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
 
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqbT4.png",淘娱乐
