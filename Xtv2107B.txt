@@ -195,7 +195,7 @@ CCTV17 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/322122690
 辽宁卫视 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226767/index.m3u8
 辽宁卫视 SD,http://39.135.129.167/hwottcdn.ln.chinamobile.com/PLTV/-/224/3221226929/index.m3u8
 
-🪐原生解码,#genre#
+🌞原生解码,#genre#
 设置原生解码，
 翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
 翡翠台E,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
@@ -216,7 +216,7 @@ RHK32,https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
 
 
 
-🇭🇰港台頻道,#genre#
+⚙️港台頻道,#genre#
 TVB翡翠,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 TVB翡翠,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 TVB翡翠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -289,7 +289,7 @@ TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 凤凰资讯,http://gxfrg007.8800.org:8282/tsfile/live/1064_1.m3u8
 
-🇲🇴澳门频道,#genre#
+⚙️澳门频道,#genre#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
 澳视葡文,http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
@@ -325,7 +325,7 @@ TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 
-港台外网,#genre#
+⚙️港台外网,#genre#
 明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
 翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=25
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
