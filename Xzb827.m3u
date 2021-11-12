@@ -146,15 +146,15 @@ http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
 
-888#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
-http://125.227.210.37:18685/VideoInput/play.ts
-888#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/Is7Lhe.jpg",卫视洋片
-http://125.227.210.37:18789/VideoInput/play.ts
-888#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQwup.png",卫视卡式台
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png",东森洋片台
 
-888#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/Is7Lhe.jpg",卫视洋片
 
-888#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQNMt.png",有线电影台
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQwup.png",卫视卡式台
+
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png",卫视电影台
+
+#EXTINF:-1 group-title="电影" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQNMt.png",有线电影台
 
 #EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png",HBO
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
@@ -170,17 +170,16 @@ http://50.7.161.82:8278/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 group-title="电影" tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2529/5c8866f4b8aa3_1552443124.jpeg",Celestial Movies
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-888#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",东森电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twdsdy
-888#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/10/08/Ivo3pz.png" group-title="电影",龙翔时代
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twlxdy
-888#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/10/08/IvoCau.png" group-title="电影",玮来电影
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twwldy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",东森电影
+
+#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/10/08/Ivo3pz.png" group-title="电影",龙翔时代
+
+#EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/10/08/IvoCau.png" group-title="电影",玮来电影
 
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqbT4.png",淘娱乐
-http://39.135.238.69:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsqgZw.png",淘萌宠
-http://39.135.238.61:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
@@ -188,11 +187,11 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/14/IsQqyS.png",纯享4K
 http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png",欢笑剧场4K
-http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
+
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/15/Isl4O5.png",LOVE4K
 http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png",冬奥纪实HDR4K
-http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
+
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/15/Islgmt.png",4K花园
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 #EXTINF:-1 group-title="4K高清" tvg-logo="https://s3.jpg.cm/2021/09/15/Islgmt.png",4K花园
@@ -224,12 +223,9 @@ http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" group-title="海外",TV5monde
 http://58.99.33.16:1935/liveedge17/live_157_3.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
-http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
@@ -272,12 +268,11 @@ rtmp://161.202.204.248:1935/sat/hk011
 http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="体育",智林体育台
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg",劲爆体育
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png",魅力足球
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png",五星体育
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",新视觉
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",极速汽车[1920*1080]
