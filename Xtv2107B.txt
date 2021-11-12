@@ -1,8 +1,10 @@
 X直播电视台 youtube油管 频道
 
 🍵测试1,#genre#
-翡翠台,http://iptv5.phoves.com.cn/mytv/mitv.php?id=1
-港版美亚,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
+MTV,http://api.phoves.com.cn/iptv/gudou3.php?id=MTV_1500&/PLTV/hls.smil.m3u8
+DOXTV,http://api.phoves.com.cn/iptv/gudou3.php?id=DOXTV_1500&/PLTV/hls.smil.m3u8
+TVB明珠台,http://api.phoves.com.cn/iptv/gudou3.php?id=xgmingzhu_1500&/PLTV/hls.smil.m3u8
+TVB翡翠台,http://api.phoves.com.cn/iptv/gudou3.php?id=xgfeicui_1500&/PLTV/hls.smil.m3u8
 
 🎤新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
