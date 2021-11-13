@@ -1,68 +1,9 @@
 X直播电视台 youtube油管 频道
 
 🍵测试1,#genre#
-5号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=4
-广东体育,http://nettvpro.live/hls/zjkp.php?id=8
-7号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=6
-10号[1024*576],http://nettvpro.live/hls/zjkp.php?id=9
-6号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=5
-12号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=11
+
+
 明珠台,http://nettvpro.live/hls/zjkp.php?id=12
-11号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=10
-14号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=13
-18号[853*480],http://nettvpro.live/hls/zjkp.php?id=17
-15号[1024*576],http://nettvpro.live/hls/zjkp.php?id=14
-19号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=18
-21号[1024*576],http://nettvpro.live/hls/zjkp.php?id=20
-17号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=16
-22号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=21
-20号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=19
-23号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=22
-26号[1280*720],http://nettvpro.live/hls/zjkp.php?id=25
-24号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=23
-28号[1024*576],http://nettvpro.live/hls/zjkp.php?id=27
-30号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=29
-27号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=26
-32号[785*576],http://nettvpro.live/hls/zjkp.php?id=31
-29号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=28
-35号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=34
-33号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=32
-31号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=30
-37号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=36
-36号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=35
-34号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=33
-39号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=38
-40号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=39
-38号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=37
-43号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=42
-44号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=43
-42号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=41
-41号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=40
-46号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=45
-45号[1024*576],http://nettvpro.live/hls/zjkp.php?id=44
-47号[1024*576],http://nettvpro.live/hls/zjkp.php?id=46
-51号[768*576],http://nettvpro.live/hls/zjkp.php?id=50
-53号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=52
-55号[1280*720],http://nettvpro.live/hls/zjkp.php?id=54
-54号[1280*720],http://nettvpro.live/hls/zjkp.php?id=53
-56号[1024*576],http://nettvpro.live/hls/zjkp.php?id=55
-57号[1920*1440],http://nettvpro.live/hls/zjkp.php?id=56
-65号[1024*576],http://nettvpro.live/hls/zjkp.php?id=64
-71号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=70
-74号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=73
-72号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=71
-73号[768*576],http://nettvpro.live/hls/zjkp.php?id=72
-77号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=76
-75号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=74
-80号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=79
-76号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=75
-82号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=81
-84号[1024*576],http://nettvpro.live/hls/zjkp.php?id=83
-86号[1024*576],http://nettvpro.live/hls/zjkp.php?id=85
-81号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=80
-85号[1024*576],http://nettvpro.live/hls/zjkp.php?id=84
-87号[1024*576],http://nettvpro.live/hls/zjkp.php?id=86
-88号[1920*1080],http://nettvpro.live/hls/zjkp.php?id=87
 
 🎤新闻©频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -323,10 +264,9 @@ TVB明珠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS	
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 
-凤凰资讯2,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰中文3,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰资讯4,http://124.238.99.44:808/hls/349/index.m3u8
-凤凰资讯5,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 
 凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 
@@ -631,9 +571,9 @@ CCTV5+HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
 超级体育,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 超级体育,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
 超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-咪咕视频·PP体育1[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-
-山东体育[1920*1080][1920*1080],http://livealone302.iqilu.com/iqilu/typd.m3u8
+咪咕视频·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+广东体育,http://nettvpro.live/hls/zjkp.php?id=8
+山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
 FOX,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
