@@ -2,7 +2,7 @@ X直播电视台 youtube油管 频道
 
 🍵测试1,#genre#
 无线新闻,https://p2.weizan.cn/1646497941/113158785015619768/live.m3u8
-中天新闻,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
+中天新闻原生,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
 公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
 台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
@@ -213,6 +213,7 @@ CCTV17 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/322122690
 
 🌞原生解码,#genre#
 设置原生解码,原生解码
+中天新闻,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
 翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
 翡翠台E,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
 J2,https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
@@ -228,7 +229,7 @@ ViuTV6,https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
 RHK31,https://cdn-cn.hkdtmb.com/hls/31/index.m3u8
 RHK32,https://cdn-cn.hkdtmb.com/hls/32/index.m3u8
 香港开电视,https://cdn-cn.hkdtmb.com/hls/77/index.m3u8
-
+中天新闻,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 RHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
