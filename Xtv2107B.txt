@@ -1,5 +1,50 @@
 X直播电视台 youtube油管 频道
 
+🍵测试3,#genre#
+翡翠台,http://159.75.123.131/xiaoqi/niushi.php?id=78&p=0
+翡翠台,http://159.75.123.131/xiaoqi/niushi.php?id=78&p=1
+翡翠台,http://159.75.123.131/xiaoqi/niushi.php?id=78&p=2
+凤凰中文台,http://159.75.123.131/xiaoqi/niushi.php?id=100&p=0
+凤凰中文台,http://159.75.123.131/xiaoqi/niushi.php?id=100&p=2
+凤凰香港台,http://159.75.123.131/xiaoqi/niushi.php?id=98&p=0
+凤凰资讯台,http://159.75.123.131/xiaoqi/niushi.php?id=99&p=0
+J2,http://159.75.123.131/xiaoqi/niushi.php?id=74&p=0
+J2,http://159.75.123.131/xiaoqi/niushi.php?id=74&p=1
+J2,http://159.75.123.131/xiaoqi/niushi.php?id=74&p=2
+开电视,http://159.75.123.131/xiaoqi/niushi.php?id=95&p=0
+明珠台,http://159.75.123.131/xiaoqi/niushi.php?id=77&p=0
+明珠台,http://159.75.123.131/xiaoqi/niushi.php?id=77&p=1
+明珠台,http://159.75.123.131/xiaoqi/niushi.php?id=77&p=2
+ViuTV,http://159.75.123.131/xiaoqi/niushi.php?id=94&p=0
+ViuTV,http://159.75.123.131/xiaoqi/niushi.php?id=94&p=1
+无线财经·资讯台,http://159.75.123.131/xiaoqi/niushi.php?id=79&p=0
+无线财经·资讯台,http://159.75.123.131/xiaoqi/niushi.php?id=79&p=1
+无线财经·资讯台,http://159.75.123.131/xiaoqi/niushi.php?id=79&p=3
+无线新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=73&p=0
+无线新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=73&p=1
+无线新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=73&p=3
+有线18台,http://159.75.123.131/xiaoqi/niushi.php?id=59&p=0
+有线18台,http://159.75.123.131/xiaoqi/niushi.php?id=59&p=3
+有线新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=62&p=0
+东森电影,http://159.75.123.131/xiaoqi/niushi.php?id=29&p=0
+东森新闻,http://159.75.123.131/xiaoqi/niushi.php?id=33&p=0
+非凡新闻,http://159.75.123.131/xiaoqi/niushi.php?id=6&p=0
+寰宇新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=85&p=0
+龙翔电影,http://159.75.123.131/xiaoqi/niushi.php?id=14&p=0
+龙翔时代,http://159.75.123.131/xiaoqi/niushi.php?id=13&p=0
+民视新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=5&p=0
+年代新闻,http://159.75.123.131/xiaoqi/niushi.php?id=7&p=0
+三立新闻,http://159.75.123.131/xiaoqi/niushi.php?id=26&p=0
+TVBS新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=38&p=0
+纬来电影,http://159.75.123.131/xiaoqi/niushi.php?id=9&p=0
+纬来体育,http://159.75.123.131/xiaoqi/niushi.php?id=11&p=0
+卫视电影台,http://159.75.123.131/xiaoqi/niushi.php?id=16&p=0
+壹新闻,http://159.75.123.131/xiaoqi/niushi.php?id=34&p=0
+中视新闻,http://159.75.123.131/xiaoqi/niushi.php?id=19&p=0
+中天新闻,http://159.75.123.131/xiaoqi/niushi.php?id=42&p=0
+NBATV,http://159.75.123.131/xiaoqi/niushi.php?id=653&p=0
+
+
 🍵测试2,#genre#
 美食星球,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a
 
