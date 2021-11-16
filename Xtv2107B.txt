@@ -1,48 +1,6 @@
 X直播电视台 youtube油管 频道
 
 🍵测试3,#genre#
-翡翠台,http://159.75.123.131/xiaoqi/niushi.php?id=78&p=0
-翡翠台,http://159.75.123.131/xiaoqi/niushi.php?id=78&p=1
-翡翠台,http://159.75.123.131/xiaoqi/niushi.php?id=78&p=2
-凤凰中文台,http://159.75.123.131/xiaoqi/niushi.php?id=100&p=0
-凤凰中文台,http://159.75.123.131/xiaoqi/niushi.php?id=100&p=2
-凤凰香港台,http://159.75.123.131/xiaoqi/niushi.php?id=98&p=0
-凤凰资讯台,http://159.75.123.131/xiaoqi/niushi.php?id=99&p=0
-J2,http://159.75.123.131/xiaoqi/niushi.php?id=74&p=0
-J2,http://159.75.123.131/xiaoqi/niushi.php?id=74&p=1
-J2,http://159.75.123.131/xiaoqi/niushi.php?id=74&p=2
-开电视,http://159.75.123.131/xiaoqi/niushi.php?id=95&p=0
-明珠台,http://159.75.123.131/xiaoqi/niushi.php?id=77&p=0
-明珠台,http://159.75.123.131/xiaoqi/niushi.php?id=77&p=1
-明珠台,http://159.75.123.131/xiaoqi/niushi.php?id=77&p=2
-ViuTV,http://159.75.123.131/xiaoqi/niushi.php?id=94&p=0
-ViuTV,http://159.75.123.131/xiaoqi/niushi.php?id=94&p=1
-无线财经·资讯台,http://159.75.123.131/xiaoqi/niushi.php?id=79&p=0
-无线财经·资讯台,http://159.75.123.131/xiaoqi/niushi.php?id=79&p=1
-无线财经·资讯台,http://159.75.123.131/xiaoqi/niushi.php?id=79&p=3
-无线新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=73&p=0
-无线新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=73&p=1
-无线新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=73&p=3
-有线18台,http://159.75.123.131/xiaoqi/niushi.php?id=59&p=0
-有线18台,http://159.75.123.131/xiaoqi/niushi.php?id=59&p=3
-有线新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=62&p=0
-东森电影,http://159.75.123.131/xiaoqi/niushi.php?id=29&p=0
-东森新闻,http://159.75.123.131/xiaoqi/niushi.php?id=33&p=0
-非凡新闻,http://159.75.123.131/xiaoqi/niushi.php?id=6&p=0
-寰宇新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=85&p=0
-龙翔电影,http://159.75.123.131/xiaoqi/niushi.php?id=14&p=0
-龙翔时代,http://159.75.123.131/xiaoqi/niushi.php?id=13&p=0
-民视新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=5&p=0
-年代新闻,http://159.75.123.131/xiaoqi/niushi.php?id=7&p=0
-三立新闻,http://159.75.123.131/xiaoqi/niushi.php?id=26&p=0
-TVBS新闻台,http://159.75.123.131/xiaoqi/niushi.php?id=38&p=0
-纬来电影,http://159.75.123.131/xiaoqi/niushi.php?id=9&p=0
-纬来体育,http://159.75.123.131/xiaoqi/niushi.php?id=11&p=0
-卫视电影台,http://159.75.123.131/xiaoqi/niushi.php?id=16&p=0
-壹新闻,http://159.75.123.131/xiaoqi/niushi.php?id=34&p=0
-中视新闻,http://159.75.123.131/xiaoqi/niushi.php?id=19&p=0
-中天新闻,http://159.75.123.131/xiaoqi/niushi.php?id=42&p=0
-NBATV,http://159.75.123.131/xiaoqi/niushi.php?id=653&p=0
 
 
 🍵测试2,#genre#
@@ -112,12 +70,6 @@ HOT(屏蔽),rtmp://45.92.126.226/channel/
 
 MOD桌面,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 
-台视新闻,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
-
-TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
-
-寰宇财经台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
-
 KIX,rtmp://45.88.148.178/channel/60c30db3961593122ebaf8e8
 
 NHK,rtmp://45.88.148.178/channel/60c2f4fb961593122ebaf8d0
@@ -129,12 +81,19 @@ JET综合,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c74
 星卫娱乐台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d3c
 
 DW,rtmp://45.88.148.178/channel/60c2f625961593122ebaf8d6
+凤凰中文,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
+凤凰资讯,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
+凤凰香港,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
 
 公视3,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c3e
+台视新闻,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+台视新闻,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c
+TV5MONDE ASIE,rtmp://45.88.148.178/channel/60c2f5bb961593122ebaf8d4
 
-凤凰中文,rtmp://45.88.148.178/channel/60c2f428961593122ebaf8c9
+寰宇财经台,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d4e
 
-凤凰香港,rtmp://45.88.148.178/channel/60c2f331961593122ebaf8c7
+
+
 
 中视经典,rtmp://45.88.148.178/channel/60c31708961593122ebaf902
 
@@ -144,7 +103,7 @@ Z频道,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d64
 
 靖天欢乐台,rtmp://45.88.148.178/channel/60c343c5961593122ebaf996
 
-无信号,rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d02
+
 
 好消息,rtmp://45.88.148.178/channel/60c31888961593122ebaf912
 
@@ -156,7 +115,7 @@ CNA,rtmp://45.88.148.178/channel/60c2f49c961593122ebaf8cd
 
 光影欧洲,rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de
 
-凤凰资讯,rtmp://45.88.148.178/channel/60c2f46e961593122ebaf8cb
+
 
 私人影院,rtmp://45.88.148.178/channel/610006dcf0618408855f36bd
 
@@ -171,15 +130,6 @@ BBC WORLD NEWS,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d42
 euro news,rtmp://45.92.126.226/channel/61002dbef0618408855f370f 
 
 爱尔达体育1,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cb4
-
-🍵测试1,#genre#
-私人电影,http://27.47.68.187:808/hls/57/index.m3u8
-东森电影,http://27.47.68.187:808/hls/58/index.m3u8
-东森洋片电影,http://27.47.68.187:808/hls/59/index.m3u8
-天映经典电影,http://27.47.68.187:808/hls/62/index.m3u8
-无线新闻,https://p2.weizan.cn/1646497941/113158785015619768/live.m3u8
-中天新闻原生,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
-公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
 台視新聞,rtmp://45.88.148.178/channel/61003bbcf0618408855f374c?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 靖天綜合,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d50?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 靖天日本,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d54?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
@@ -191,6 +141,11 @@ euro news,rtmp://45.92.126.226/channel/61002dbef0618408855f370f
 公視2,rtmp://45.92.126.226/channel/60c31796961593122ebaf908?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 靖天映畫,rtmp://45.92.126.226/channel/60c34395961593122ebaf994?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
 ETtoday綜合台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplghWqWFa%2FRw3tGNF7vys%2FTXdBAnc%2BYbrUpogDq3MZnOL
+🍵测试1,#genre#
+
+中天新闻原生,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
+公视,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
+
 
 
 🎤新闻©频道,#genre#
@@ -482,29 +437,15 @@ TVB18台,http://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
 美亚电影,http://v3948069e.live.126.net/live/hod300.flv
 美亚电影,,http://v3948069e.live.126.net/live/hodtv4003.flv
 美亚电影,http://iptv5.phoves.com.cn/mytv/mitv.php?id=2
-
-C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
 C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/index.m3u8
+
 
 香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 韩国娱乐台,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 凤凰电影台,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 星影卫视,http://data.3g.yy.com/live/hls/29900720/29900720
 
-
-龙翔时代,http://gxfrg007.8800.org:8282/tsfile/live/1048_1.m3u8
-东森电影台,http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
-东森洋片,http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
-TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
-天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
-私人影院,http://gxfrg007.8800.org:8282/tsfile/live/1061_1.m3u8
-
-
-明珠台,http://124.238.99.44:808/hls/355/index.m3u8
-有线18台,http://124.238.99.44:808/hls/356/index.m3u8
-澳门macau,http://124.238.99.44:808/hls/357/index.m3u8
-澳亚卫视,http://124.238.99.44:808/hls/360/index.m3u8
-香港卫视,http://124.238.99.44:808/hls/352/index.m3u8
 
 🛰️澳门频道,#genre#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
