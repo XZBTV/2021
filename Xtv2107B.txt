@@ -201,9 +201,8 @@ CCTV17 SD,http://39.135.129.163/hwottcdn.ln.chinamobile.com/PLTV/-/224/322122690
 
 🌞原生解码,#genre#
 设置原生解码,原生解码
-中天新闻,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/312.m3u8
+翡翠台,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
 翡翠台,https://cdn-cn.hkdtmb.com/hls/81/index.m3u8
-翡翠台E,https://cdn-cn.hkdtmb.com/hls/81b/index.m3u8
 J2,https://cdn-cn.hkdtmb.com/hls/82/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 明珠台,https://cdn-cn.hkdtmb.com/hls/84/index.m3u8
@@ -411,7 +410,7 @@ MOD桌面,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d3a
 港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8
 国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 
-🚀香港外网,#genre#
+🚀港台外网,#genre#
 明珠台,http://host496323.us.ooqr.com/pltv/gz.php?id=26
 翡翠台,http://host496323.us.ooqr.com/pltv/gz.php?id=25
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
@@ -439,8 +438,6 @@ Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-🚀台湾外网,#genre#
 
 中视,http://50.7.61.148:30080/Entry/ctv
 台视,http://50.7.61.148:30080/Entry/ttv
