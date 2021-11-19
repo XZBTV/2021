@@ -245,8 +245,6 @@ TVB明珠,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 TVB明珠,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
 TVB明珠,http://nettvpro.live/hls/zjkp.php?id=12
 
-无线新闻,https://p2.weizan.cn/1646497941/113158785015619768/live.m3u8
-
 J2,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 TVB明珠,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
